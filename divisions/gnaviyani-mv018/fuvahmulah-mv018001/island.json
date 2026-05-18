@@ -1,0 +1,45 @@
+{
+  "id": "MV018001",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފުވައްމުލައް",
+    "en": "Fuvahmulah",
+    "slug": "fuvahmulah-mv018001"
+  },
+  "code": {
+    "id": "MV018001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV018",
+    "level": 1,
+    "name": {
+      "local": "ފުވައްމުލައް",
+      "en": "Gnaviyani",
+      "slug": "gnaviyani-mv018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV018",
+      "level": 1,
+      "name": {
+        "local": "ފުވައްމުލައް",
+        "en": "Gnaviyani",
+        "slug": "gnaviyani-mv018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.294",
+    "lon": "73.423"
+  },
+  "metadata": {},
+  "source": {}
+}

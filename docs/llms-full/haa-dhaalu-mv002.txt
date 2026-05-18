@@ -1,0 +1,189 @@
+# Haa Dhaalu — Maldives Administrative Divisions
+
+> 36 islands
+> Code: MV002
+> Coordinates: 6.653, 72.979
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### ދިއްޕަރުފުށި (Dhipparufushi)
+
+Code: MV002018, Coordinates: 6.319, 72.641
+
+
+### ފަރިދޫ (Faridhoo)
+
+Code: MV002001, Coordinates: 6.785, 73.054
+
+
+### ފެންބޯހުރާ (Fenboahuraa)
+
+Code: MV002019, Coordinates: 6.397, 72.694
+
+
+### ފިނޭ (Finey)
+
+Code: MV002004, Coordinates: 6.746, 73.053
+
+
+### ހަނިމާދޫ(ހދ. އަތޮޅު) (Hanimaadhoo)
+
+Code: MV002003, Coordinates: 6.751, 73.172
+
+
+### ހިރިމަރަދޫ (Hirimaradhoo)
+
+Code: MV002006, Coordinates: 6.725, 73.024
+
+
+### ހިރިނައިދޫ (Hirinaidhoo)
+
+Code: MV002020, Coordinates: 6.702, 72.948
+
+
+### ހޮނޑާފުށި (Hon&#39;daafushi)
+
+Code: MV002021, Coordinates: 6.779, 73.121
+
+
+### ހޮނޑައިދޫ (Hon&#39;daidhoo)
+
+Code: MV002002, Coordinates: 6.77, 73.088
+
+
+### އިންނަފުށި (Innafushi)
+
+Code: MV002022, Coordinates: 6.409, 72.645
+
+
+### ކަނަމަނަ (Kanamana)
+
+Code: MV002023, Coordinates: 6.705, 72.9
+
+
+### ކައްޓަލަފުށި (Kattalafushi)
+
+Code: MV002024, Coordinates: 6.566, 72.983
+
+
+### ކޭލަކުނު (Keylakunu)
+
+Code: MV002025, Coordinates: 6.603, 73.009
+
+
+### ކުޑަފަރުފަސްގަނޑު (Kudafarufasgandu)
+
+Code: MV002026, Coordinates: 6.712, 72.925
+
+
+### ކުޑަމުރައިދޫ (Kudamuraidhoo)
+
+Code: MV002027, Coordinates: 6.643, 72.92
+
+
+### ކުޅުދުއްފުށި (Kulhudhuffushi)
+
+Code: MV002012, Coordinates: 6.623, 73.069
+
+
+### ކުމުންދޫ (Kumundhoo)
+
+Code: MV002013, Coordinates: 6.571, 73.053
+
+
+### ކުނބުރުދޫ (Kun&#39;burudhoo)
+
+Code: MV002011, Coordinates: 6.658, 73.027
+
+
+### ކުރެދިގަނޑު (Kuredhigan&#39;du)
+
+Code: MV002028, Coordinates: 6.679, 73.105
+
+
+### Kurin&#39;bee
+
+Code: MV002010, Coordinates: 6.666, 72.997
+
+
+### LD1207
+
+Code: MV002029, Coordinates: 6.649, 72.918
+
+
+### LD1510
+
+Code: MV002030, Coordinates: 6.7, 73.114
+
+
+### މާވައިދޫ (Maavaidhoo)
+
+Code: MV002016, Coordinates: 6.515, 73.054
+
+
+### މަކުނުދޫ (Makunudhoo)
+
+Code: MV002017, Coordinates: 6.409, 72.705
+
+
+### މުއިރި (Muiri)
+
+Code: MV002031, Coordinates: 6.658, 72.936
+
+
+### ނާގޯށި (Naagoashi)
+
+Code: MV002032, Coordinates: 6.67, 72.897
+
+
+### ނައިވާދޫ (Naivaadhoo)
+
+Code: MV002005, Coordinates: 6.747, 72.935
+
+
+### ނެއްލައިދޫ (Nellaidhoo)
+
+Code: MV002008, Coordinates: 6.715, 72.947
+
+
+### ނޭކުރެންދޫ (Neykurendhoo)
+
+Code: MV002014, Coordinates: 6.543, 72.98
+
+
+### Nolhivaramu
+
+Code: MV002009, Coordinates: 6.662, 73.082
+
+
+### ނޮޅިވަރަންފަރު (Nolhivaranfaru)
+
+Code: MV002007, Coordinates: 6.693, 73.121
+
+
+### ރުއްފުށި (Ruffushi)
+
+Code: MV002033, Coordinates: 6.759, 72.939
+
+
+### ތީފަރިދޫ (Theefaridhoo)
+
+Code: MV002034, Coordinates: 6.74, 73.034
+
+
+### ވައިކަރަދޫ (Vaikaradhoo)
+
+Code: MV002015, Coordinates: 6.55, 72.953
+
+
+### ވައިކަރަމުރައިދޫ (Vaikaramuraidhoo)
+
+Code: MV002035, Coordinates: 6.541, 72.901
+
+
+### ވެލިގަނޑު (Veligan&#39;du)
+
+Code: MV002036, Coordinates: 6.754, 72.938
+
+

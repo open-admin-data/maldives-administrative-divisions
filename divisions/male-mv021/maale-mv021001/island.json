@@ -1,0 +1,45 @@
+{
+  "id": "MV021001",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "Maale",
+    "en": "Maale",
+    "slug": "maale-mv021001"
+  },
+  "code": {
+    "id": "MV021001",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV021",
+    "level": 1,
+    "name": {
+      "local": "މާލެ ސިޓީ",
+      "en": "Male",
+      "slug": "male-mv021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV021",
+      "level": 1,
+      "name": {
+        "local": "މާލެ ސިޓީ",
+        "en": "Male",
+        "slug": "male-mv021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.175",
+    "lon": "73.51"
+  },
+  "metadata": {},
+  "source": {}
+}

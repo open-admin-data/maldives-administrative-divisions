@@ -1,0 +1,45 @@
+{
+  "id": "MV010011",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފޮއްތެޔޮބޮޑުފުށި",
+    "en": "Fohtheyobodufushi",
+    "slug": "fohtheyobodufushi-mv010011"
+  },
+  "code": {
+    "id": "MV010011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.456",
+    "lon": "73.758"
+  },
+  "metadata": {},
+  "source": {}
+}

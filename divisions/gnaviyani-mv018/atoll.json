@@ -1,0 +1,29 @@
+{
+  "id": "MV018",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ފުވައްމުލައް",
+    "en": "Gnaviyani",
+    "slug": "gnaviyani-mv018"
+  },
+  "code": {
+    "id": "MV018",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.303",
+    "lon": "73.431"
+  },
+  "metadata": {},
+  "source": {}
+}

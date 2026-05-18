@@ -1,0 +1,45 @@
+{
+  "id": "MV011026",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1647",
+    "en": "LD1647",
+    "slug": "ld1647-mv011026"
+  },
+  "code": {
+    "id": "MV011026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV011",
+    "level": 1,
+    "name": {
+      "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+      "en": "Faafu",
+      "slug": "faafu-mv011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV011",
+      "level": 1,
+      "name": {
+        "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+        "en": "Faafu",
+        "slug": "faafu-mv011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.221",
+    "lon": "73.032"
+  },
+  "metadata": {},
+  "source": {}
+}

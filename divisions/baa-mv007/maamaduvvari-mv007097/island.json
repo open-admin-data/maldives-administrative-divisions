@@ -1,0 +1,45 @@
+{
+  "id": "MV007097",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މާމަޑުއްވަރި",
+    "en": "Maamaduvvari",
+    "slug": "maamaduvvari-mv007097"
+  },
+  "code": {
+    "id": "MV007097",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.01",
+    "lon": "72.943"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV010010",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދިއްގިރި",
+    "en": "Dhiggiri",
+    "slug": "dhiggiri-mv010010"
+  },
+  "code": {
+    "id": "MV010010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.645",
+    "lon": "73.488"
+  },
+  "metadata": {},
+  "source": {}
+}

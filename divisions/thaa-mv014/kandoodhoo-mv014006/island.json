@@ -1,0 +1,45 @@
+{
+  "id": "MV014006",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކަނޑޫދޫ",
+    "en": "Kan'doodhoo",
+    "slug": "kandoodhoo-mv014006"
+  },
+  "code": {
+    "id": "MV014006",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.322",
+    "lon": "72.917"
+  },
+  "metadata": {},
+  "source": {}
+}

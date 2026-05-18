@@ -1,0 +1,45 @@
+{
+  "id": "MV010044",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1623",
+    "en": "LD1623",
+    "slug": "ld1623-mv010044"
+  },
+  "code": {
+    "id": "MV010044",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.508",
+    "lon": "73.284"
+  },
+  "metadata": {},
+  "source": {}
+}

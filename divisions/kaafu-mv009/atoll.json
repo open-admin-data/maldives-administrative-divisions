@@ -1,0 +1,29 @@
+{
+  "id": "MV009",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "މާލެއަތޮޅު",
+    "en": "Kaafu",
+    "slug": "kaafu-mv009"
+  },
+  "code": {
+    "id": "MV009",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 195
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.437",
+    "lon": "73.536"
+  },
+  "metadata": {},
+  "source": {}
+}

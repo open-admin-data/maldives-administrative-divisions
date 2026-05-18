@@ -1,0 +1,384 @@
+# Thaa — Maldives Administrative Divisions
+
+> 75 islands
+> Code: MV014
+> Coordinates: 2.362, 73.134
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### ބޮޑުފިނޮޅު (Bodufinolhu)
+
+Code: MV014014, Coordinates: 2.316, 73.305
+
+
+### ބޮޑުރެހާ (Bodurehaa)
+
+Code: MV014015, Coordinates: 2.268, 73.229
+
+
+### Burunee
+
+Code: MV014001, Coordinates: 2.559, 73.106
+
+
+### ދިއްފުށި (Dhiffushi)
+
+Code: MV014016, Coordinates: 2.515, 73.232
+
+
+### ދިޔަމިގިލި (Dhiyamigili)
+
+Code: MV014004, Coordinates: 2.34, 73.338
+
+
+### ދޮނަންފުށި (Dhonanfushi)
+
+Code: MV014017, Coordinates: 2.49, 73.315
+
+
+### ދުރުރެހާ (Dhururehaa)
+
+Code: MV014018, Coordinates: 2.169, 73.012
+
+
+### އެކުރުއްފުށި (Ekuruffushi)
+
+Code: MV014019, Coordinates: 2.266, 73.227
+
+
+### އެލާ (Elaa)
+
+Code: MV014020, Coordinates: 2.173, 73.08
+
+
+### ފެންފުށި (Fenfushi)
+
+Code: MV014021, Coordinates: 2.292, 73.27
+
+
+### ފެންމީރުފުށި (Fenmeerufushi)
+
+Code: MV014022, Coordinates: 2.271, 73.234
+
+
+### ފޮންދޫ (Fondhoo)
+
+Code: MV014023, Coordinates: 2.315, 72.983
+
+
+### ފޮނިދާނި (Fonidhaani)
+
+Code: MV014024, Coordinates: 2.301, 73.285
+
+
+### ފުނައްޑު (Funaddu)
+
+Code: MV014025, Coordinates: 2.198, 73.129
+
+
+### ފުށި (Fushi)
+
+Code: MV014026, Coordinates: 2.193, 72.969
+
+
+### ގާދިއްފުށި (Gaadhiffushi)
+
+Code: MV014009, Coordinates: 2.253, 73.213
+
+
+### ގާލީ (Gaalee)
+
+Code: MV014027, Coordinates: 2.547, 73.155
+
+
+### ގާތުރެހާ (Gaathurehaa)
+
+Code: MV014028, Coordinates: 2.17, 73.016
+
+
+### ގުރައިދޫ (Guraidhoo)
+
+Code: MV014005, Coordinates: 2.322, 73.317
+
+
+### ހަތިފުށި (Hathifushi)
+
+Code: MV014029, Coordinates: 2.287, 73.263
+
+
+### ހިކަނދިޅޮހި (Hikan&#39;dhilhohi)
+
+Code: MV014030, Coordinates: 2.52, 73.227
+
+
+### ހިރިލަންދޫ (Hirilandhoo)
+
+Code: MV014008, Coordinates: 2.27, 72.932
+
+
+### ހިރިޔަންފުށި (Hiriyanfushi)
+
+Code: MV014031, Coordinates: 2.211, 73.15
+
+
+### ހޮނޑެލިފުށި (Hon&#39;delifushi)
+
+Code: MV014032, Coordinates: 2.495, 73.313
+
+
+### ހުޅިޔަންފުށި (Hulhiyanfushi)
+
+Code: MV014033, Coordinates: 2.259, 73.218
+
+
+### ކާއްޑޫ (Kaaddoo)
+
+Code: MV014034, Coordinates: 2.282, 73.254
+
+
+### ކަފިދޫ (Kafidhoo)
+
+Code: MV014035, Coordinates: 2.327, 72.962
+
+
+### ކަކޮޅަސް (Kakolhas)
+
+Code: MV014036, Coordinates: 2.316, 72.944
+
+
+### ކަޅުދޭފުށި (Kalhudheyfushi)
+
+Code: MV014037, Coordinates: 2.295, 73.276
+
+
+### ކަޅުފަހަލަފުށި (Kalhufahalafushi)
+
+Code: MV014038, Coordinates: 2.412, 73.36
+
+
+### ކަނޑޫދޫ (Kan&#39;doodhoo)
+
+Code: MV014006, Coordinates: 2.322, 72.917
+
+
+### ކަނޑުފުށި (Kan&#39;dufushi)
+
+Code: MV014039, Coordinates: 2.531, 72.988
+
+
+### ކަނި (Kani)
+
+Code: MV014040, Coordinates: 2.19, 72.974
+
+
+### ކަނިމީދޫ (Kanimeedhoo)
+
+Code: MV014041, Coordinates: 2.196, 73.111
+
+
+### ކިނބިދޫ (Kin&#39;bidhoo)
+
+Code: MV014012, Coordinates: 2.168, 73.065
+
+
+### ކޮލަފުށި (Kolafushi)
+
+Code: MV014042, Coordinates: 2.264, 73.224
+
+
+### ކޮޅުފުށި (Kolhufushi)
+
+Code: MV014043, Coordinates: 2.365, 73.363
+
+
+### ކުޑަދޫ (Kudadhoo)
+
+Code: MV014044, Coordinates: 2.309, 72.952
+
+
+### ކުޑަކާއްޑޫ (Kudakaaddoo)
+
+Code: MV014045, Coordinates: 2.285, 73.259
+
+
+### ކުޑަކިނބިދޫ (Kudakin&#39;bidhoo)
+
+Code: MV014046, Coordinates: 2.165, 73.063
+
+
+### ކުރަނދުވަރު (Kuran&#39;dhuvaru)
+
+Code: MV014047, Coordinates: 2.539, 73.176
+
+
+### ކުރެދިފުށި (Kuredhifushi)
+
+Code: MV014048, Coordinates: 2.168, 73.034
+
+
+### LD0005
+
+Code: MV014049, Coordinates: 2.17, 73.014
+
+
+### LD1073
+
+Code: MV014050, Coordinates: 2.549, 73.157
+
+
+### LD1419
+
+Code: MV014051, Coordinates: 2.282, 73.255
+
+
+### LD1656
+
+Code: MV014052, Coordinates: 2.313, 73.297
+
+
+### LD1657
+
+Code: MV014053, Coordinates: 2.296, 73.275
+
+
+### LD1658
+
+Code: MV014054, Coordinates: 2.177, 73.068
+
+
+### LD1659
+
+Code: MV014055, Coordinates: 2.165, 73.048
+
+
+### LD1660
+
+Code: MV014056, Coordinates: 2.268, 72.939
+
+
+### LD1661
+
+Code: MV014057, Coordinates: 2.289, 72.952
+
+
+### LD1662
+
+Code: MV014058, Coordinates: 2.356, 73.35
+
+
+### LD1663
+
+Code: MV014059, Coordinates: 2.355, 73.35
+
+
+### LD1664
+
+Code: MV014060, Coordinates: 2.191, 73.09
+
+
+### LD1665
+
+Code: MV014061, Coordinates: 2.513, 73.236
+
+
+### ޅަވައްޑޫ (Lhavaddoo)
+
+Code: MV014062, Coordinates: 2.306, 73.291
+
+
+### މާގުޅި (Maagulhi)
+
+Code: MV014063, Coordinates: 2.538, 73.18
+
+
+### މާލެފުށި (Maalefushi)
+
+Code: MV014064, Coordinates: 2.311, 73.299
+
+
+### މަޑިފުށި (Madifushi)
+
+Code: MV014003, Coordinates: 2.357, 73.356
+
+
+### މަތިދޫ (Mathidhoo)
+
+Code: MV014065, Coordinates: 2.347, 73.343
+
+
+### މެދަފުށި (Medhafushi)
+
+Code: MV014066, Coordinates: 2.343, 73.341
+
+
+### އޮޅުދިޔަފުށި (Olhudhiyafushi)
+
+Code: MV014067, Coordinates: 2.272, 73.236
+
+
+### އޮޅުފުށި (Olhufushi)
+
+Code: MV014068, Coordinates: 2.366, 72.909
+
+
+### އޮޅުފުށިފިނޮޅު (Olhufushifinolhu)
+
+Code: MV014069, Coordinates: 2.372, 72.908
+
+
+### އޮޅުގިރި (Olhugiri)
+
+Code: MV014070, Coordinates: 2.506, 73.256
+
+
+### އޮމަދޫ (Omadhoo)
+
+Code: MV014013, Coordinates: 2.167, 73.024
+
+
+### ރިހާމާފުށި (Rihaamaafushi)
+
+Code: MV014071, Coordinates: 2.29, 73.267
+
+
+### ރުއްތިބިރަށް (Ruhthibirah)
+
+Code: MV014072, Coordinates: 2.169, 73.054
+
+
+### ތިމަރަފުށި (Thimarafushi)
+
+Code: MV014010, Coordinates: 2.21, 73.149
+
+
+### އުފުރިޔާ (Ufuriyaa)
+
+Code: MV014073, Coordinates: 2.362, 73.362
+
+
+### އުސްފުށި (Usfushi)
+
+Code: MV014074, Coordinates: 2.247, 73.205
+
+
+### ވަންބަދި (Vanbadhi)
+
+Code: MV014075, Coordinates: 2.187, 72.975
+
+
+### ވަންދޫ (Vandhoo)
+
+Code: MV014007, Coordinates: 2.292, 72.942
+
+
+### ވޭމަންޑޫ (Veymandoo)
+
+Code: MV014011, Coordinates: 2.187, 73.095
+
+
+### ވިލުފުށި (Vilufushi)
+
+Code: MV014002, Coordinates: 2.503, 73.309
+
+

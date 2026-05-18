@@ -1,0 +1,29 @@
+{
+  "id": "MV016",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+    "en": "Gaafu Alifu",
+    "slug": "gaafu-alifu-mv016"
+  },
+  "code": {
+    "id": "MV016",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 104
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.634",
+    "lon": "73.282"
+  },
+  "metadata": {},
+  "source": {}
+}

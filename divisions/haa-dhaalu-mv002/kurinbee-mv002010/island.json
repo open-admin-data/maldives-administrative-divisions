@@ -1,0 +1,45 @@
+{
+  "id": "MV002010",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "Kurin'bee",
+    "en": "Kurin'bee",
+    "slug": "kurinbee-mv002010"
+  },
+  "code": {
+    "id": "MV002010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV002",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+      "en": "Haa Dhaalu",
+      "slug": "haa-dhaalu-mv002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.666",
+    "lon": "72.997"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV010014",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުޑަމޮހޮރާ",
+    "en": "Kudamohoraa",
+    "slug": "kudamohoraa-mv010014"
+  },
+  "code": {
+    "id": "MV010014",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.342",
+    "lon": "73.511"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV007067",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1229",
+    "en": "LD1229",
+    "slug": "ld1229-mv007067"
+  },
+  "code": {
+    "id": "MV007067",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.284",
+    "lon": "73.096"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV006004",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އަނގޮޅިތީމު",
+    "en": "An'golhitheemu",
+    "slug": "angolhitheemu-mv006004"
+  },
+  "code": {
+    "id": "MV006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV006",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+      "en": "Raa",
+      "slug": "raa-mv006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV006",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+        "en": "Raa",
+        "slug": "raa-mv006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.793",
+    "lon": "73.006"
+  },
+  "metadata": {},
+  "source": {}
+}

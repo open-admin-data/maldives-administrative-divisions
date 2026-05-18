@@ -1,0 +1,45 @@
+{
+  "id": "MV002017",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މަކުނުދޫ",
+    "en": "Makunudhoo",
+    "slug": "makunudhoo-mv002017"
+  },
+  "code": {
+    "id": "MV002017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV002",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+      "en": "Haa Dhaalu",
+      "slug": "haa-dhaalu-mv002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.409",
+    "lon": "72.705"
+  },
+  "metadata": {},
+  "source": {}
+}

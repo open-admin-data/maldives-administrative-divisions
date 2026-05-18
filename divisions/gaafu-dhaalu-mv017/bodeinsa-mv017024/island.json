@@ -1,0 +1,45 @@
+{
+  "id": "MV017024",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޮޑެއިންސަ",
+    "en": "Bodeinsa",
+    "slug": "bodeinsa-mv017024"
+  },
+  "code": {
+    "id": "MV017024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV017",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+      "en": "Gaafu Dhaalu",
+      "slug": "gaafu-dhaalu-mv017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV017",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+        "en": "Gaafu Dhaalu",
+        "slug": "gaafu-dhaalu-mv017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.239",
+    "lon": "73.12"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV004026",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފަރުމުލި",
+    "en": "Farumuli",
+    "slug": "farumuli-mv004026"
+  },
+  "code": {
+    "id": "MV004026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV004",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+      "en": "Noonu",
+      "slug": "noonu-mv004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV004",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+        "en": "Noonu",
+        "slug": "noonu-mv004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.865",
+    "lon": "73.475"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,859 @@
+# Gaafu Dhaalu — Maldives Administrative Divisions
+
+> 170 islands
+> Code: MV017
+> Coordinates: 0.379, 73.233
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އާކިރަހުއްޓާ (Aakirahuttaa)
+
+Code: MV017014, Coordinates: 0.264, 73.093
+
+
+### އާކިރަހުއްޓާ (Aakirahuttaa)
+
+Code: MV017015, Coordinates: 0.231, 73.128
+
+
+### އަންހެނެރެހާ (Anhenerehaa)
+
+Code: MV017016, Coordinates: 0.402, 73.005
+
+
+### އަތިހުއްޓާ (Athihuttaa)
+
+Code: MV017017, Coordinates: 0.28, 73.063
+
+
+### ބަޑެފޮޑިޔާ (Badefodiyaa)
+
+Code: MV017018, Coordinates: 0.281, 73.06
+
+
+### ބައުޅެގައްލާ (Baulhegalla)
+
+Code: MV017019, Coordinates: 0.495, 73.173
+
+
+### ބީރާހުއްޓާ (Beeraahuttaa)
+
+Code: MV017020, Coordinates: 0.28, 73.061
+
+
+### ބޮޑެހުއްޓާ (Bodehuttaa)
+
+Code: MV017021, Coordinates: 0.261, 73.345
+
+
+### ބޮޑެހުއްޓާ (Bodehuttaa)
+
+Code: MV017022, Coordinates: 0.195, 73.2
+
+
+### ބޮޑެހުއްޓާ (Bodehuttaa)
+
+Code: MV017023, Coordinates: 0.299, 73.041
+
+
+### ބޮޑެއިންސަ (Bodeinsa)
+
+Code: MV017024, Coordinates: 0.239, 73.12
+
+
+### ބޮޑެރެހާ (Boderehaa)
+
+Code: MV017025, Coordinates: 0.386, 73.013
+
+
+### ބޮލިމަތައިދޫ (Bolimathaidhoo)
+
+Code: MV017026, Coordinates: 0.233, 73.126
+
+
+### ބޮލިމަތައިދުއާ (Bolimathaidhua)
+
+Code: MV017027, Coordinates: 0.31, 73.025
+
+
+### ދަޓެކަރުނަހުއްޓާ (Dhatekarunahuttaa)
+
+Code: MV017028, Coordinates: 0.397, 73.008
+
+
+### ދަޓެމުލައިދުއާ (Dhatemulaidhua)
+
+Code: MV017029, Coordinates: 0.31, 73.027
+
+
+### ދަތައިދުއާ (Dhathaidhuaa)
+
+Code: MV017030, Coordinates: 0.237, 73.122
+
+
+### ދެކާންބަ (Dhekaamba)
+
+Code: MV017031, Coordinates: 0.384, 73.016
+
+
+### ދެރުކެރެހާ (Dherukerehaa)
+
+Code: MV017032, Coordinates: 0.249, 73.108
+
+
+### ދިގެލާބަދުވާ (Dhigelaabadhuvaa)
+
+Code: MV017033, Coordinates: 0.214, 73.154
+
+
+### ދިގުރެހާ (Dhigurehaa)
+
+Code: MV017034, Coordinates: 0.421, 73.005
+
+
+### ދިންމަނާ (Dhinmanaa)
+
+Code: MV017035, Coordinates: 0.45, 72.998
+
+
+### ދިޔަނެގިލި (Dhiyanegili)
+
+Code: MV017036, Coordinates: 0.302, 73.029
+
+
+### ދިޔަނިގިއްލާ (Dhiyanigillaa)
+
+Code: MV017037, Coordinates: 0.256, 73.101
+
+
+### ދޫނިރެހާ (Dhoonirehaa)
+
+Code: MV017009, Coordinates: 0.192, 73.202
+
+
+### ދޫނިރެހާ (Dhoonirehaa)
+
+Code: MV017038, Coordinates: 0.269, 73.084
+
+
+### ދޫނިރެހާ (Dhoonirehaa)
+
+Code: MV017039, Coordinates: 0.325, 73.494
+
+
+### އެހިވަކާ (Ehivakaa)
+
+Code: MV017040, Coordinates: 0.287, 73.054
+
+
+### އެކެލޮންޑާ (Ekelondaa)
+
+Code: MV017041, Coordinates: 0.208, 73.175
+
+
+### އެކުރުކެރަޓާ (Ekurukerataa)
+
+Code: MV017042, Coordinates: 0.239, 73.119
+
+
+### ފާހުއްޓާ (Faahuttaa)
+
+Code: MV017043, Coordinates: 0.247, 73.11
+
+
+### ފާނެހުއްޓާ (Faanehuttaa)
+
+Code: MV017044, Coordinates: 0.3, 73.404
+
+
+### ފާތިޔެހުއްޓާ (Faathiyehuttaa)
+
+Code: MV017045, Coordinates: 0.194, 73.214
+
+
+### ފަރެދޫ (Faredhoo)
+
+Code: MV017046, Coordinates: 0.401, 73.005
+
+
+### ފަރެހަލެހުއްޓާ (Farehalehuttaa)
+
+Code: MV017047, Coordinates: 0.341, 73.026
+
+
+### ފަރެހުޅެއްދޫ (Farehulhehdhoo)
+
+Code: MV017048, Coordinates: 0.328, 73.497
+
+
+### ފަރެސްމާތޮޑާ (Faresmaathodaa)
+
+Code: MV017008, Coordinates: 0.199, 73.19
+
+
+### ފަރުކޮޅުހުއްޓާ (Farukolhuhuttaa)
+
+Code: MV017049, Coordinates: 0.196, 73.226
+
+
+### ފަޓެފަންދޫ (Fatefandhoo)
+
+Code: MV017050, Coordinates: 0.306, 73.027
+
+
+### ފެމުނައިދޫ (Femunaidhoo)
+
+Code: MV017051, Coordinates: 0.244, 73.114
+
+
+### ފެނެވެނެހުއްޓާ (Fenevenehuttaa)
+
+Code: MV017052, Coordinates: 0.267, 73.088
+
+
+### ފެރޭތަވިލިނގިލި (Fereythavilin&#39;gili)
+
+Code: MV017053, Coordinates: 0.372, 73.024
+
+
+### ފިލާރަޓާ (Filaarataa)
+
+Code: MV017054, Coordinates: 0.3, 73.039
+
+
+### Fiyoari
+
+Code: MV017007, Coordinates: 0.221, 73.137
+
+
+### ފޮނެހިގިއްލާ (Fonehigillaa)
+
+Code: MV017055, Coordinates: 0.284, 73.06
+
+
+### Gahdhoo
+
+Code: MV017004, Coordinates: 0.29, 73.458
+
+
+### ގަހެވެލެގަލާ (Gahevelegalaa)
+
+Code: MV017056, Coordinates: 0.358, 73.32
+
+
+### ގަން (Gan)
+
+Code: MV017057, Coordinates: 0.275, 73.431
+
+
+### ގަޒީރާ (Gazeeraa)
+
+Code: MV017058, Coordinates: 0.267, 73.376
+
+
+### ގޮޅާއްލާ (Golhaallaa)
+
+Code: MV017059, Coordinates: 0.321, 73.487
+
+
+### ގޮށި (Goshi)
+
+Code: MV017060, Coordinates: 0.511, 73.148
+
+
+### ހާދޫ (Haadhoo)
+
+Code: MV017061, Coordinates: 0.449, 72.998
+
+
+### ހާދުއާ (Haadhuaa)
+
+Code: MV017062, Coordinates: 0.239, 73.122
+
+
+### ހަޑަހަހުއްޓާ (Hadahahuttaa)
+
+Code: MV017063, Coordinates: 0.261, 73.096
+
+
+### ހަކަންޑޫ (Hakandoo)
+
+Code: MV017064, Coordinates: 0.3, 73.032
+
+
+### ހަނޑައިދޫ (Han&#39;daidhoo)
+
+Code: MV017065, Coordinates: 0.194, 73.192
+
+
+### ހަނދެބަލަނެރެހާ (Han&#39;dhebalanerehaa)
+
+Code: MV017066, Coordinates: 0.392, 73.012
+
+
+### ހަވެއްޔެރަޓާ (Haveyyerataa)
+
+Code: MV017067, Coordinates: 0.298, 73.036
+
+
+### ހަވެއްޔެރަޓާ (Haveyyerataa)
+
+Code: MV017068, Coordinates: 0.284, 73.058
+
+
+### ހަވޮއްޑާ (Havoddaa)
+
+Code: MV017069, Coordinates: 0.54, 73.095
+
+
+### ހަވޮޑިގަލާ (Havodigalaa)
+
+Code: MV017070, Coordinates: 0.523, 73.074
+
+
+### ހެވާހުޅުދޫ (Hevaahulhudhoo)
+
+Code: MV017071, Coordinates: 0.301, 73.031
+
+
+### ހިޔަނިގިލިހުއްޓާ (Hiyanigilihuttaa)
+
+Code: MV017072, Coordinates: 0.262, 73.095
+
+
+### Hoadehdhoo
+
+Code: MV017002, Coordinates: 0.444, 73.004
+
+
+### ހޫތޮޑެޔާ (Hoothodeyaa)
+
+Code: MV017073, Coordinates: 0.203, 73.182
+
+
+### ހުޅެއްދޫ (Hulhehdhoo)
+
+Code: MV017074, Coordinates: 0.401, 73.007
+
+
+### ހުޅުވާރުލާ (Hulhuvaarulaa)
+
+Code: MV017075, Coordinates: 0.326, 73.485
+
+
+### ހުނިގޮޑެރެހާ (Hunigoderehaa)
+
+Code: MV017076, Coordinates: 0.435, 73.002
+
+
+### ހުއްޓާ (Huttaa)
+
+Code: MV017077, Coordinates: 0.287, 73.057
+
+
+### އިސްދުހުއްޓާ (Isdhuhuttaa)
+
+Code: MV017078, Coordinates: 0.194, 73.219
+
+
+### ކާޑެއްދޫ (Kaadehdhoo)
+
+Code: MV017013, Coordinates: 0.488, 72.993
+
+
+### ކާފަރަޓާ (Kaafarataa)
+
+Code: MV017079, Coordinates: 0.308, 73.025
+
+
+### ކާޅެހުއްޓާ (Kaalhehuttaa)
+
+Code: MV017080, Coordinates: 0.227, 73.131
+
+
+### ކާށިދޫ (Kaashidhoo)
+
+Code: MV017081, Coordinates: 0.335, 73.437
+
+
+### ކަޑެލެރަޓާ (Kadelerataa)
+
+Code: MV017082, Coordinates: 0.313, 73.025
+
+
+### ކަޑެވާރެހާ (Kadevaarehaa)
+
+Code: MV017083, Coordinates: 0.428, 73.004
+
+
+### ކަދެފަލަ (Kadhefala)
+
+Code: MV017084, Coordinates: 0.368, 73.025
+
+
+### ކަފެނަ (Kafena)
+
+Code: MV017085, Coordinates: 0.517, 72.993
+
+
+### ކަޅެހަމަލާ (Kalhehamalaa)
+
+Code: MV017086, Coordinates: 0.318, 73.482
+
+
+### ކަޅެހިގިއްލާ (Kalhehigillaa)
+
+Code: MV017087, Coordinates: 0.297, 73.034
+
+
+### ކަޅެހުއްޓާ (Kalhehuttaa)
+
+Code: MV017088, Coordinates: 0.329, 73.026
+
+
+### ކަޅެރެހާ (Kalherehaa)
+
+Code: MV017089, Coordinates: 0.255, 73.334
+
+
+### ކަނޑަހަލަގަލާ (Kan&#39;dahalagalaa)
+
+Code: MV017091, Coordinates: 0.225, 73.217
+
+
+### ކަނަންދޫ (Kanandhoo)
+
+Code: MV017090, Coordinates: 0.273, 73.069
+
+
+### ކަނޑައްދޫ (Kandahdhoo)
+
+Code: MV017092, Coordinates: 0.195, 73.191
+
+
+### ކަންނިގިއްލާ (Kannigilla)
+
+Code: MV017093, Coordinates: 0.452, 73
+
+
+### ކައުޓިހުޅަދޫ (Kautihulhadhoo)
+
+Code: MV017094, Coordinates: 0.395, 73.008
+
+
+### ކައްވަހުއްޓާ (Kavvahuttaa)
+
+Code: MV017095, Coordinates: 0.266, 73.092
+
+
+### ކެލައިހުއްޓާ (Kelaihuttaa)
+
+Code: MV017096, Coordinates: 0.204, 73.18
+
+
+### ކެރަމިންތާ (Keraminthaa)
+
+Code: MV017097, Coordinates: 0.391, 73.015
+
+
+### ކެރެދިރެހާ (Keredhirehaa)
+
+Code: MV017098, Coordinates: 0.308, 73.026
+
+
+### ކޭހުވަދޫ (Keyhuvadhoo)
+
+Code: MV017099, Coordinates: 0.354, 73.026
+
+
+### ކޮޑާނަހުއްޓާ (Kodaanahuttaa)
+
+Code: MV017100, Coordinates: 0.333, 73.498
+
+
+### ކޮޑެދޫ (Kodedhoo)
+
+Code: MV017101, Coordinates: 0.412, 73.005
+
+
+### ކޮޑެގަލާ (Kodegalaa)
+
+Code: MV017102, Coordinates: 0.368, 73.392
+
+
+### ކޮޑެހުޓިގަލާ (Kodehutigalaa)
+
+Code: MV017103, Coordinates: 0.289, 73.201
+
+
+### ކޮޑުރަޓާ (Kodurataa)
+
+Code: MV017104, Coordinates: 0.374, 73.023
+
+
+### ކޮނޮއްޓާ (Konottaa)
+
+Code: MV017105, Coordinates: 0.463, 73.155
+
+
+### ކުދެއެހިވަކާ (Kudhe-ehivakaa)
+
+Code: MV017107, Coordinates: 0.286, 73.057
+
+
+### ކުދެބީރާހުއްޓާ (Kudhebeeraahuttaa)
+
+Code: MV017106, Coordinates: 0.282, 73.062
+
+
+### ކުދެހާދުއާ (Kudhehaadhuaa)
+
+Code: MV017108, Coordinates: 0.24, 73.121
+
+
+### ކުދެހުޅެއްދޫ (Kudhehulhehdhoo)
+
+Code: MV017109, Coordinates: 0.454, 72.997
+
+
+### ކުދެމާދޫ (Kudhemaadhoo)
+
+Code: MV017110, Coordinates: 0.272, 73.081
+
+
+### ކުދެމަތައިދޫ (Kudhemathaidhoo)
+
+Code: MV017111, Coordinates: 0.307, 73.03
+
+
+### ކުދެރަޓާ (Kudherataa)
+
+Code: MV017112, Coordinates: 0.501, 72.99
+
+
+### ކުރެއްދޫ (Kurehdhoo)
+
+Code: MV017113, Coordinates: 0.258, 73.099
+
+
+### ކުރެއިކޭމާހުއްޓާ (Kureikeymaahuttaa)
+
+Code: MV017114, Coordinates: 0.289, 73.05
+
+
+### ލައިހާ (Laihaa)
+
+Code: MV017115, Coordinates: 0.252, 73.341
+
+
+### LD0063
+
+Code: MV017116, Coordinates: 0.199, 73.186
+
+
+### LD0486
+
+Code: MV017117, Coordinates: 0.397, 73.005
+
+
+### LD1046
+
+Code: MV017118, Coordinates: 0.194, 73.194
+
+
+### LD1435
+
+Code: MV017119, Coordinates: 0.428, 73.044
+
+
+### LD1436
+
+Code: MV017120, Coordinates: 0.448, 73.084
+
+
+### LD1437
+
+Code: MV017121, Coordinates: 0.483, 73.098
+
+
+### LD1439
+
+Code: MV017122, Coordinates: 0.502, 73.066
+
+
+### LD1688
+
+Code: MV017123, Coordinates: 0.295, 73.329
+
+
+### LD1689
+
+Code: MV017124, Coordinates: 0.265, 73.343
+
+
+### LD1690
+
+Code: MV017125, Coordinates: 0.5, 73.095
+
+
+### LD1692
+
+Code: MV017126, Coordinates: 0.304, 73.135
+
+
+### LD1693
+
+Code: MV017127, Coordinates: 0.305, 73.156
+
+
+### LD1694
+
+Code: MV017128, Coordinates: 0.31, 73.476
+
+
+### LD1695
+
+Code: MV017129, Coordinates: 0.228, 73.134
+
+
+### LD1770
+
+Code: MV017130, Coordinates: 0.193, 73.195
+
+
+### ލިފަދޫ (Lifadhoo)
+
+Code: MV017131, Coordinates: 0.393, 73.009
+
+
+### ލޮނުދޫ (Lonudhoo)
+
+Code: MV017132, Coordinates: 0.309, 73.414
+
+
+### ލޮނުދޫހުއްޓާ (Lonudhoohuttaa)
+
+Code: MV017133, Coordinates: 0.302, 73.417
+
+
+### މާދޫ (Maadhoo)
+
+Code: MV017134, Coordinates: 0.27, 73.075
+
+
+### މާގަލާ (Maagalaa)
+
+Code: MV017135, Coordinates: 0.37, 73.38
+
+
+### މާގޮޑެރެހާ (Maagoderehaa)
+
+Code: MV017136, Coordinates: 0.506, 72.99
+
+
+### މާހުޓިގަލާ (Maahutigalaa)
+
+Code: MV017137, Coordinates: 0.294, 73.192
+
+
+### މާކިރިގައްލާ (Maakirigalla)
+
+Code: MV017138, Coordinates: 0.524, 73.04
+
+
+### މާއްލާރެހާ (Maallaarehaa)
+
+Code: MV017139, Coordinates: 0.493, 72.988
+
+
+### މާނައިދޫ (Maanaidhoo)
+
+Code: MV017140, Coordinates: 0.242, 73.117
+
+
+### މާރެހާ (Maarehaa)
+
+Code: MV017141, Coordinates: 0.191, 73.197
+
+
+### މާރެހާ (Maarehaa)
+
+Code: MV017142, Coordinates: 0.291, 73.046
+
+
+### މާވާރުލޫ (Maavaaruloo)
+
+Code: MV017143, Coordinates: 0.335, 73.508
+
+
+### މާވެއްދޫ (Maavehdhoo)
+
+Code: MV017144, Coordinates: 0.309, 73.473
+
+
+### މަޑަވެލި (Madaveli)
+
+Code: MV017001, Coordinates: 0.459, 72.998
+
+
+### މަގުއްދުވާ (Maguhdhuvaa)
+
+Code: MV017145, Coordinates: 0.278, 73.357
+
+
+### މަތައިދޫ (Mathaidhoo)
+
+Code: MV017146, Coordinates: 0.304, 73.027
+
+
+### މަތިހުއްޓާ (Mathihuttaa)
+
+Code: MV017147, Coordinates: 0.256, 73.34
+
+
+### މީހިނެތިޔެނެހުއްޓާ (Meehinethiyenehuttaa)
+
+Code: MV017148, Coordinates: 0.266, 73.09
+
+
+### މެންތަންދުވާ (Menthandhuvaa)
+
+Code: MV017149, Coordinates: 0.325, 73.492
+
+
+### މެރަގިހުއްޓާ (Meragihuttaa)
+
+Code: MV017150, Coordinates: 0.269, 73.081
+
+
+### މޭރަގިއްލާ (Meyragillaa)
+
+Code: MV017151, Coordinates: 0.246, 73.112
+
+
+### މުދިމާހުއްޓާ (Mudhimaahutta)
+
+Code: MV017152, Coordinates: 0.255, 73.348
+
+
+### ނަޑެއްލާ (Nadellaa)
+
+Code: MV017003, Coordinates: 0.294, 73.041
+
+
+### ނެއިމާހުއްޓަ (Neimaahutta)
+
+Code: MV017153, Coordinates: 0.325, 73.026
+
+
+### އޮޑަގައްލާ (Odagallaa)
+
+Code: MV017154, Coordinates: 0.32, 73.381
+
+
+### އޮއިނިގިއްލާ (Oinigillaa)
+
+Code: MV017155, Coordinates: 0.276, 73.065
+
+
+### އޮޅިމުންޓާ (Olhimuntaa)
+
+Code: MV017156, Coordinates: 0.36, 73.026
+
+
+### އޮޅުރަޓާ (Olhurataa)
+
+Code: MV017157, Coordinates: 0.316, 73.024
+
+
+### ރާބޮޑާފެހީރަޓާ (Raabodaafeheerataa)
+
+Code: MV017158, Coordinates: 0.236, 73.124
+
+
+### ރާވެރިންކޮޅިހުއްޓާ (Raaverinkolhihuttaa)
+
+Code: MV017159, Coordinates: 0.251, 73.234
+
+
+### ރަހަދުވާ (Rahadhuvaa)
+
+Code: MV017160, Coordinates: 0.497, 72.989
+
+
+### ރަތަފަންދޫ (Rathafandhoo)
+
+Code: MV017005, Coordinates: 0.253, 73.105
+
+
+### ރޮޑާދޫ (Rodaadhoo)
+
+Code: MV017161, Coordinates: 0.343, 73.026
+
+
+### ރޮދަވައްރެހާ (Rodhavarrehaa)
+
+Code: MV017162, Coordinates: 0.295, 73.463
+
+
+### ތެލެހުއްޓާ (Thelehuttaa)
+
+Code: MV017011, Coordinates: 0.288, 73.053
+
+
+### ތިނަދޫ (Thinadhoo)
+
+Code: MV017010, Coordinates: 0.532, 72.997
+
+
+### ތިނެހުއްޓާ (Thinehuttaa)
+
+Code: MV017163, Coordinates: 0.37, 73.025
+
+
+### އުހެހޫޓިރަޓާ (Uhehootirataa)
+
+Code: MV017164, Coordinates: 0.209, 73.171
+
+
+### އުހެރެހާ (Uherehaa)
+
+Code: MV017165, Coordinates: 0.413, 73.005
+
+
+### އުހުރެހާ (Uhurehaa)
+
+Code: MV017166, Coordinates: 0.419, 73.006
+
+
+### އުލެގަލާ (Ulegalaa)
+
+Code: MV017167, Coordinates: 0.399, 73.37
+
+
+### ވާދޫ (Vaadhoo)
+
+Code: MV017006, Coordinates: 0.227, 73.273
+
+
+### ވާރެޔަދުވާ (Vaareyadhuvaa)
+
+Code: MV017168, Coordinates: 0.289, 73.337
+
+
+### ވަޓަވައްރެހާ (Vatavarrehaa)
+
+Code: MV017169, Coordinates: 0.256, 73.296
+
+
+### ވެރާވިލިގިއްލާ (Veraaviligillaa)
+
+Code: MV017170, Coordinates: 0.313, 73.449
+
+
+### ވިލިގިއްލާ (Viligillaa)
+
+Code: MV017171, Coordinates: 0.23, 73.13
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "MV004056",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1524",
+    "en": "LD1524",
+    "slug": "ld1524-mv004056"
+  },
+  "code": {
+    "id": "MV004056",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV004",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+      "en": "Noonu",
+      "slug": "noonu-mv004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV004",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+        "en": "Noonu",
+        "slug": "noonu-mv004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.734",
+    "lon": "73.363"
+  },
+  "metadata": {},
+  "source": {}
+}

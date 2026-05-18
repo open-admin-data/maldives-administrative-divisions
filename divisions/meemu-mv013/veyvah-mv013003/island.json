@@ -1,0 +1,45 @@
+{
+  "id": "MV013003",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވޭވަށް",
+    "en": "Veyvah",
+    "slug": "veyvah-mv013003"
+  },
+  "code": {
+    "id": "MV013003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV013",
+    "level": 1,
+    "name": {
+      "local": "މުލަކަތޮޅު",
+      "en": "Meemu",
+      "slug": "meemu-mv013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV013",
+      "level": 1,
+      "name": {
+        "local": "މުލަކަތޮޅު",
+        "en": "Meemu",
+        "slug": "meemu-mv013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.956",
+    "lon": "73.6"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV007102",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މެންދޫ",
+    "en": "Mendhoo",
+    "slug": "mendhoo-mv007102"
+  },
+  "code": {
+    "id": "MV007102",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.175",
+    "lon": "72.995"
+  },
+  "metadata": {},
+  "source": {}
+}

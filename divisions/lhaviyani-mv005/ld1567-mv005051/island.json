@@ -1,0 +1,45 @@
+{
+  "id": "MV005051",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1567",
+    "en": "LD1567",
+    "slug": "ld1567-mv005051"
+  },
+  "code": {
+    "id": "MV005051",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.516",
+    "lon": "73.436"
+  },
+  "metadata": {},
+  "source": {}
+}

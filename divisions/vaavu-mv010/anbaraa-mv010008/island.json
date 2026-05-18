@@ -1,0 +1,45 @@
+{
+  "id": "MV010008",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އަންބަރާ",
+    "en": "Anbaraa",
+    "slug": "anbaraa-mv010008"
+  },
+  "code": {
+    "id": "MV010008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.372",
+    "lon": "73.44"
+  },
+  "metadata": {},
+  "source": {}
+}

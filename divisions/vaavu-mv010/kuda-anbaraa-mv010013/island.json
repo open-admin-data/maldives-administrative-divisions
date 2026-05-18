@@ -1,0 +1,45 @@
+{
+  "id": "MV010013",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުޑައަންބަރާ",
+    "en": "Kuda Anbaraa",
+    "slug": "kuda-anbaraa-mv010013"
+  },
+  "code": {
+    "id": "MV010013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.427",
+    "lon": "73.425"
+  },
+  "metadata": {},
+  "source": {}
+}

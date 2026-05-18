@@ -1,0 +1,45 @@
+{
+  "id": "MV007021",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޮޑުފިނޮޅު",
+    "en": "Bodufinolhu",
+    "slug": "bodufinolhu-mv007021"
+  },
+  "code": {
+    "id": "MV007021",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.009",
+    "lon": "72.856"
+  },
+  "metadata": {},
+  "source": {}
+}

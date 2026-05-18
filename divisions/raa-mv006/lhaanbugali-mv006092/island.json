@@ -1,0 +1,45 @@
+{
+  "id": "MV006092",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ޅާނބުގަލި",
+    "en": "Lhaan'bugali",
+    "slug": "lhaanbugali-mv006092"
+  },
+  "code": {
+    "id": "MV006092",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV006",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+      "en": "Raa",
+      "slug": "raa-mv006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV006",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+        "en": "Raa",
+        "slug": "raa-mv006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.553",
+    "lon": "72.877"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV011028",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މާފުށި",
+    "en": "Maafushi",
+    "slug": "maafushi-mv011028"
+  },
+  "code": {
+    "id": "MV011028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV011",
+    "level": 1,
+    "name": {
+      "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+      "en": "Faafu",
+      "slug": "faafu-mv011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV011",
+      "level": 1,
+      "name": {
+        "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+        "en": "Faafu",
+        "slug": "faafu-mv011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.243",
+    "lon": "72.979"
+  },
+  "metadata": {},
+  "source": {}
+}

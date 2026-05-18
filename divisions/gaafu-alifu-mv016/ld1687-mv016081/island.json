@@ -1,0 +1,45 @@
+{
+  "id": "MV016081",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1687",
+    "en": "LD1687",
+    "slug": "ld1687-mv016081"
+  },
+  "code": {
+    "id": "MV016081",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV016",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+      "en": "Gaafu Alifu",
+      "slug": "gaafu-alifu-mv016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV016",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+        "en": "Gaafu Alifu",
+        "slug": "gaafu-alifu-mv016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.649",
+    "lon": "73.137"
+  },
+  "metadata": {},
+  "source": {}
+}

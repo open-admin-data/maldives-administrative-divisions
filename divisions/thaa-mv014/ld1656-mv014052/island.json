@@ -1,0 +1,45 @@
+{
+  "id": "MV014052",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1656",
+    "en": "LD1656",
+    "slug": "ld1656-mv014052"
+  },
+  "code": {
+    "id": "MV014052",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.313",
+    "lon": "73.297"
+  },
+  "metadata": {},
+  "source": {}
+}

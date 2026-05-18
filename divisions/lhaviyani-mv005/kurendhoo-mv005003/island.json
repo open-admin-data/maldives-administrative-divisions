@@ -1,0 +1,45 @@
+{
+  "id": "MV005003",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުރެންދޫ",
+    "en": "Kurendhoo",
+    "slug": "kurendhoo-mv005003"
+  },
+  "code": {
+    "id": "MV005003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.334",
+    "lon": "73.464"
+  },
+  "metadata": {},
+  "source": {}
+}

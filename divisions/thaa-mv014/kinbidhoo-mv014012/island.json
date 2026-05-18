@@ -1,0 +1,45 @@
+{
+  "id": "MV014012",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކިނބިދޫ",
+    "en": "Kin'bidhoo",
+    "slug": "kinbidhoo-mv014012"
+  },
+  "code": {
+    "id": "MV014012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.168",
+    "lon": "73.065"
+  },
+  "metadata": {},
+  "source": {}
+}

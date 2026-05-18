@@ -1,0 +1,45 @@
+{
+  "id": "MV007023",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދަކަންދޫ",
+    "en": "Dhakandhoo",
+    "slug": "dhakandhoo-mv007023"
+  },
+  "code": {
+    "id": "MV007023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.248",
+    "lon": "72.894"
+  },
+  "metadata": {},
+  "source": {}
+}

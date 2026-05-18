@@ -1,0 +1,29 @@
+{
+  "id": "MV010",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ފެލިދުއަތޮޅު",
+    "en": "Vaavu",
+    "slug": "vaavu-mv010"
+  },
+  "code": {
+    "id": "MV010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 48
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.494",
+    "lon": "73.409"
+  },
+  "metadata": {},
+  "source": {}
+}

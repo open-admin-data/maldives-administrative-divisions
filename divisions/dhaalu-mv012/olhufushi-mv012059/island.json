@@ -1,0 +1,45 @@
+{
+  "id": "MV012059",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އޮޅުފުށި",
+    "en": "Olhufushi",
+    "slug": "olhufushi-mv012059"
+  },
+  "code": {
+    "id": "MV012059",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV012",
+    "level": 1,
+    "name": {
+      "local": "ނިލަންދެއަތޮޅު ދެކުނުބުރި",
+      "en": "Dhaalu",
+      "slug": "dhaalu-mv012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV012",
+      "level": 1,
+      "name": {
+        "local": "ނިލަންދެއަތޮޅު ދެކުނުބުރި",
+        "en": "Dhaalu",
+        "slug": "dhaalu-mv012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.814",
+    "lon": "73.027"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV013062",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ސީދީހުރާވެލިގަނޑު",
+    "en": "Seedheehuraaveligan'du",
+    "slug": "seedheehuraaveligandu-mv013062"
+  },
+  "code": {
+    "id": "MV013062",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV013",
+    "level": 1,
+    "name": {
+      "local": "މުލަކަތޮޅު",
+      "en": "Meemu",
+      "slug": "meemu-mv013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV013",
+      "level": 1,
+      "name": {
+        "local": "މުލަކަތޮޅު",
+        "en": "Meemu",
+        "slug": "meemu-mv013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.86",
+    "lon": "73.554"
+  },
+  "metadata": {},
+  "source": {}
+}

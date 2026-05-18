@@ -1,0 +1,45 @@
+{
+  "id": "MV016103",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވިލިގަލާ",
+    "en": "Viligalaa",
+    "slug": "viligalaa-mv016103"
+  },
+  "code": {
+    "id": "MV016103",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV016",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+      "en": "Gaafu Alifu",
+      "slug": "gaafu-alifu-mv016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV016",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+        "en": "Gaafu Alifu",
+        "slug": "gaafu-alifu-mv016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.519",
+    "lon": "73.216"
+  },
+  "metadata": {},
+  "source": {}
+}

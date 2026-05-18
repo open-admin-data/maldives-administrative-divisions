@@ -1,0 +1,45 @@
+{
+  "id": "MV020023",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހީންފަރު",
+    "en": "Heenfaru",
+    "slug": "heenfaru-mv020023"
+  },
+  "code": {
+    "id": "MV020023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV020",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު ދެކުނުބުރި",
+      "en": "Alifu Dhaalu",
+      "slug": "alifu-dhaalu-mv020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV020",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު ދެކުނުބުރި",
+        "en": "Alifu Dhaalu",
+        "slug": "alifu-dhaalu-mv020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.819",
+    "lon": "72.829"
+  },
+  "metadata": {},
+  "source": {}
+}

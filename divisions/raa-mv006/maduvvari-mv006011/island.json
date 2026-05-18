@@ -1,0 +1,45 @@
+{
+  "id": "MV006011",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މަޑުއްވަރި",
+    "en": "Maduvvari",
+    "slug": "maduvvari-mv006011"
+  },
+  "code": {
+    "id": "MV006011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV006",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+      "en": "Raa",
+      "slug": "raa-mv006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV006",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+        "en": "Raa",
+        "slug": "raa-mv006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.486",
+    "lon": "72.896"
+  },
+  "metadata": {},
+  "source": {}
+}

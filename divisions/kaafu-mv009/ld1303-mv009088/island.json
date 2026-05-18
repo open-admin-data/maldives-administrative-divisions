@@ -1,0 +1,45 @@
+{
+  "id": "MV009088",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1303",
+    "en": "LD1303",
+    "slug": "ld1303-mv009088"
+  },
+  "code": {
+    "id": "MV009088",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.671",
+    "lon": "73.532"
+  },
+  "metadata": {},
+  "source": {}
+}

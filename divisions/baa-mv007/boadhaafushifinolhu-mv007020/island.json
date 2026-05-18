@@ -1,0 +1,45 @@
+{
+  "id": "MV007020",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޯދާފުށިފިނޮޅު",
+    "en": "Boadhaafushifinolhu",
+    "slug": "boadhaafushifinolhu-mv007020"
+  },
+  "code": {
+    "id": "MV007020",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.882",
+    "lon": "72.893"
+  },
+  "metadata": {},
+  "source": {}
+}

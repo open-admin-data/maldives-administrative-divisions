@@ -1,0 +1,45 @@
+{
+  "id": "MV012041",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1391",
+    "en": "LD1391",
+    "slug": "ld1391-mv012041"
+  },
+  "code": {
+    "id": "MV012041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV012",
+    "level": 1,
+    "name": {
+      "local": "ނިލަންދެއަތޮޅު ދެކުނުބުރި",
+      "en": "Dhaalu",
+      "slug": "dhaalu-mv012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV012",
+      "level": 1,
+      "name": {
+        "local": "ނިލަންދެއަތޮޅު ދެކުނުބުރި",
+        "en": "Dhaalu",
+        "slug": "dhaalu-mv012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.775",
+    "lon": "73.025"
+  },
+  "metadata": {},
+  "source": {}
+}

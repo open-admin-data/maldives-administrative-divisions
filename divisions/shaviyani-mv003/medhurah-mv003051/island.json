@@ -1,0 +1,45 @@
+{
+  "id": "MV003051",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މެދުރަށް",
+    "en": "Medhurah",
+    "slug": "medhurah-mv003051"
+  },
+  "code": {
+    "id": "MV003051",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV003",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+      "en": "Shaviyani",
+      "slug": "shaviyani-mv003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV003",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+        "en": "Shaviyani",
+        "slug": "shaviyani-mv003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.024",
+    "lon": "73.077"
+  },
+  "metadata": {},
+  "source": {}
+}

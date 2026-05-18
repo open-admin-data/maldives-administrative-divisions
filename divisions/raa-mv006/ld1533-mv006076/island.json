@@ -1,0 +1,45 @@
+{
+  "id": "MV006076",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1533",
+    "en": "LD1533",
+    "slug": "ld1533-mv006076"
+  },
+  "code": {
+    "id": "MV006076",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV006",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+      "en": "Raa",
+      "slug": "raa-mv006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV006",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+        "en": "Raa",
+        "slug": "raa-mv006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.723",
+    "lon": "72.862"
+  },
+  "metadata": {},
+  "source": {}
+}

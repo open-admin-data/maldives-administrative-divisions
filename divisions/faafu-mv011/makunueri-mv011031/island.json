@@ -1,0 +1,45 @@
+{
+  "id": "MV011031",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މަކުނުއެރި",
+    "en": "Makunueri",
+    "slug": "makunueri-mv011031"
+  },
+  "code": {
+    "id": "MV011031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV011",
+    "level": 1,
+    "name": {
+      "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+      "en": "Faafu",
+      "slug": "faafu-mv011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV011",
+      "level": 1,
+      "name": {
+        "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+        "en": "Faafu",
+        "slug": "faafu-mv011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.258",
+    "lon": "72.929"
+  },
+  "metadata": {},
+  "source": {}
+}

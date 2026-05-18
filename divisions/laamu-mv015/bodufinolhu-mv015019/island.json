@@ -1,0 +1,45 @@
+{
+  "id": "MV015019",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޮޑުފިނޮޅު",
+    "en": "Bodufinolhu",
+    "slug": "bodufinolhu-mv015019"
+  },
+  "code": {
+    "id": "MV015019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.028",
+    "lon": "73.372"
+  },
+  "metadata": {},
+  "source": {}
+}

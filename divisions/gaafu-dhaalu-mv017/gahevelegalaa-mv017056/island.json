@@ -1,0 +1,45 @@
+{
+  "id": "MV017056",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ގަހެވެލެގަލާ",
+    "en": "Gahevelegalaa",
+    "slug": "gahevelegalaa-mv017056"
+  },
+  "code": {
+    "id": "MV017056",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV017",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+      "en": "Gaafu Dhaalu",
+      "slug": "gaafu-dhaalu-mv017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV017",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+        "en": "Gaafu Dhaalu",
+        "slug": "gaafu-dhaalu-mv017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.358",
+    "lon": "73.32"
+  },
+  "metadata": {},
+  "source": {}
+}

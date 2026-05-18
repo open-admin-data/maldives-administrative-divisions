@@ -1,0 +1,45 @@
+{
+  "id": "MV005068",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މައިދޫ",
+    "en": "Maidhoo",
+    "slug": "maidhoo-mv005068"
+  },
+  "code": {
+    "id": "MV005068",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.397",
+    "lon": "73.649"
+  },
+  "metadata": {},
+  "source": {}
+}

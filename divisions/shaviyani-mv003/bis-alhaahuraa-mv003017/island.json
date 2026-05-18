@@ -1,0 +1,45 @@
+{
+  "id": "MV003017",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބިސްއަޅާހުރާ",
+    "en": "Bis Alhaahuraa",
+    "slug": "bis-alhaahuraa-mv003017"
+  },
+  "code": {
+    "id": "MV003017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV003",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+      "en": "Shaviyani",
+      "slug": "shaviyani-mv003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV003",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+        "en": "Shaviyani",
+        "slug": "shaviyani-mv003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.155",
+    "lon": "73.292"
+  },
+  "metadata": {},
+  "source": {}
+}

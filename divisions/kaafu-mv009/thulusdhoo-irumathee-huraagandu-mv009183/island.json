@@ -1,0 +1,45 @@
+{
+  "id": "MV009183",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ތުލުސްދޫ އިރުމަތީ ހުރާގަނޑ",
+    "en": "Thulusdhoo Irumathee Huraagan'du",
+    "slug": "thulusdhoo-irumathee-huraagandu-mv009183"
+  },
+  "code": {
+    "id": "MV009183",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.372",
+    "lon": "73.655"
+  },
+  "metadata": {},
+  "source": {}
+}

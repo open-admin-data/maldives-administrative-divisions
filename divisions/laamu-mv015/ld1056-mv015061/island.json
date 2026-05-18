@@ -1,0 +1,45 @@
+{
+  "id": "MV015061",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1056",
+    "en": "LD1056",
+    "slug": "ld1056-mv015061"
+  },
+  "code": {
+    "id": "MV015061",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.043",
+    "lon": "73.532"
+  },
+  "metadata": {},
+  "source": {}
+}

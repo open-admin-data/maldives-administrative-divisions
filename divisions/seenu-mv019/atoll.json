@@ -1,0 +1,29 @@
+{
+  "id": "MV019",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "އައްޑުއަތޮޅު",
+    "en": "Seenu",
+    "slug": "seenu-mv019"
+  },
+  "code": {
+    "id": "MV019",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.642",
+    "lon": "73.163"
+  },
+  "metadata": {},
+  "source": {}
+}

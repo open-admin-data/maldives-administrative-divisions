@@ -1,0 +1,45 @@
+{
+  "id": "MV008046",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވެލިގަނޑު",
+    "en": "Veligan'du",
+    "slug": "veligandu-mv008046"
+  },
+  "code": {
+    "id": "MV008046",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV008",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު އުތުރުބުރި",
+      "en": "Alifu Alifu",
+      "slug": "alifu-alifu-mv008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.299",
+    "lon": "73.012"
+  },
+  "metadata": {},
+  "source": {}
+}

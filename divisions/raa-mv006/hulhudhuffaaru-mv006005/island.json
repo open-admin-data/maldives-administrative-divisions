@@ -1,0 +1,45 @@
+{
+  "id": "MV006005",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހުޅުދުއްފާރު",
+    "en": "Hulhudhuffaaru",
+    "slug": "hulhudhuffaaru-mv006005"
+  },
+  "code": {
+    "id": "MV006005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV006",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+      "en": "Raa",
+      "slug": "raa-mv006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV006",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+        "en": "Raa",
+        "slug": "raa-mv006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.766",
+    "lon": "73.012"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV019050",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1697",
+    "en": "LD1697",
+    "slug": "ld1697-mv019050"
+  },
+  "code": {
+    "id": "MV019050",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV019",
+    "level": 1,
+    "name": {
+      "local": "އައްޑުއަތޮޅު",
+      "en": "Seenu",
+      "slug": "seenu-mv019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV019",
+      "level": 1,
+      "name": {
+        "local": "އައްޑުއަތޮޅު",
+        "en": "Seenu",
+        "slug": "seenu-mv019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.659",
+    "lon": "73.112"
+  },
+  "metadata": {},
+  "source": {}
+}

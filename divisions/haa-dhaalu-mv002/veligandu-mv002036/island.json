@@ -1,0 +1,45 @@
+{
+  "id": "MV002036",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވެލިގަނޑު",
+    "en": "Veligan'du",
+    "slug": "veligandu-mv002036"
+  },
+  "code": {
+    "id": "MV002036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV002",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+      "en": "Haa Dhaalu",
+      "slug": "haa-dhaalu-mv002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.754",
+    "lon": "72.938"
+  },
+  "metadata": {},
+  "source": {}
+}

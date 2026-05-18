@@ -1,0 +1,45 @@
+{
+  "id": "MV007099",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މަދިރިވާދޫ",
+    "en": "Madhirivaadhoo",
+    "slug": "madhirivaadhoo-mv007099"
+  },
+  "code": {
+    "id": "MV007099",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.269",
+    "lon": "73.161"
+  },
+  "metadata": {},
+  "source": {}
+}

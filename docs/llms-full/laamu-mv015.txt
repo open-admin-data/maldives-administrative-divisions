@@ -1,0 +1,459 @@
+# Laamu — Maldives Administrative Divisions
+
+> 90 islands
+> Code: MV015
+> Coordinates: 1.956, 73.399
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އާރަހާ (Aarahaa)
+
+Code: MV015014, Coordinates: 1.829, 73.275
+
+
+### އަތަހެންދު (Athahendhu)
+
+Code: MV015015, Coordinates: 1.828, 73.274
+
+
+### ބަރެސްދޫ (Baresdhoo)
+
+Code: MV015016, Coordinates: 1.968, 73.54
+
+
+### ބޮޑުފެންރަހާ (Bodufenrahaa)
+
+Code: MV015017, Coordinates: 1.827, 73.271
+
+
+### ބޮޑުފިނޮޅު (Bodufinolhu)
+
+Code: MV015018, Coordinates: 1.945, 73.541
+
+
+### ބޮޑުފިނޮޅު (Bodufinolhu)
+
+Code: MV015019, Coordinates: 2.028, 73.372
+
+
+### ބޮޑުހުރާ (Boduhuraa)
+
+Code: MV015020, Coordinates: 1.845, 73.516
+
+
+### ބޮޑުހުރާ (Boduhuraa)
+
+Code: MV015021, Coordinates: 1.802, 73.294
+
+
+### ބޮޑުމާބުޅަލި (Bodumaabulhali)
+
+Code: MV015022, Coordinates: 1.849, 73.255
+
+
+### ބޮޑުމަހިގުޅި (Bodumahigulhi)
+
+Code: MV015023, Coordinates: 1.787, 73.326
+
+
+### ބޮޑުމުންޏަފުށި (Bodumungnafushi)
+
+Code: MV015024, Coordinates: 1.989, 73.309
+
+
+### ބޮކަތްފުށި (Bokaiyfushi)
+
+Code: MV015025, Coordinates: 1.999, 73.535
+
+
+### ބުއްރަހާ (Burrahaa)
+
+Code: MV015026, Coordinates: 1.827, 73.278
+
+
+### ދަނބިދޫ (Dhan&#39;bidhoo)
+
+Code: MV015002, Coordinates: 2.094, 73.545
+
+
+### ދެކުނުވިނަގަނޑު (Dhekunuvinagan&#39;du)
+
+Code: MV015027, Coordinates: 1.817, 73.28
+
+
+### ދޮންބެރަހާ (Dhonberahaa)
+
+Code: MV015028, Coordinates: 2.072, 73.536
+
+
+### އެންބެރަހާ (Enberahaa)
+
+Code: MV015029, Coordinates: 1.842, 73.258
+
+
+### ފަރެސް (Fares)
+
+Code: MV015030, Coordinates: 1.799, 73.301
+
+
+### ފެންބޯހުރާ (Fenboahuraa)
+
+Code: MV015031, Coordinates: 2.064, 73.538
+
+
+### ފެންބޯރަހާ (Fenboarahaa)
+
+Code: MV015032, Coordinates: 1.811, 73.286
+
+
+### ފޮނަދޫ (Fonadhoo)
+
+Code: MV015008, Coordinates: 1.836, 73.504
+
+
+### ފޮނަގާދޫ (Fonagaadhoo)
+
+Code: MV015033, Coordinates: 2.115, 73.541
+
+
+### ފުށި (Fushi)
+
+Code: MV015034, Coordinates: 2.05, 73.532
+
+
+### ގާދޫ (Gaadhoo)
+
+Code: MV015009, Coordinates: 1.821, 73.452
+
+
+### ގަން (Gan)
+
+Code: MV015013, Coordinates: 1.91, 73.541
+
+
+### ގަސްގަނޑުފިނޮޅު (Gasgan&#39;dufinolhu)
+
+Code: MV015035, Coordinates: 1.952, 73.54
+
+
+### ގުރައިދޫ (Guraidhoo)
+
+Code: MV015036, Coordinates: 1.908, 73.255
+
+
+### ހަތްތޮށި (Haiythoshi)
+
+Code: MV015037, Coordinates: 1.842, 73.259
+
+
+### ހަންހުށި (Hanhushi)
+
+Code: MV015038, Coordinates: 1.952, 73.262
+
+
+### ހެންދަ (Hendha)
+
+Code: MV015039, Coordinates: 1.822, 73.274
+
+
+### ހިކަނދިރަހާ (Hikan&#39;dhirahaa)
+
+Code: MV015040, Coordinates: 2.058, 73.537
+
+
+### ހިތަދޫ (Hithadhoo)
+
+Code: MV015011, Coordinates: 1.797, 73.389
+
+
+### ހޮޅުރަހާ (Holhurahaa)
+
+Code: MV015041, Coordinates: 2.069, 73.539
+
+
+### ހުޅިމެންދޫ (Hulhimendhoo)
+
+Code: MV015042, Coordinates: 1.823, 73.394
+
+
+### ހުޅިސްދޫ (Hulhisdhoo)
+
+Code: MV015043, Coordinates: 1.785, 73.388
+
+
+### ހުޅިޔަންދޫ (Hulhiyandhoo)
+
+Code: MV015044, Coordinates: 2.081, 73.542
+
+
+### އިސްދޫ (Isdhoo)
+
+Code: MV015001, Coordinates: 2.125, 73.58
+
+
+### ކައްދޫ (Kadhdhoo)
+
+Code: MV015045, Coordinates: 1.862, 73.522
+
+
+### ކަލައިދޫ (Kalaidhoo)
+
+Code: MV015005, Coordinates: 2.114, 73.56
+
+
+### ކަޅައިދޫ (Kalhaidhoo)
+
+Code: MV015046, Coordinates: 1.989, 73.537
+
+
+### ކަޅުރަހާ (Kalhurahaa)
+
+Code: MV015047, Coordinates: 1.844, 73.257
+
+
+### ކަނޑަރު (Kandaru)
+
+Code: MV015048, Coordinates: 2.061, 73.536
+
+
+### ކަނުހުރާ (Kanuhuraa)
+
+Code: MV015049, Coordinates: 2.046, 73.532
+
+
+### ކަށިދޫ (Kashidhoo)
+
+Code: MV015050, Coordinates: 1.92, 73.254
+
+
+### ކޮކުރަހާ (Kokurahaa)
+
+Code: MV015051, Coordinates: 1.854, 73.255
+
+
+### ކުޑަފެންރެހާ (Kudafenrehaa)
+
+Code: MV015052, Coordinates: 1.81, 73.288
+
+
+### ކުޑަފުށި (Kudafushi)
+
+Code: MV015053, Coordinates: 1.789, 73.332
+
+
+### ކުޑަމާބުޅަލި (Kudamaabulhali)
+
+Code: MV015054, Coordinates: 1.847, 73.253
+
+
+### ކުޑަމަހިގުޅި (Kudamahigulhi)
+
+Code: MV015055, Coordinates: 1.787, 73.328
+
+
+### ކުޑަމުންޏަފުށި (Kudamungnafushi)
+
+Code: MV015056, Coordinates: 1.993, 73.314
+
+
+### ކުޑަރަށް (Kudarah)
+
+Code: MV015057, Coordinates: 2.065, 73.537
+
+
+### ކުޑަވެށި (Kudaveshi)
+
+Code: MV015058, Coordinates: 1.824, 73.282
+
+
+### ކުނަހަންދޫ (Kunahandhoo)
+
+Code: MV015012, Coordinates: 1.784, 73.368
+
+
+### ކުރެދިރެހާ (Kuredhirehaa)
+
+Code: MV015059, Coordinates: 1.781, 73.355
+
+
+### LD0368
+
+Code: MV015060, Coordinates: 1.791, 73.326
+
+
+### LD1056
+
+Code: MV015061, Coordinates: 2.043, 73.532
+
+
+### LD1425
+
+Code: MV015062, Coordinates: 1.829, 73.455
+
+
+### LD1428
+
+Code: MV015063, Coordinates: 2.096, 73.539
+
+
+### LD1429
+
+Code: MV015064, Coordinates: 2.101, 73.542
+
+
+### LD1430
+
+Code: MV015065, Coordinates: 2.104, 73.543
+
+
+### LD1431
+
+Code: MV015066, Coordinates: 2.107, 73.54
+
+
+### LD1666
+
+Code: MV015067, Coordinates: 1.828, 73.455
+
+
+### LD1667
+
+Code: MV015068, Coordinates: 1.822, 73.283
+
+
+### LD1668
+
+Code: MV015069, Coordinates: 1.806, 73.314
+
+
+### LD1669
+
+Code: MV015070, Coordinates: 2.055, 73.535
+
+
+### LD1670
+
+Code: MV015071, Coordinates: 1.824, 73.483
+
+
+### LD1671
+
+Code: MV015072, Coordinates: 1.823, 73.414
+
+
+### LD1672
+
+Code: MV015073, Coordinates: 1.795, 73.37
+
+
+### LD1673
+
+Code: MV015074, Coordinates: 2.102, 73.541
+
+
+### LD1674
+
+Code: MV015075, Coordinates: 2.104, 73.542
+
+
+### މާބައިދޫ (Maabaidhoo)
+
+Code: MV015003, Coordinates: 2.03, 73.534
+
+
+### މާފުށި (Maafushi)
+
+Code: MV015076, Coordinates: 1.792, 73.334
+
+
+### މާކަޅުވެލި (Maakalhuveli)
+
+Code: MV015077, Coordinates: 1.788, 73.339
+
+
+### މާމެންދޫ (Maamendhoo)
+
+Code: MV015010, Coordinates: 1.818, 73.389
+
+
+### މާންދޫ (Maandhoo)
+
+Code: MV015078, Coordinates: 1.875, 73.527
+
+
+### މާވަށް (Maavah)
+
+Code: MV015007, Coordinates: 1.885, 73.243
+
+
+### މާވެށި (Maaveshi)
+
+Code: MV015079, Coordinates: 1.833, 73.271
+
+
+### މަހަކަންފުށި (Mahakanfushi)
+
+Code: MV015080, Coordinates: 1.959, 73.54
+
+
+### މެދުވިނަގަނޑު (Medhuvinagan&#39;du)
+
+Code: MV015081, Coordinates: 1.816, 73.278
+
+
+### މެންދޫ (Mendhoo)
+
+Code: MV015082, Coordinates: 1.787, 73.383
+
+
+### މުންޑޫ (Mundoo)
+
+Code: MV015004, Coordinates: 2.011, 73.534
+
+
+### އޮޅުތޮޅު (Olhutholhu)
+
+Code: MV015083, Coordinates: 1.788, 73.352
+
+
+### އޮޅުވެލި (Olhuveli)
+
+Code: MV015084, Coordinates: 1.817, 73.405
+
+
+### ރަހާ (Rahaa)
+
+Code: MV015085, Coordinates: 2.057, 73.536
+
+
+### ތަތުންރަހާ (Thathunrahaa)
+
+Code: MV015086, Coordinates: 1.831, 73.268
+
+
+### ތުނބުރި (Thun&#39;buri)
+
+Code: MV015087, Coordinates: 2.075, 73.54
+
+
+### އުތުރުވިނަގަނޑު (Uthuruvinagan&#39;du)
+
+Code: MV015088, Coordinates: 1.818, 73.278
+
+
+### އުވަދެވިފުށި (Uvadhevifushi)
+
+Code: MV015089, Coordinates: 1.979, 73.537
+
+
+### ވަޑިނޮޅު (Vadinolhu)
+
+Code: MV015090, Coordinates: 2.018, 73.359
+
+
+### ވެލިގަނޑުފިނޮޅު (Veligan&#39;dufinolhu)
+
+Code: MV015091, Coordinates: 1.829, 73.409
+
+

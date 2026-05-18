@@ -1,0 +1,45 @@
+{
+  "id": "MV020070",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މިރިހި",
+    "en": "Mirihi",
+    "slug": "mirihi-mv020070"
+  },
+  "code": {
+    "id": "MV020070",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV020",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު ދެކުނުބުރި",
+      "en": "Alifu Dhaalu",
+      "slug": "alifu-dhaalu-mv020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV020",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު ދެކުނުބުރި",
+        "en": "Alifu Dhaalu",
+        "slug": "alifu-dhaalu-mv020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.62",
+    "lon": "72.781"
+  },
+  "metadata": {},
+  "source": {}
+}

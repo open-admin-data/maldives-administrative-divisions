@@ -1,0 +1,45 @@
+{
+  "id": "MV005007",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޯމަންދިއްޕަރު ހުރާގަނޑު",
+    "en": "Boamandhipparu Huraagan'du",
+    "slug": "boamandhipparu-huraagandu-mv005007"
+  },
+  "code": {
+    "id": "MV005007",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.498",
+    "lon": "73.511"
+  },
+  "metadata": {},
+  "source": {}
+}

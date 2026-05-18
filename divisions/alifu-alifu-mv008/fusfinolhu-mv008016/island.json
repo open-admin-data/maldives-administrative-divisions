@@ -1,0 +1,45 @@
+{
+  "id": "MV008016",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފުސްފިނޮޅު",
+    "en": "Fusfinolhu",
+    "slug": "fusfinolhu-mv008016"
+  },
+  "code": {
+    "id": "MV008016",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV008",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު އުތުރުބުރި",
+      "en": "Alifu Alifu",
+      "slug": "alifu-alifu-mv008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.019",
+    "lon": "72.958"
+  },
+  "metadata": {},
+  "source": {}
+}

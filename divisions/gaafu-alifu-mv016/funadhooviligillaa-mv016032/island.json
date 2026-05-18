@@ -1,0 +1,45 @@
+{
+  "id": "MV016032",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފުނަދޫވިލިގިއްލާ",
+    "en": "Funadhooviligillaa",
+    "slug": "funadhooviligillaa-mv016032"
+  },
+  "code": {
+    "id": "MV016032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV016",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+      "en": "Gaafu Alifu",
+      "slug": "gaafu-alifu-mv016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV016",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+        "en": "Gaafu Alifu",
+        "slug": "gaafu-alifu-mv016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.57",
+    "lon": "73.52"
+  },
+  "metadata": {},
+  "source": {}
+}

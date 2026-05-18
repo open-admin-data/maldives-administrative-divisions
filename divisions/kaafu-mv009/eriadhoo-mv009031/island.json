@@ -1,0 +1,45 @@
+{
+  "id": "MV009031",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އެރިއަދޫ",
+    "en": "Eriadhoo",
+    "slug": "eriadhoo-mv009031"
+  },
+  "code": {
+    "id": "MV009031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.59",
+    "lon": "73.415"
+  },
+  "metadata": {},
+  "source": {}
+}

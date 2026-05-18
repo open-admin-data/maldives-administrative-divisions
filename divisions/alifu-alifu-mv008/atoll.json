@@ -1,0 +1,29 @@
+{
+  "id": "MV008",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "އަރިއަތޮޅު އުތުރުބުރި",
+    "en": "Alifu Alifu",
+    "slug": "alifu-alifu-mv008"
+  },
+  "code": {
+    "id": "MV008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.095",
+    "lon": "72.831"
+  },
+  "metadata": {},
+  "source": {}
+}

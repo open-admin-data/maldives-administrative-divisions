@@ -1,0 +1,45 @@
+{
+  "id": "MV003003",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ގޮއިދޫ",
+    "en": "Goidhoo",
+    "slug": "goidhoo-mv003003"
+  },
+  "code": {
+    "id": "MV003003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV003",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+      "en": "Shaviyani",
+      "slug": "shaviyani-mv003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV003",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+        "en": "Shaviyani",
+        "slug": "shaviyani-mv003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.43",
+    "lon": "72.93"
+  },
+  "metadata": {},
+  "source": {}
+}

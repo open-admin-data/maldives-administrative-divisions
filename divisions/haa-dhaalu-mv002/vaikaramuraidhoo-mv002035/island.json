@@ -1,0 +1,45 @@
+{
+  "id": "MV002035",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވައިކަރަމުރައިދޫ",
+    "en": "Vaikaramuraidhoo",
+    "slug": "vaikaramuraidhoo-mv002035"
+  },
+  "code": {
+    "id": "MV002035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV002",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+      "en": "Haa Dhaalu",
+      "slug": "haa-dhaalu-mv002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.541",
+    "lon": "72.901"
+  },
+  "metadata": {},
+  "source": {}
+}

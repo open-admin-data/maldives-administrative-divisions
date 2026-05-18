@@ -1,0 +1,45 @@
+{
+  "id": "MV015028",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދޮންބެރަހާ",
+    "en": "Dhonberahaa",
+    "slug": "dhonberahaa-mv015028"
+  },
+  "code": {
+    "id": "MV015028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.072",
+    "lon": "73.536"
+  },
+  "metadata": {},
+  "source": {}
+}

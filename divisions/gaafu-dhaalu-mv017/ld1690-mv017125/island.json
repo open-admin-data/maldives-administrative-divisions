@@ -1,0 +1,45 @@
+{
+  "id": "MV017125",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1690",
+    "en": "LD1690",
+    "slug": "ld1690-mv017125"
+  },
+  "code": {
+    "id": "MV017125",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV017",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+      "en": "Gaafu Dhaalu",
+      "slug": "gaafu-dhaalu-mv017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV017",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+        "en": "Gaafu Dhaalu",
+        "slug": "gaafu-dhaalu-mv017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.5",
+    "lon": "73.095"
+  },
+  "metadata": {},
+  "source": {}
+}

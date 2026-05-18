@@ -1,0 +1,45 @@
+{
+  "id": "MV016017",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޯއްޑުވާ",
+    "en": "Boadduvaa",
+    "slug": "boadduvaa-mv016017"
+  },
+  "code": {
+    "id": "MV016017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV016",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+      "en": "Gaafu Alifu",
+      "slug": "gaafu-alifu-mv016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV016",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު އުތުރުބުރި",
+        "en": "Gaafu Alifu",
+        "slug": "gaafu-alifu-mv016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.706",
+    "lon": "73.331"
+  },
+  "metadata": {},
+  "source": {}
+}

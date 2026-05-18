@@ -1,0 +1,224 @@
+# Haa Alifu — Maldives Administrative Divisions
+
+> 43 islands
+> Code: MV001
+> Coordinates: 7.012, 72.92
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އަލިދޫ (Alidhoo)
+
+Code: MV001018, Coordinates: 6.849, 73.152
+
+
+### އަލިދުއްފަރުފިނޮޅު (Alidhuffarufinolhu)
+
+Code: MV001019, Coordinates: 6.861, 73.104
+
+
+### ބާރަށް (Baarah)
+
+Code: MV001016, Coordinates: 6.817, 73.213
+
+
+### ބީނާފުށި (Beenaafushi)
+
+Code: MV001020, Coordinates: 6.928, 73.136
+
+
+### ބެރިންމަދޫ (Berinmadhoo)
+
+Code: MV001003, Coordinates: 7.047, 72.972
+
+
+### ދައްޕަރުހުރާ (Dhapparuhuraa)
+
+Code: MV001021, Coordinates: 6.915, 73.211
+
+
+### ދިގުފަރުހުރާ (Dhigufaruhuraa)
+
+Code: MV001022, Coordinates: 6.926, 72.97
+
+
+### ދިއްދޫ (Dhihdhoo)
+
+Code: MV001010, Coordinates: 6.887, 73.114
+
+
+### ދޮނަކުޅި (Dhonakulhi)
+
+Code: MV001023, Coordinates: 6.844, 73.051
+
+
+### ފިއްލަދޫ (Filladhoo)
+
+Code: MV001011, Coordinates: 6.897, 73.235
+
+
+### ގާމަތިކުޅުދޫ (Gaamathikulhudhoo)
+
+Code: MV001024, Coordinates: 7.039, 72.985
+
+
+### ގައްލަންދޫ (Gallandhoo)
+
+Code: MV001025, Coordinates: 6.947, 72.983
+
+
+### ގޮއްވާފުށި (Govvaafushi)
+
+Code: MV001026, Coordinates: 7.013, 72.919
+
+
+### ހަތިފުށި (Hathifushi)
+
+Code: MV001004, Coordinates: 7.02, 72.831
+
+
+### ހުވަހަންދޫ (Huvahandhoo)
+
+Code: MV001027, Coordinates: 6.96, 72.905
+
+
+### Huvarafushi
+
+Code: MV001006, Coordinates: 6.982, 72.896
+
+
+### އިހަވަންދޫ (Ihavandhoo)
+
+Code: MV001007, Coordinates: 6.953, 72.926
+
+
+### އިންނަފިނޮޅު (Innafinolhu)
+
+Code: MV001028, Coordinates: 7.074, 72.811
+
+
+### ކަނޑާލިފިނޮޅު (Kan&#39;daalifinolhu)
+
+Code: MV001029, Coordinates: 6.926, 73.13
+
+
+### ކެލާ (Kelaa)
+
+Code: MV001008, Coordinates: 6.952, 73.217
+
+
+### ކުޑަފިނޮޅު (Kudafinolhu)
+
+Code: MV001030, Coordinates: 6.989, 72.884
+
+
+### LD1509
+
+Code: MV001031, Coordinates: 6.973, 72.894
+
+
+### މާފަހި (Maafahi)
+
+Code: MV001017, Coordinates: 6.829, 73.155
+
+
+### މާފިނޮޅު (Maafinolhu)
+
+Code: MV001032, Coordinates: 7.002, 72.863
+
+
+### މާރަންދޫ (Maarandhoo)
+
+Code: MV001012, Coordinates: 6.852, 72.984
+
+
+### މާރަންދޫފަރުފިނޮޅު (Maarandhoofarufinolhu)
+
+Code: MV001033, Coordinates: 6.829, 72.972
+
+
+### މަޑުލު (Madulu)
+
+Code: MV001034, Coordinates: 7.055, 72.953
+
+
+### މަނަފަރު (Manafaru)
+
+Code: MV001035, Coordinates: 6.997, 72.94
+
+
+### މަތީރަށް (Matheerah)
+
+Code: MV001036, Coordinates: 7.028, 72.819
+
+
+### މެދަފުށި (Medhafushi)
+
+Code: MV001037, Coordinates: 7.011, 72.935
+
+
+### Mulhadhoo
+
+Code: MV001005, Coordinates: 7.015, 72.997
+
+
+### މުލިދޫ (Mulidhoo)
+
+Code: MV001038, Coordinates: 6.836, 73.011
+
+
+### މުރައިދޫ (Muraidhoo)
+
+Code: MV001015, Coordinates: 6.838, 73.167
+
+
+### ނަރިދޫ (Naridhoo)
+
+Code: MV001039, Coordinates: 6.895, 73.127
+
+
+### ތަކަންދޫ (Thakandhoo)
+
+Code: MV001013, Coordinates: 6.844, 72.995
+
+
+### ތުރާކުނު (Thuraakunu)
+
+Code: MV001001, Coordinates: 7.104, 72.899
+
+
+### Uligamu
+
+Code: MV001002, Coordinates: 7.084, 72.927
+
+
+### އުމުރަތްފިނޮޅު (Umuraifinolhu)
+
+Code: MV001040, Coordinates: 7.009, 72.851
+
+
+### އުނގުލިފިނޮޅު (Un&#39;gulifinolhu)
+
+Code: MV001041, Coordinates: 6.97, 72.901
+
+
+### އުތީމު (Utheemu)
+
+Code: MV001014, Coordinates: 6.834, 73.113
+
+
+### ވަނގާރު (Van&#39;gaaru)
+
+Code: MV001042, Coordinates: 7.093, 72.878
+
+
+### ވަށަފަރު (Vashafaru)
+
+Code: MV001009, Coordinates: 6.898, 73.162
+
+
+### ވެލިފިނޮޅު (Velifinolhu)
+
+Code: MV001043, Coordinates: 6.994, 72.875
+
+

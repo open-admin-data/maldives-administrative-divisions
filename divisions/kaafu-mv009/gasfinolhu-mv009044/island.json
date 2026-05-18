@@ -1,0 +1,45 @@
+{
+  "id": "MV009044",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ގަސްފިނޮޅު",
+    "en": "Gasfinolhu",
+    "slug": "gasfinolhu-mv009044"
+  },
+  "code": {
+    "id": "MV009044",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.361",
+    "lon": "73.626"
+  },
+  "metadata": {},
+  "source": {}
+}

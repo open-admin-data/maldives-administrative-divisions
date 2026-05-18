@@ -1,0 +1,45 @@
+{
+  "id": "MV020041",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1350",
+    "en": "LD1350",
+    "slug": "ld1350-mv020041"
+  },
+  "code": {
+    "id": "MV020041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV020",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު ދެކުނުބުރި",
+      "en": "Alifu Dhaalu",
+      "slug": "alifu-dhaalu-mv020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV020",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު ދެކުނުބުރި",
+        "en": "Alifu Dhaalu",
+        "slug": "alifu-dhaalu-mv020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.715",
+    "lon": "72.98"
+  },
+  "metadata": {},
+  "source": {}
+}

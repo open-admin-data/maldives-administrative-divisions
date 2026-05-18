@@ -1,0 +1,45 @@
+{
+  "id": "MV003026",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އެރިއަދޫ",
+    "en": "Eriadhoo",
+    "slug": "eriadhoo-mv003026"
+  },
+  "code": {
+    "id": "MV003026",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV003",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+      "en": "Shaviyani",
+      "slug": "shaviyani-mv003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV003",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+        "en": "Shaviyani",
+        "slug": "shaviyani-mv003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.104",
+    "lon": "73.289"
+  },
+  "metadata": {},
+  "source": {}
+}

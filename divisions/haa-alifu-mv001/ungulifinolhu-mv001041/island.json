@@ -1,0 +1,45 @@
+{
+  "id": "MV001041",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އުނގުލިފިނޮޅު",
+    "en": "Un'gulifinolhu",
+    "slug": "ungulifinolhu-mv001041"
+  },
+  "code": {
+    "id": "MV001041",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV001",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+      "en": "Haa Alifu",
+      "slug": "haa-alifu-mv001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV001",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+        "en": "Haa Alifu",
+        "slug": "haa-alifu-mv001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.97",
+    "lon": "72.901"
+  },
+  "metadata": {},
+  "source": {}
+}

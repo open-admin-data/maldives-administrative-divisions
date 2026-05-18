@@ -1,0 +1,29 @@
+{
+  "id": "MV002",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+    "en": "Haa Dhaalu",
+    "slug": "haa-dhaalu-mv002"
+  },
+  "code": {
+    "id": "MV002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.653",
+    "lon": "72.979"
+  },
+  "metadata": {},
+  "source": {}
+}

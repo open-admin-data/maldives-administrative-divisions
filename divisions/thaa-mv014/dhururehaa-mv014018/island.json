@@ -1,0 +1,45 @@
+{
+  "id": "MV014018",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދުރުރެހާ",
+    "en": "Dhururehaa",
+    "slug": "dhururehaa-mv014018"
+  },
+  "code": {
+    "id": "MV014018",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.169",
+    "lon": "73.012"
+  },
+  "metadata": {},
+  "source": {}
+}

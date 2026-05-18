@@ -1,0 +1,45 @@
+{
+  "id": "MV004031",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހުއިވަނި",
+    "en": "Huivani",
+    "slug": "huivani-mv004031"
+  },
+  "code": {
+    "id": "MV004031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV004",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+      "en": "Noonu",
+      "slug": "noonu-mv004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV004",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+        "en": "Noonu",
+        "slug": "noonu-mv004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.913",
+    "lon": "73.315"
+  },
+  "metadata": {},
+  "source": {}
+}

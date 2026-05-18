@@ -1,0 +1,45 @@
+{
+  "id": "MV015077",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މާކަޅުވެލި",
+    "en": "Maakalhuveli",
+    "slug": "maakalhuveli-mv015077"
+  },
+  "code": {
+    "id": "MV015077",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.788",
+    "lon": "73.339"
+  },
+  "metadata": {},
+  "source": {}
+}

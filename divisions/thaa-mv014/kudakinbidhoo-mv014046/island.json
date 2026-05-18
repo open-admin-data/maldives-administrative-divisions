@@ -1,0 +1,45 @@
+{
+  "id": "MV014046",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުޑަކިނބިދޫ",
+    "en": "Kudakin'bidhoo",
+    "slug": "kudakinbidhoo-mv014046"
+  },
+  "code": {
+    "id": "MV014046",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.165",
+    "lon": "73.063"
+  },
+  "metadata": {},
+  "source": {}
+}

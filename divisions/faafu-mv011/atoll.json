@@ -1,0 +1,29 @@
+{
+  "id": "MV011",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+    "en": "Faafu",
+    "slug": "faafu-mv011"
+  },
+  "code": {
+    "id": "MV011",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.188",
+    "lon": "72.932"
+  },
+  "metadata": {},
+  "source": {}
+}

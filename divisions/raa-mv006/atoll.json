@@ -1,0 +1,29 @@
+{
+  "id": "MV006",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+    "en": "Raa",
+    "slug": "raa-mv006"
+  },
+  "code": {
+    "id": "MV006",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 117
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.623",
+    "lon": "72.938"
+  },
+  "metadata": {},
+  "source": {}
+}

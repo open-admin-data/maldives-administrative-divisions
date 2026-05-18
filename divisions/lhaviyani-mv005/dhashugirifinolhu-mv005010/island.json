@@ -1,0 +1,45 @@
+{
+  "id": "MV005010",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދަށުގިރިފިނޮޅު",
+    "en": "Dhashugirifinolhu",
+    "slug": "dhashugirifinolhu-mv005010"
+  },
+  "code": {
+    "id": "MV005010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.422",
+    "lon": "73.425"
+  },
+  "metadata": {},
+  "source": {}
+}

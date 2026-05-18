@@ -1,0 +1,45 @@
+{
+  "id": "MV019028",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޮލިހެރަ",
+    "en": "Bolihera",
+    "slug": "bolihera-mv019028"
+  },
+  "code": {
+    "id": "MV019028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV019",
+    "level": 1,
+    "name": {
+      "local": "އައްޑުއަތޮޅު",
+      "en": "Seenu",
+      "slug": "seenu-mv019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV019",
+      "level": 1,
+      "name": {
+        "local": "އައްޑުއަތޮޅު",
+        "en": "Seenu",
+        "slug": "seenu-mv019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.611",
+    "lon": "73.11"
+  },
+  "metadata": {},
+  "source": {}
+}

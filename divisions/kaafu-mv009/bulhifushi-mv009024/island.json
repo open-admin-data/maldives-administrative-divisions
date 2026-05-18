@@ -1,0 +1,45 @@
+{
+  "id": "MV009024",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބުޅިފުށި",
+    "en": "Bulhifushi",
+    "slug": "bulhifushi-mv009024"
+  },
+  "code": {
+    "id": "MV009024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.98",
+    "lon": "73.501"
+  },
+  "metadata": {},
+  "source": {}
+}

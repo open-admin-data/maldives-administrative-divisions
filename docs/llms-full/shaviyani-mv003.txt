@@ -1,0 +1,304 @@
+# Shaviyani — Maldives Administrative Divisions
+
+> 59 islands
+> Code: MV003
+> Coordinates: 6.23, 73.135
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### ބިލެތްފަހި (Bileiyfahi)
+
+Code: MV003006, Coordinates: 6.338, 72.976
+
+
+### ބިސްއަޅާހުރާ (Bis Alhaahuraa)
+
+Code: MV003017, Coordinates: 6.155, 73.292
+
+
+### ބޮޑުހުރާ (Boduhuraa)
+
+Code: MV003018, Coordinates: 6.072, 73.044
+
+
+### ބޮލިއްސަފަރު (Bolissafaru)
+
+Code: MV003019, Coordinates: 5.981, 73.111
+
+
+### ދިގުރަށް (Dhigurah)
+
+Code: MV003020, Coordinates: 6.03, 73.068
+
+
+### ދިގުވެލިދޫމައިރަށް (Dhiguvelidhoomairah)
+
+Code: MV003021, Coordinates: 6.02, 73.088
+
+
+### ދޮޅިޔަދޫ (Dholhiyadhoo)
+
+Code: MV003022, Coordinates: 5.993, 73.211
+
+
+### ދޮޅިޔަދޫކުޑަރަށް (Dholhiyadhookudarah)
+
+Code: MV003023, Coordinates: 5.99, 73.224
+
+
+### ދޮންވެލިހުރާ (Dhonvelihuraa)
+
+Code: MV003024, Coordinates: 6.185, 73.299
+
+
+### އެކަސްދޫ (Ekasdhoo)
+
+Code: MV003025, Coordinates: 6.071, 73.284
+
+
+### އެރިއަދޫ (Eriadhoo)
+
+Code: MV003026, Coordinates: 6.104, 73.289
+
+
+### ފަރުކޮޅު (Farukolhu)
+
+Code: MV003027, Coordinates: 6.19, 73.298
+
+
+### ފީވަށް (Feevah)
+
+Code: MV003005, Coordinates: 6.349, 73.21
+
+
+### ފޭދޫ (Feydhoo)
+
+Code: MV003004, Coordinates: 6.36, 73.049
+
+
+### ފިރުނބައިދޫ (Firun&#39;baidhoo)
+
+Code: MV003012, Coordinates: 6.114, 73.228
+
+
+### ފޯކައިދޫ (Foakaidhoo)
+
+Code: MV003007, Coordinates: 6.327, 73.149
+
+
+### ފުނަދޫ (Funadhoo)
+
+Code: MV003015, Coordinates: 6.154, 73.289
+
+
+### ފުށިފަރު (Fushifaru)
+
+Code: MV003028, Coordinates: 6.396, 72.926
+
+
+### ގާކޮށިބި (Gaakoshibi)
+
+Code: MV003029, Coordinates: 6.287, 73.012
+
+
+### ގައްލައިދޫ (Gallaidhoo)
+
+Code: MV003030, Coordinates: 5.969, 73.124
+
+
+### ގޮއިދޫ (Goidhoo)
+
+Code: MV003003, Coordinates: 6.43, 72.93
+
+
+### ހިރުބަދޫ (Hirubadhoo)
+
+Code: MV003031, Coordinates: 6.188, 73.245
+
+
+### ހުރަސްފަރު (Hurasfaru)
+
+Code: MV003032, Coordinates: 6.141, 73.039
+
+
+### ކަކާއެރިޔަދޫ (Kakaaeriyadhoo)
+
+Code: MV003033, Coordinates: 6.478, 72.902
+
+
+### ކަނބާލިފަރު (Kan&#39;baalifaru)
+
+Code: MV003034, Coordinates: 6.125, 73.255
+
+
+### ކަނޑިތީމު (Kan&#39;ditheemu)
+
+Code: MV003001, Coordinates: 6.441, 72.917
+
+
+### ކީކިމިނި (Keekimini)
+
+Code: MV003035, Coordinates: 6.007, 73.112
+
+
+### ކޮމަންޑޫ (Komandoo)
+
+Code: MV003013, Coordinates: 6.054, 73.054
+
+
+### ކުޑަދޫ (Kudadhoo)
+
+Code: MV003036, Coordinates: 6.436, 72.907
+
+
+### ކުޑަފަރުފިނޮޅު (Kudafarufinolhu)
+
+Code: MV003037, Coordinates: 6.064, 73.044
+
+
+### ކުޑަޅައިމެންދޫ (Kudalhaimendhoo)
+
+Code: MV003038, Coordinates: 6.015, 73.297
+
+
+### LD1206
+
+Code: MV003039, Coordinates: 6.171, 73.296
+
+
+### LD1511
+
+Code: MV003040, Coordinates: 6.095, 73.03
+
+
+### LD1512
+
+Code: MV003041, Coordinates: 6.122, 73.026
+
+
+### LD1513
+
+Code: MV003042, Coordinates: 6.279, 73.01
+
+
+### LD1514
+
+Code: MV003043, Coordinates: 6.472, 72.89
+
+
+### LD1515
+
+Code: MV003044, Coordinates: 6.068, 73.044
+
+
+### LD1516
+
+Code: MV003045, Coordinates: 6.142, 73.049
+
+
+### LD1517
+
+Code: MV003046, Coordinates: 6.142, 73.056
+
+
+### ޅައިމަގު (Lhaimagu)
+
+Code: MV003011, Coordinates: 6.164, 73.251
+
+
+### މާކަނޑޫދޫ (Maakan&#39;doodhoo)
+
+Code: MV003009, Coordinates: 6.235, 73.268
+
+
+### މާއުނގޫދޫ (Maaun&#39;goodhoo)
+
+Code: MV003014, Coordinates: 6.037, 73.284
+
+
+### މަޑިދޫ (Madidhoo)
+
+Code: MV003047, Coordinates: 6.302, 73.109
+
+
+### މަޑިކުރެއްދޫ (Madikuredhdhoo)
+
+Code: MV003048, Coordinates: 6.284, 73.151
+
+
+### މަރޮށި (Maroshi)
+
+Code: MV003010, Coordinates: 6.21, 73.061
+
+
+### މަތިކޮމަންޑޫ (Mathikomandoo)
+
+Code: MV003049, Coordinates: 6.057, 73.046
+
+
+### މެދުކުނބުރުދޫ (Medhukun&#39;burudhoo)
+
+Code: MV003050, Coordinates: 6.197, 73.03
+
+
+### މެދުރަށް (Medhurah)
+
+Code: MV003051, Coordinates: 6.024, 73.077
+
+
+### މިގޫދޫ (Migoodhoo)
+
+Code: MV003052, Coordinates: 6.229, 73.241
+
+
+### މިލަންދޫ (Milandhoo)
+
+Code: MV003016, Coordinates: 6.287, 73.245
+
+
+### ނާއިންފަރުފިނޮޅު (Naainfarufinolhu)
+
+Code: MV003053, Coordinates: 6.203, 72.999
+
+
+### ނާލާހުރާ (Naalaahuraa)
+
+Code: MV003054, Coordinates: 6.128, 73.036
+
+
+### ނަލަންދޫ (Nalandhoo)
+
+Code: MV003055, Coordinates: 6.325, 73.23
+
+
+### ނަރުދޫ (Narudhoo)
+
+Code: MV003008, Coordinates: 6.264, 73.218
+
+
+### ނަރުރިނބުދޫ (Narurin&#39;budhoo)
+
+Code: MV003056, Coordinates: 6.279, 73.196
+
+
+### ނެޔޮ (Neyo)
+
+Code: MV003057, Coordinates: 6.45, 73.06
+
+
+### ނޫމަރާ (Noomaraa)
+
+Code: MV003002, Coordinates: 6.434, 73.069
+
+
+### ރައްގަނޑުހުރާ (Raggan&#39;duhuraa)
+
+Code: MV003058, Coordinates: 6.112, 73.038
+
+
+### ވަނގަރު (Van&#39;garu)
+
+Code: MV003059, Coordinates: 6.089, 73.204
+
+

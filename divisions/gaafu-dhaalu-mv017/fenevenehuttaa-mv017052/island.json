@@ -1,0 +1,45 @@
+{
+  "id": "MV017052",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފެނެވެނެހުއްޓާ",
+    "en": "Fenevenehuttaa",
+    "slug": "fenevenehuttaa-mv017052"
+  },
+  "code": {
+    "id": "MV017052",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV017",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+      "en": "Gaafu Dhaalu",
+      "slug": "gaafu-dhaalu-mv017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV017",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+        "en": "Gaafu Dhaalu",
+        "slug": "gaafu-dhaalu-mv017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.267",
+    "lon": "73.088"
+  },
+  "metadata": {},
+  "source": {}
+}

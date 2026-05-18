@@ -1,0 +1,45 @@
+{
+  "id": "MV002013",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުމުންދޫ",
+    "en": "Kumundhoo",
+    "slug": "kumundhoo-mv002013"
+  },
+  "code": {
+    "id": "MV002013",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV002",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+      "en": "Haa Dhaalu",
+      "slug": "haa-dhaalu-mv002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.571",
+    "lon": "73.053"
+  },
+  "metadata": {},
+  "source": {}
+}

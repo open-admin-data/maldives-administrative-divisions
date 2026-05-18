@@ -1,0 +1,45 @@
+{
+  "id": "MV014062",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ޅަވައްޑޫ",
+    "en": "Lhavaddoo",
+    "slug": "lhavaddoo-mv014062"
+  },
+  "code": {
+    "id": "MV014062",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.306",
+    "lon": "73.291"
+  },
+  "metadata": {},
+  "source": {}
+}

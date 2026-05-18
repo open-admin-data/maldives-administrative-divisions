@@ -1,0 +1,29 @@
+{
+  "id": "MV014",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ކޮޅުމަޑުލު",
+    "en": "Thaa",
+    "slug": "thaa-mv014"
+  },
+  "code": {
+    "id": "MV014",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.362",
+    "lon": "73.134"
+  },
+  "metadata": {},
+  "source": {}
+}

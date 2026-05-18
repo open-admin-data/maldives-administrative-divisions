@@ -1,0 +1,45 @@
+{
+  "id": "MV009065",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުޑަބަނޑޮސް",
+    "en": "Kudaban'dos",
+    "slug": "kudabandos-mv009065"
+  },
+  "code": {
+    "id": "MV009065",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.264",
+    "lon": "73.5"
+  },
+  "metadata": {},
+  "source": {}
+}

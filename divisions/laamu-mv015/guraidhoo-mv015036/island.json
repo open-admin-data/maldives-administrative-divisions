@@ -1,0 +1,45 @@
+{
+  "id": "MV015036",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ގުރައިދޫ",
+    "en": "Guraidhoo",
+    "slug": "guraidhoo-mv015036"
+  },
+  "code": {
+    "id": "MV015036",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.908",
+    "lon": "73.255"
+  },
+  "metadata": {},
+  "source": {}
+}

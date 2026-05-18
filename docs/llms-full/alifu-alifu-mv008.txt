@@ -1,0 +1,239 @@
+# Alifu Alifu — Maldives Administrative Divisions
+
+> 46 islands
+> Code: MV008
+> Coordinates: 4.095, 72.831
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އަލިކޮއިރަށް (Alikoirah)
+
+Code: MV008010, Coordinates: 3.943, 72.88
+
+
+### ބަތަލާ (Bathalaa)
+
+Code: MV008011, Coordinates: 4.07, 72.946
+
+
+### ބޮޑުފޮޅުދޫ (Bodufolhudhoo)
+
+Code: MV008005, Coordinates: 4.186, 72.774
+
+
+### ދިންނޮޅުފިނޮޅު (Dhinnolhufinolhu)
+
+Code: MV008012, Coordinates: 4.139, 72.733
+
+
+### އެއްލައިދޫ (Ellaidhoo)
+
+Code: MV008013, Coordinates: 4.006, 72.949
+
+
+### އެތެރެމަޑިވަރު (Etheremadivaru)
+
+Code: MV008014, Coordinates: 4.119, 72.938
+
+
+### ފެރިދޫ (Feridhoo)
+
+Code: MV008006, Coordinates: 4.051, 72.726
+
+
+### ފެސްދޫ (Fesdhoo)
+
+Code: MV008015, Coordinates: 4.007, 72.811
+
+
+### ފުސްފިނޮޅު (Fusfinolhu)
+
+Code: MV008016, Coordinates: 4.019, 72.958
+
+
+### ފުށި (Fushi)
+
+Code: MV008017, Coordinates: 4.216, 72.884
+
+
+### ގާގަނޑު (Gaagan&#39;du)
+
+Code: MV008018, Coordinates: 4.233, 72.865
+
+
+### ގާތަފުށި (Gaathafushi)
+
+Code: MV008019, Coordinates: 4.024, 72.811
+
+
+### ގަންގެހި (Gangehi)
+
+Code: MV008020, Coordinates: 4.22, 72.755
+
+
+### ހަލަވެލި (Halaveli)
+
+Code: MV008021, Coordinates: 4.039, 72.92
+
+
+### Himendhoo
+
+Code: MV008008, Coordinates: 3.921, 72.744
+
+
+### ކަނދޮޅުދޫ (Kan&#39;dholhudhoo)
+
+Code: MV008022, Coordinates: 4.003, 72.882
+
+
+### ކުޑަފޮޅުދޫ (Kudafolhudhoo)
+
+Code: MV008023, Coordinates: 4.181, 72.767
+
+
+### ކުރަމަތި (Kuramathi)
+
+Code: MV008024, Coordinates: 4.26, 72.984
+
+
+### LD1342
+
+Code: MV008025, Coordinates: 4.12, 72.942
+
+
+### LD1343
+
+Code: MV008026, Coordinates: 3.953, 72.947
+
+
+### LD1346
+
+Code: MV008027, Coordinates: 4.183, 72.766
+
+
+### LD1455
+
+Code: MV008028, Coordinates: 4.281, 73.008
+
+
+### LD1456
+
+Code: MV008029, Coordinates: 4.275, 73.004
+
+
+### LD1577
+
+Code: MV008030, Coordinates: 4.116, 72.933
+
+
+### LD1578
+
+Code: MV008031, Coordinates: 4.193, 72.813
+
+
+### LD1579
+
+Code: MV008032, Coordinates: 3.998, 72.948
+
+
+### LD1580
+
+Code: MV008033, Coordinates: 4.177, 72.761
+
+
+### LD1581
+
+Code: MV008034, Coordinates: 3.924, 72.743
+
+
+### LD1582
+
+Code: MV008035, Coordinates: 4.084, 72.91
+
+
+### LD1583
+
+Code: MV008036, Coordinates: 3.97, 72.775
+
+
+### މާގައު (Maagau)
+
+Code: MV008037, Coordinates: 3.989, 72.957
+
+
+### މާޅޮސް (Maalhos)
+
+Code: MV008007, Coordinates: 3.986, 72.719
+
+
+### މާޔަފުށި (Maayafushi)
+
+Code: MV008038, Coordinates: 4.074, 72.888
+
+
+### މަޑިވަރު (Madivaru)
+
+Code: MV008039, Coordinates: 4.266, 73
+
+
+### މަޑިވަރުފިނޮޅު (Madivarufinolhu)
+
+Code: MV008040, Coordinates: 4.27, 73.001
+
+
+### މަޑޫގަލި (Madoogali)
+
+Code: MV008041, Coordinates: 4.096, 72.753
+
+
+### މަތިވެރީފިނޮޅު (Mathivereefinolhu)
+
+Code: MV008042, Coordinates: 4.186, 72.75
+
+
+### މަތިވެރި (Mathiveri)
+
+Code: MV008004, Coordinates: 4.192, 72.746
+
+
+### މުށިމަސްމިގިލި (Mushimasmigili)
+
+Code: MV008043, Coordinates: 3.959, 72.913
+
+
+### ރަސްދޫ (Rasdhoo)
+
+Code: MV008002, Coordinates: 4.263, 72.992
+
+
+### ތޮއްޑޫ (Thoddoo)
+
+Code: MV008001, Coordinates: 4.437, 72.959
+
+
+### އުކުޅަސް (Ukulhas)
+
+Code: MV008003, Coordinates: 4.215, 72.865
+
+
+### ވެލިދޫ (Velidhoo)
+
+Code: MV008044, Coordinates: 4.194, 72.819
+
+
+### ވެލިފިނޮޅު (Velifinolhu)
+
+Code: MV008045, Coordinates: 4.293, 73.01
+
+
+### ވެލިގަނޑު (Veligan&#39;du)
+
+Code: MV008046, Coordinates: 4.299, 73.012
+
+
+### ވިހަމާފަރު (Vihamaafaru)
+
+Code: MV008009, Coordinates: 4.122, 72.746
+
+

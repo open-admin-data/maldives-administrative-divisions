@@ -1,0 +1,344 @@
+# Meemu — Maldives Administrative Divisions
+
+> 67 islands
+> Code: MV013
+> Coordinates: 2.961, 73.494
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### ބޯހުރާ (Boahuraa)
+
+Code: MV013010, Coordinates: 2.926, 73.586
+
+
+### ބޮޑުކަނޑުހުރާ (Bodukan&#39;duhuraa)
+
+Code: MV013011, Coordinates: 2.825, 73.369
+
+
+### ދެކުނުބޮޑުވެލި (Dhekunuboduveli)
+
+Code: MV013012, Coordinates: 2.826, 73.452
+
+
+### ދިއްގަރު (Dhiggaru)
+
+Code: MV013008, Coordinates: 3.112, 73.565
+
+
+### ދިއްތުނޑި (Dhihthun&#39;di)
+
+Code: MV013013, Coordinates: 2.767, 73.421
+
+
+### އެއްރުއްހުރާ (Erruhhuraa)
+
+Code: MV013014, Coordinates: 3.07, 73.642
+
+
+### އެތެރެފަސްގަނޑު (Etherefasgan&#39;du)
+
+Code: MV013015, Coordinates: 2.779, 73.418
+
+
+### ފެންފުރާވެލި (Fenfuraaveli)
+
+Code: MV013016, Coordinates: 2.788, 73.427
+
+
+### ގާކުރަލި (Gaakurali)
+
+Code: MV013017, Coordinates: 2.781, 73.373
+
+
+### ގަސްވެލި (Gasveli)
+
+Code: MV013018, Coordinates: 2.819, 73.444
+
+
+### ގޮންގަލިހުރާ (Gongalihuraa)
+
+Code: MV013019, Coordinates: 2.854, 73.551
+
+
+### ހަކުރާހުރާ (Hakuraahuraa)
+
+Code: MV013020, Coordinates: 2.855, 73.536
+
+
+### ހުދުވެލި (Hudhuveli)
+
+Code: MV013021, Coordinates: 3.036, 73.62
+
+
+### ހުރަސްވެލި (Hurasveli)
+
+Code: MV013022, Coordinates: 3.019, 73.618
+
+
+### ކަކާހުރާ (Kakaahuraa)
+
+Code: MV013023, Coordinates: 2.853, 73.535
+
+
+### ކެކުރާޅުވެލި (Kekuraalhuveli)
+
+Code: MV013024, Coordinates: 2.83, 73.458
+
+
+### ކޮޅުފުށި (Kolhufushi)
+
+Code: MV013007, Coordinates: 2.777, 73.425
+
+
+### ކުޑައުސްފުށި (Kudausfushi)
+
+Code: MV013025, Coordinates: 2.804, 73.434
+
+
+### ކުރަދިގަނޑު (Kuradhigan&#39;du)
+
+Code: MV013026, Coordinates: 2.774, 73.373
+
+
+### LD0176
+
+Code: MV013027, Coordinates: 3.019, 73.38
+
+
+### LD0294
+
+Code: MV013028, Coordinates: 2.785, 73.369
+
+
+### LD0498
+
+Code: MV013029, Coordinates: 3.056, 73.378
+
+
+### LD0587
+
+Code: MV013030, Coordinates: 2.81, 73.368
+
+
+### LD0625
+
+Code: MV013031, Coordinates: 2.832, 73.37
+
+
+### LD0892
+
+Code: MV013032, Coordinates: 2.99, 73.379
+
+
+### LD0920
+
+Code: MV013033, Coordinates: 3.063, 73.378
+
+
+### LD0934
+
+Code: MV013034, Coordinates: 3.025, 73.379
+
+
+### LD0967
+
+Code: MV013035, Coordinates: 2.787, 73.369
+
+
+### LD1059
+
+Code: MV013036, Coordinates: 2.79, 73.369
+
+
+### LD1067
+
+Code: MV013037, Coordinates: 2.904, 73.571
+
+
+### LD1116
+
+Code: MV013038, Coordinates: 2.829, 73.369
+
+
+### LD1372
+
+Code: MV013039, Coordinates: 3.09, 73.626
+
+
+### LD1379
+
+Code: MV013040, Coordinates: 2.78, 73.371
+
+
+### LD1460
+
+Code: MV013041, Coordinates: 3.019, 73.38
+
+
+### LD1625
+
+Code: MV013042, Coordinates: 3.036, 73.62
+
+
+### LD1626
+
+Code: MV013043, Coordinates: 2.832, 73.461
+
+
+### LD1627
+
+Code: MV013044, Coordinates: 2.832, 73.459
+
+
+### LD1628
+
+Code: MV013045, Coordinates: 3.104, 73.583
+
+
+### LD1629
+
+Code: MV013046, Coordinates: 3.096, 73.623
+
+
+### LD1630
+
+Code: MV013047, Coordinates: 3.081, 73.623
+
+
+### LD1631
+
+Code: MV013048, Coordinates: 3.081, 73.628
+
+
+### LD1632
+
+Code: MV013049, Coordinates: 3.091, 73.62
+
+
+### LD1633
+
+Code: MV013050, Coordinates: 3.084, 73.637
+
+
+### LD1634
+
+Code: MV013051, Coordinates: 3.084, 73.635
+
+
+### LD1635
+
+Code: MV013052, Coordinates: 3.084, 73.635
+
+
+### LD1636
+
+Code: MV013053, Coordinates: 3.079, 73.648
+
+
+### LD1637
+
+Code: MV013054, Coordinates: 3.034, 73.618
+
+
+### LD1638
+
+Code: MV013055, Coordinates: 2.78, 73.419
+
+
+### މާހުރާ (Maahuraa)
+
+Code: MV013056, Coordinates: 2.794, 73.428
+
+
+### މާޅަވެލި (Maalhaveli)
+
+Code: MV013057, Coordinates: 2.905, 73.579
+
+
+### މާއުސްފުށި (Maausfushi)
+
+Code: MV013058, Coordinates: 2.798, 73.432
+
+
+### މަޑިފުށި (Madifushi)
+
+Code: MV013002, Coordinates: 3.081, 73.639
+
+
+### މަޑުއްވަރި (Maduvvari)
+
+Code: MV013009, Coordinates: 3.105, 73.573
+
+
+### މެދުފުށި (Medhufushi)
+
+Code: MV013059, Coordinates: 2.886, 73.576
+
+
+### މުލައް (Mulah)
+
+Code: MV013004, Coordinates: 2.947, 73.585
+
+
+### މުލި (Muli)
+
+Code: MV013005, Coordinates: 2.918, 73.581
+
+
+### ނާލާފުށި (Naalaafushi)
+
+Code: MV013006, Coordinates: 2.896, 73.578
+
+
+### ރާބަނދިހުރާ (Raaban&#39;dhihuraa)
+
+Code: MV013060, Coordinates: 3.092, 73.389
+
+
+### ރަތްމަންދޫ (Raiymandhoo)
+
+Code: MV013001, Coordinates: 3.089, 73.639
+
+
+### ސީދީހުރާ (Seedheehuraa)
+
+Code: MV013061, Coordinates: 2.858, 73.557
+
+
+### ސީދީހުރާވެލިގަނޑު (Seedheehuraaveligan&#39;du)
+
+Code: MV013062, Coordinates: 2.86, 73.554
+
+
+### ތުވަރު (Thuvaru)
+
+Code: MV013063, Coordinates: 2.899, 73.379
+
+
+### ތުވަރުއުތުރުހުރާ (Thuvaru Uthuruhuraa)
+
+Code: MV013064, Coordinates: 2.947, 73.377
+
+
+### އުތުރުބޮޑުވެލި (Uthuruboduveli)
+
+Code: MV013065, Coordinates: 3.026, 73.619
+
+
+### އުތުރުގަސެވެލި (Uthurugaseveli)
+
+Code: MV013066, Coordinates: 3.031, 73.619
+
+
+### ވަންނަނެރުފަސްގަނޑު (Vannanerufasgan&#39;du)
+
+Code: MV013067, Coordinates: 2.781, 73.41
+
+
+### ވޭވަށް (Veyvah)
+
+Code: MV013003, Coordinates: 2.956, 73.6
+
+

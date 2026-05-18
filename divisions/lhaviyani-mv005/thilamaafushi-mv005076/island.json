@@ -1,0 +1,45 @@
+{
+  "id": "MV005076",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ތިލަމާފުށި",
+    "en": "Thilamaafushi",
+    "slug": "thilamaafushi-mv005076"
+  },
+  "code": {
+    "id": "MV005076",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.273",
+    "lon": "73.587"
+  },
+  "metadata": {},
+  "source": {}
+}

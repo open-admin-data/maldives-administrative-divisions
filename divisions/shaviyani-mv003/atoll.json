@@ -1,0 +1,29 @@
+{
+  "id": "MV003",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+    "en": "Shaviyani",
+    "slug": "shaviyani-mv003"
+  },
+  "code": {
+    "id": "MV003",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.23",
+    "lon": "73.135"
+  },
+  "metadata": {},
+  "source": {}
+}

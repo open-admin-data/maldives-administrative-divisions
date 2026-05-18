@@ -1,0 +1,45 @@
+{
+  "id": "MV009062",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކަނުއޮތްހުރާ",
+    "en": "Kanuoiyhuraa",
+    "slug": "kanuoiyhuraa-mv009062"
+  },
+  "code": {
+    "id": "MV009062",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.319",
+    "lon": "73.591"
+  },
+  "metadata": {},
+  "source": {}
+}

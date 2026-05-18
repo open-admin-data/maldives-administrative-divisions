@@ -1,0 +1,29 @@
+{
+  "id": "MV012",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ނިލަންދެއަތޮޅު ދެކުނުބުރި",
+    "en": "Dhaalu",
+    "slug": "dhaalu-mv012"
+  },
+  "code": {
+    "id": "MV012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.834",
+    "lon": "72.929"
+  },
+  "metadata": {},
+  "source": {}
+}

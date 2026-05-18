@@ -1,0 +1,45 @@
+{
+  "id": "MV005062",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ޅޮއްސަލަފުށި",
+    "en": "Lhossalafushi",
+    "slug": "lhossalafushi-mv005062"
+  },
+  "code": {
+    "id": "MV005062",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.307",
+    "lon": "73.483"
+  },
+  "metadata": {},
+  "source": {}
+}

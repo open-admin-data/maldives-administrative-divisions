@@ -1,0 +1,45 @@
+{
+  "id": "MV008019",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ގާތަފުށި",
+    "en": "Gaathafushi",
+    "slug": "gaathafushi-mv008019"
+  },
+  "code": {
+    "id": "MV008019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV008",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު އުތުރުބުރި",
+      "en": "Alifu Alifu",
+      "slug": "alifu-alifu-mv008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.024",
+    "lon": "72.811"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV019029",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދީރޮނޑި",
+    "en": "Dheeron'di",
+    "slug": "dheerondi-mv019029"
+  },
+  "code": {
+    "id": "MV019029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV019",
+    "level": 1,
+    "name": {
+      "local": "އައްޑުއަތޮޅު",
+      "en": "Seenu",
+      "slug": "seenu-mv019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV019",
+      "level": 1,
+      "name": {
+        "local": "އައްޑުއަތޮޅު",
+        "en": "Seenu",
+        "slug": "seenu-mv019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.595",
+    "lon": "73.087"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV005028",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކަޅުމަންޖެހުރާ",
+    "en": "Kalhumanjehuraa",
+    "slug": "kalhumanjehuraa-mv005028"
+  },
+  "code": {
+    "id": "MV005028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.554",
+    "lon": "73.483"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,53 @@
+# Maldives Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Per-Atoll Data Files
+
+- [Alifu Alifu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/alifu-alifu-mv008.txt) — 46 islands
+- [Alifu Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/alifu-dhaalu-mv020.txt) — 81 islands
+- [Baa](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/baa-mv007.txt) — 118 islands
+- [Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/dhaalu-mv012.txt) — 69 islands
+- [Faafu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/faafu-mv011.txt) — 33 islands
+- [Gaafu Alifu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/gaafu-alifu-mv016.txt) — 104 islands
+- [Gaafu Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/gaafu-dhaalu-mv017.txt) — 170 islands
+- [Gnaviyani](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/gnaviyani-mv018.txt) — 1 islands
+- [Haa Alifu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/haa-alifu-mv001.txt) — 43 islands
+- [Haa Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/haa-dhaalu-mv002.txt) — 36 islands
+- [Kaafu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/kaafu-mv009.txt) — 195 islands
+- [Laamu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/laamu-mv015.txt) — 90 islands
+- [Lhaviyani](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/lhaviyani-mv005.txt) — 81 islands
+- [Male](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/male-mv021.txt) — 3 islands
+- [Meemu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/meemu-mv013.txt) — 67 islands
+- [Noonu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/noonu-mv004.txt) — 80 islands
+- [Raa](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/raa-mv006.txt) — 117 islands
+- [Seenu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/seenu-mv019.txt) — 40 islands
+- [Shaviyani](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/shaviyani-mv003.txt) — 59 islands
+- [Thaa](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/thaa-mv014.txt) — 75 islands
+- [Vaavu](https://github.com/open-admin-data/maldives-administrative-divisions/blob/main/docs/llms-full/vaavu-mv010.txt) — 48 islands
+
+## Summary
+
+| Atoll | Islands | 
+|---|---|
+| Alifu Alifu | 46 | 
+| Alifu Dhaalu | 81 | 
+| Baa | 118 | 
+| Dhaalu | 69 | 
+| Faafu | 33 | 
+| Gaafu Alifu | 104 | 
+| Gaafu Dhaalu | 170 | 
+| Gnaviyani | 1 | 
+| Haa Alifu | 43 | 
+| Haa Dhaalu | 36 | 
+| Kaafu | 195 | 
+| Laamu | 90 | 
+| Lhaviyani | 81 | 
+| Male | 3 | 
+| Meemu | 67 | 
+| Noonu | 80 | 
+| Raa | 117 | 
+| Seenu | 40 | 
+| Shaviyani | 59 | 
+| Thaa | 75 | 
+| Vaavu | 48 | 

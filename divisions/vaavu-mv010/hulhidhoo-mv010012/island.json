@@ -1,0 +1,45 @@
+{
+  "id": "MV010012",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހުޅިދޫ",
+    "en": "Hulhidhoo",
+    "slug": "hulhidhoo-mv010012"
+  },
+  "code": {
+    "id": "MV010012",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.493",
+    "lon": "73.533"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV001010",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދިއްދޫ",
+    "en": "Dhihdhoo",
+    "slug": "dhihdhoo-mv001010"
+  },
+  "code": {
+    "id": "MV001010",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV001",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+      "en": "Haa Alifu",
+      "slug": "haa-alifu-mv001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV001",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+        "en": "Haa Alifu",
+        "slug": "haa-alifu-mv001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.887",
+    "lon": "73.114"
+  },
+  "metadata": {},
+  "source": {}
+}

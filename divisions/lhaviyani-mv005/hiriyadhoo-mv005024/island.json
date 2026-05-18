@@ -1,0 +1,45 @@
+{
+  "id": "MV005024",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހިރިޔަދޫ",
+    "en": "Hiriyadhoo",
+    "slug": "hiriyadhoo-mv005024"
+  },
+  "code": {
+    "id": "MV005024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.412",
+    "lon": "73.645"
+  },
+  "metadata": {},
+  "source": {}
+}

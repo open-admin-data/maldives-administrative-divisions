@@ -1,0 +1,45 @@
+{
+  "id": "MV014024",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފޮނިދާނި",
+    "en": "Fonidhaani",
+    "slug": "fonidhaani-mv014024"
+  },
+  "code": {
+    "id": "MV014024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.301",
+    "lon": "73.285"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV009028",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އެއްމަފުށި",
+    "en": "Ehmafushi",
+    "slug": "ehmafushi-mv009028"
+  },
+  "code": {
+    "id": "MV009028",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.12",
+    "lon": "73.468"
+  },
+  "metadata": {},
+  "source": {}
+}

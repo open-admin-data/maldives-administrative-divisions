@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "MV008010",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އަލިކޮއިރަށް",
+      "en": "Alikoirah",
+      "slug": "alikoirah-mv008010"
+    },
+    "code": {
+      "id": "MV008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.943",
+      "lon": "72.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008011",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ބަތަލާ",
+      "en": "Bathalaa",
+      "slug": "bathalaa-mv008011"
+    },
+    "code": {
+      "id": "MV008011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.07",
+      "lon": "72.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008005",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ބޮޑުފޮޅުދޫ",
+      "en": "Bodufolhudhoo",
+      "slug": "bodufolhudhoo-mv008005"
+    },
+    "code": {
+      "id": "MV008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.186",
+      "lon": "72.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008012",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ދިންނޮޅުފިނޮޅު",
+      "en": "Dhinnolhufinolhu",
+      "slug": "dhinnolhufinolhu-mv008012"
+    },
+    "code": {
+      "id": "MV008012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.139",
+      "lon": "72.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008013",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އެއްލައިދޫ",
+      "en": "Ellaidhoo",
+      "slug": "ellaidhoo-mv008013"
+    },
+    "code": {
+      "id": "MV008013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.006",
+      "lon": "72.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008014",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އެތެރެމަޑިވަރު",
+      "en": "Etheremadivaru",
+      "slug": "etheremadivaru-mv008014"
+    },
+    "code": {
+      "id": "MV008014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.119",
+      "lon": "72.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008006",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފެރިދޫ",
+      "en": "Feridhoo",
+      "slug": "feridhoo-mv008006"
+    },
+    "code": {
+      "id": "MV008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.051",
+      "lon": "72.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008015",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފެސްދޫ",
+      "en": "Fesdhoo",
+      "slug": "fesdhoo-mv008015"
+    },
+    "code": {
+      "id": "MV008015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.007",
+      "lon": "72.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008016",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފުސްފިނޮޅު",
+      "en": "Fusfinolhu",
+      "slug": "fusfinolhu-mv008016"
+    },
+    "code": {
+      "id": "MV008016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.019",
+      "lon": "72.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008017",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފުށި",
+      "en": "Fushi",
+      "slug": "fushi-mv008017"
+    },
+    "code": {
+      "id": "MV008017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.216",
+      "lon": "72.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008018",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ގާގަނޑު",
+      "en": "Gaagan'du",
+      "slug": "gaagandu-mv008018"
+    },
+    "code": {
+      "id": "MV008018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.233",
+      "lon": "72.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008019",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ގާތަފުށި",
+      "en": "Gaathafushi",
+      "slug": "gaathafushi-mv008019"
+    },
+    "code": {
+      "id": "MV008019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.024",
+      "lon": "72.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008020",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ގަންގެހި",
+      "en": "Gangehi",
+      "slug": "gangehi-mv008020"
+    },
+    "code": {
+      "id": "MV008020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.22",
+      "lon": "72.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008021",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ހަލަވެލި",
+      "en": "Halaveli",
+      "slug": "halaveli-mv008021"
+    },
+    "code": {
+      "id": "MV008021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.039",
+      "lon": "72.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008008",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Himendhoo",
+      "en": "Himendhoo",
+      "slug": "himendhoo-mv008008"
+    },
+    "code": {
+      "id": "MV008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.921",
+      "lon": "72.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008022",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކަނދޮޅުދޫ",
+      "en": "Kan'dholhudhoo",
+      "slug": "kandholhudhoo-mv008022"
+    },
+    "code": {
+      "id": "MV008022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.003",
+      "lon": "72.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008023",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުޑަފޮޅުދޫ",
+      "en": "Kudafolhudhoo",
+      "slug": "kudafolhudhoo-mv008023"
+    },
+    "code": {
+      "id": "MV008023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.181",
+      "lon": "72.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008024",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުރަމަތި",
+      "en": "Kuramathi",
+      "slug": "kuramathi-mv008024"
+    },
+    "code": {
+      "id": "MV008024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.26",
+      "lon": "72.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008025",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1342",
+      "en": "LD1342",
+      "slug": "ld1342-mv008025"
+    },
+    "code": {
+      "id": "MV008025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.12",
+      "lon": "72.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008026",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1343",
+      "en": "LD1343",
+      "slug": "ld1343-mv008026"
+    },
+    "code": {
+      "id": "MV008026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.953",
+      "lon": "72.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008027",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1346",
+      "en": "LD1346",
+      "slug": "ld1346-mv008027"
+    },
+    "code": {
+      "id": "MV008027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.183",
+      "lon": "72.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008028",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1455",
+      "en": "LD1455",
+      "slug": "ld1455-mv008028"
+    },
+    "code": {
+      "id": "MV008028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.281",
+      "lon": "73.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008029",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1456",
+      "en": "LD1456",
+      "slug": "ld1456-mv008029"
+    },
+    "code": {
+      "id": "MV008029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.275",
+      "lon": "73.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008030",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1577",
+      "en": "LD1577",
+      "slug": "ld1577-mv008030"
+    },
+    "code": {
+      "id": "MV008030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.116",
+      "lon": "72.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008031",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1578",
+      "en": "LD1578",
+      "slug": "ld1578-mv008031"
+    },
+    "code": {
+      "id": "MV008031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.193",
+      "lon": "72.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008032",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1579",
+      "en": "LD1579",
+      "slug": "ld1579-mv008032"
+    },
+    "code": {
+      "id": "MV008032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.998",
+      "lon": "72.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008033",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1580",
+      "en": "LD1580",
+      "slug": "ld1580-mv008033"
+    },
+    "code": {
+      "id": "MV008033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.177",
+      "lon": "72.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008034",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1581",
+      "en": "LD1581",
+      "slug": "ld1581-mv008034"
+    },
+    "code": {
+      "id": "MV008034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.924",
+      "lon": "72.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008035",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1582",
+      "en": "LD1582",
+      "slug": "ld1582-mv008035"
+    },
+    "code": {
+      "id": "MV008035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.084",
+      "lon": "72.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008036",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1583",
+      "en": "LD1583",
+      "slug": "ld1583-mv008036"
+    },
+    "code": {
+      "id": "MV008036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.97",
+      "lon": "72.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008037",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މާގައު",
+      "en": "Maagau",
+      "slug": "maagau-mv008037"
+    },
+    "code": {
+      "id": "MV008037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.989",
+      "lon": "72.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008007",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މާޅޮސް",
+      "en": "Maalhos",
+      "slug": "maalhos-mv008007"
+    },
+    "code": {
+      "id": "MV008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.986",
+      "lon": "72.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008038",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މާޔަފުށި",
+      "en": "Maayafushi",
+      "slug": "maayafushi-mv008038"
+    },
+    "code": {
+      "id": "MV008038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.074",
+      "lon": "72.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008039",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މަޑިވަރު",
+      "en": "Madivaru",
+      "slug": "madivaru-mv008039"
+    },
+    "code": {
+      "id": "MV008039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.266",
+      "lon": "73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008040",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މަޑިވަރުފިނޮޅު",
+      "en": "Madivarufinolhu",
+      "slug": "madivarufinolhu-mv008040"
+    },
+    "code": {
+      "id": "MV008040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.27",
+      "lon": "73.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008041",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މަޑޫގަލި",
+      "en": "Madoogali",
+      "slug": "madoogali-mv008041"
+    },
+    "code": {
+      "id": "MV008041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.096",
+      "lon": "72.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008042",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މަތިވެރީފިނޮޅު",
+      "en": "Mathivereefinolhu",
+      "slug": "mathivereefinolhu-mv008042"
+    },
+    "code": {
+      "id": "MV008042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.186",
+      "lon": "72.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008004",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މަތިވެރި",
+      "en": "Mathiveri",
+      "slug": "mathiveri-mv008004"
+    },
+    "code": {
+      "id": "MV008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.192",
+      "lon": "72.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008043",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މުށިމަސްމިގިލި",
+      "en": "Mushimasmigili",
+      "slug": "mushimasmigili-mv008043"
+    },
+    "code": {
+      "id": "MV008043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.959",
+      "lon": "72.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008002",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ރަސްދޫ",
+      "en": "Rasdhoo",
+      "slug": "rasdhoo-mv008002"
+    },
+    "code": {
+      "id": "MV008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.263",
+      "lon": "72.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008001",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ތޮއްޑޫ",
+      "en": "Thoddoo",
+      "slug": "thoddoo-mv008001"
+    },
+    "code": {
+      "id": "MV008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.437",
+      "lon": "72.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008003",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އުކުޅަސް",
+      "en": "Ukulhas",
+      "slug": "ukulhas-mv008003"
+    },
+    "code": {
+      "id": "MV008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.215",
+      "lon": "72.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008044",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވެލިދޫ",
+      "en": "Velidhoo",
+      "slug": "velidhoo-mv008044"
+    },
+    "code": {
+      "id": "MV008044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.194",
+      "lon": "72.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008045",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވެލިފިނޮޅު",
+      "en": "Velifinolhu",
+      "slug": "velifinolhu-mv008045"
+    },
+    "code": {
+      "id": "MV008045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.293",
+      "lon": "73.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008046",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވެލިގަނޑު",
+      "en": "Veligan'du",
+      "slug": "veligandu-mv008046"
+    },
+    "code": {
+      "id": "MV008046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.299",
+      "lon": "73.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV008009",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވިހަމާފަރު",
+      "en": "Vihamaafaru",
+      "slug": "vihamaafaru-mv008009"
+    },
+    "code": {
+      "id": "MV008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV008",
+        "level": 1,
+        "name": {
+          "local": "އަރިއަތޮޅު އުތުރުބުރި",
+          "en": "Alifu Alifu",
+          "slug": "alifu-alifu-mv008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.122",
+      "lon": "72.746"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

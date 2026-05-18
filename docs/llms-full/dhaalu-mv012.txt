@@ -1,0 +1,354 @@
+# Dhaalu — Maldives Administrative Divisions
+
+> 69 islands
+> Code: MV012
+> Coordinates: 2.834, 72.929
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އަލުވިފުށި (Aluvifushi)
+
+Code: MV012009, Coordinates: 2.931, 72.958
+
+
+### އައްޔަކަލޯހުރާ (Ayyakaloahuraa)
+
+Code: MV012010, Coordinates: 2.791, 73.026
+
+
+### ބަނޑިދޫ (Ban&#39;didhoo)
+
+Code: MV012002, Coordinates: 2.937, 72.99
+
+
+### ބޯރިކިފިނޮޅު (Boarikifinolhu)
+
+Code: MV012011, Coordinates: 2.923, 72.971
+
+
+### ބޮޑުފުށި (Bodufushi)
+
+Code: MV012012, Coordinates: 2.703, 72.847
+
+
+### ބުޅަލަފުށި (Bulhalafushi)
+
+Code: MV012013, Coordinates: 2.807, 73.026
+
+
+### ދެބައިދޫ (Dhebaidhoo)
+
+Code: MV012014, Coordinates: 2.788, 73.026
+
+
+### ދޫރެސް (Dhoores)
+
+Code: MV012015, Coordinates: 2.918, 72.884
+
+
+### އެނބޫދޫފުށި (En&#39;boodhoofushi)
+
+Code: MV012016, Coordinates: 2.677, 72.928
+
+
+### ފާންދޫ (Faandhoo)
+
+Code: MV012017, Coordinates: 2.963, 72.947
+
+
+### ފެންފުށި (Fenfushi)
+
+Code: MV012018, Coordinates: 2.801, 73.026
+
+
+### ގެމެންދޫ (Gemendhoo)
+
+Code: MV012005, Coordinates: 2.798, 73.025
+
+
+### ހިނައިދޫ (Hinaidhoo)
+
+Code: MV012019, Coordinates: 2.804, 73.026
+
+
+### ހިރިޔަފުށި (Hiriyafushi)
+
+Code: MV012020, Coordinates: 2.712, 72.988
+
+
+### ހުދުފުށީފިނޮޅު (Hudhufusheefinolhu)
+
+Code: MV012021, Coordinates: 2.894, 72.906
+
+
+### ހުޅުދެލި (Hulhudheli)
+
+Code: MV012004, Coordinates: 2.858, 72.847
+
+
+### ހުޅުވަހި (Hulhuvahi)
+
+Code: MV012022, Coordinates: 2.857, 73.025
+
+
+### އިއްސަރި (Issari)
+
+Code: MV012023, Coordinates: 2.707, 72.983
+
+
+### ކަނޑިންމާ (Kan&#39;dinmaa)
+
+Code: MV012024, Coordinates: 2.741, 73.018
+
+
+### ކަންނެތްފަރު (Kanneiyfaru)
+
+Code: MV012025, Coordinates: 2.924, 73.027
+
+
+### ކެދިގަނޑު (Kedhigan&#39;du)
+
+Code: MV012026, Coordinates: 2.696, 72.851
+
+
+### ކިރައިދޫ (Kiraidhoo)
+
+Code: MV012027, Coordinates: 2.78, 73.025
+
+
+### ކުޑަހުވަދޫ (Kudahuvadhoo)
+
+Code: MV012008, Coordinates: 2.671, 72.891
+
+
+### ކުޑަތިލަބޮޅުފުށި (Kudathilabolhufushi)
+
+Code: MV012028, Coordinates: 2.757, 73.023
+
+
+### LD0068
+
+Code: MV012029, Coordinates: 2.729, 72.838
+
+
+### LD0189
+
+Code: MV012030, Coordinates: 2.726, 72.839
+
+
+### LD0280
+
+Code: MV012031, Coordinates: 2.722, 72.84
+
+
+### LD0550
+
+Code: MV012032, Coordinates: 2.716, 72.842
+
+
+### LD0716
+
+Code: MV012033, Coordinates: 2.713, 72.843
+
+
+### LD0897
+
+Code: MV012034, Coordinates: 2.718, 72.841
+
+
+### LD0943
+
+Code: MV012035, Coordinates: 2.701, 72.848
+
+
+### LD1383
+
+Code: MV012036, Coordinates: 2.695, 72.952
+
+
+### LD1386
+
+Code: MV012037, Coordinates: 2.909, 72.989
+
+
+### LD1387
+
+Code: MV012038, Coordinates: 2.986, 73.009
+
+
+### LD1388
+
+Code: MV012039, Coordinates: 2.993, 72.922
+
+
+### LD1389
+
+Code: MV012040, Coordinates: 2.95, 73.025
+
+
+### LD1391
+
+Code: MV012041, Coordinates: 2.775, 73.025
+
+
+### LD1392
+
+Code: MV012042, Coordinates: 2.773, 73.024
+
+
+### LD1394
+
+Code: MV012043, Coordinates: 2.762, 73.023
+
+
+### LD1397
+
+Code: MV012044, Coordinates: 2.88, 72.982
+
+
+### LD1649
+
+Code: MV012045, Coordinates: 2.994, 73.002
+
+
+### LD1650
+
+Code: MV012046, Coordinates: 2.999, 72.993
+
+
+### LD1651
+
+Code: MV012047, Coordinates: 2.999, 72.992
+
+
+### LD1652
+
+Code: MV012048, Coordinates: 2.927, 72.895
+
+
+### LD1653
+
+Code: MV012049, Coordinates: 2.767, 72.835
+
+
+### LD1654
+
+Code: MV012050, Coordinates: 2.868, 72.859
+
+
+### LD1655
+
+Code: MV012051, Coordinates: 2.774, 73.023
+
+
+### ޅޮހި (Lhohi)
+
+Code: MV012052, Coordinates: 2.957, 72.985
+
+
+### މާދެލި (Maadheli)
+
+Code: MV012053, Coordinates: 2.884, 72.837
+
+
+### މާއެނބޫދޫ (Maaen&#39;boodhoo)
+
+Code: MV012007, Coordinates: 2.696, 72.965
+
+
+### މާފުށި (Maafushi)
+
+Code: MV012054, Coordinates: 2.688, 72.859
+
+
+### މާގައު (Maagau)
+
+Code: MV012055, Coordinates: 2.948, 72.914
+
+
+### މާލެފަރު (Maalefaru)
+
+Code: MV012056, Coordinates: 2.882, 73.026
+
+
+### މީދޫ (Meedhoo)
+
+Code: MV012001, Coordinates: 2.998, 73.008
+
+
+### މީދުއްފުށި (Meedhuffushi)
+
+Code: MV012057, Coordinates: 3.003, 73
+
+
+### މިނިމަސްގަލި (Minimasgali)
+
+Code: MV012058, Coordinates: 2.75, 72.888
+
+
+### އޮޅުފުށި (Olhufushi)
+
+Code: MV012059, Coordinates: 2.814, 73.027
+
+
+### އޮޅުވެލި (Olhuveli)
+
+Code: MV012060, Coordinates: 2.682, 72.934
+
+
+### ރިނބުދޫ (Rin&#39;budhoo)
+
+Code: MV012003, Coordinates: 2.925, 72.895
+
+
+### ސަރަކަފުށި (Sarakafushi)
+
+Code: MV012061, Coordinates: 2.923, 72.961
+
+
+### ތަނބަޅައިދޫ (Than&#39;balhaidhoo)
+
+Code: MV012062, Coordinates: 2.794, 73.026
+
+
+### ތިލަބޮޅުފުށި (Thilabolhufushi)
+
+Code: MV012063, Coordinates: 2.756, 73.022
+
+
+### ތިންހުރާ (Thinhuraa)
+
+Code: MV012064, Coordinates: 2.767, 73.024
+
+
+### އުއްދޫ (Uhdhoo)
+
+Code: MV012065, Coordinates: 2.971, 72.991
+
+
+### ވާނީ (Vaanee)
+
+Code: MV012006, Coordinates: 2.725, 73.003
+
+
+### ވައްލަ (Valla)
+
+Code: MV012066, Coordinates: 2.704, 72.883
+
+
+### ވައްލަޅޮހި (Vallalhohi)
+
+Code: MV012067, Coordinates: 2.731, 72.888
+
+
+### ވެލަވަރު (Velavaru)
+
+Code: MV012068, Coordinates: 2.98, 73.016
+
+
+### ވޮއްމުލި (Vommuli)
+
+Code: MV012069, Coordinates: 2.911, 72.866
+
+

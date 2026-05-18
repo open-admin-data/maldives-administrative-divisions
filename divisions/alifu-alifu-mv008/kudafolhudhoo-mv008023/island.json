@@ -1,0 +1,45 @@
+{
+  "id": "MV008023",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުޑަފޮޅުދޫ",
+    "en": "Kudafolhudhoo",
+    "slug": "kudafolhudhoo-mv008023"
+  },
+  "code": {
+    "id": "MV008023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV008",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު އުތުރުބުރި",
+      "en": "Alifu Alifu",
+      "slug": "alifu-alifu-mv008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.181",
+    "lon": "72.767"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV007051",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކިހާދުއްފަރު",
+    "en": "Kihaadhuffaru",
+    "slug": "kihaadhuffaru-mv007051"
+  },
+  "code": {
+    "id": "MV007051",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV007",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+      "en": "Baa",
+      "slug": "baa-mv007"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV007",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު ދެކުނުބުރި",
+        "en": "Baa",
+        "slug": "baa-mv007"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.191",
+    "lon": "73.132"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV009161",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މާރަންފުށި",
+    "en": "Maaranfushi",
+    "slug": "maaranfushi-mv009161"
+  },
+  "code": {
+    "id": "MV009161",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.61",
+    "lon": "73.421"
+  },
+  "metadata": {},
+  "source": {}
+}

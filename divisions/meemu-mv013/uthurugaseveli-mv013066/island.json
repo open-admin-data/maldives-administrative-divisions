@@ -1,0 +1,45 @@
+{
+  "id": "MV013066",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އުތުރުގަސެވެލި",
+    "en": "Uthurugaseveli",
+    "slug": "uthurugaseveli-mv013066"
+  },
+  "code": {
+    "id": "MV013066",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV013",
+    "level": 1,
+    "name": {
+      "local": "މުލަކަތޮޅު",
+      "en": "Meemu",
+      "slug": "meemu-mv013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV013",
+      "level": 1,
+      "name": {
+        "local": "މުލަކަތޮޅު",
+        "en": "Meemu",
+        "slug": "meemu-mv013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.031",
+    "lon": "73.619"
+  },
+  "metadata": {},
+  "source": {}
+}

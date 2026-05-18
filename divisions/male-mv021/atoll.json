@@ -1,0 +1,29 @@
+{
+  "id": "MV021",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "މާލެ ސިޓީ",
+    "en": "Male",
+    "slug": "male-mv021"
+  },
+  "code": {
+    "id": "MV021",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.175",
+    "lon": "73.51"
+  },
+  "metadata": {},
+  "source": {}
+}

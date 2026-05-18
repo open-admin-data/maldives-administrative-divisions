@@ -1,0 +1,45 @@
+{
+  "id": "MV011029",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މަޑިވަރުހުރާ",
+    "en": "Madivaruhuraa",
+    "slug": "madivaruhuraa-mv011029"
+  },
+  "code": {
+    "id": "MV011029",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV011",
+    "level": 1,
+    "name": {
+      "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+      "en": "Faafu",
+      "slug": "faafu-mv011"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV011",
+      "level": 1,
+      "name": {
+        "local": "ނިލަންދެއަތޮޅު އުތުރުބުރި",
+        "en": "Faafu",
+        "slug": "faafu-mv011"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.267",
+    "lon": "73.011"
+  },
+  "metadata": {},
+  "source": {}
+}

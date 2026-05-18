@@ -1,0 +1,45 @@
+{
+  "id": "MV006031",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދިއްކުރެއްދޫ",
+    "en": "Dhikkurehdhoo",
+    "slug": "dhikkurehdhoo-mv006031"
+  },
+  "code": {
+    "id": "MV006031",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV006",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+      "en": "Raa",
+      "slug": "raa-mv006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV006",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+        "en": "Raa",
+        "slug": "raa-mv006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.577",
+    "lon": "72.957"
+  },
+  "metadata": {},
+  "source": {}
+}

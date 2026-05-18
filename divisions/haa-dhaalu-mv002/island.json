@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "MV002018",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ދިއްޕަރުފުށި",
+      "en": "Dhipparufushi",
+      "slug": "dhipparufushi-mv002018"
+    },
+    "code": {
+      "id": "MV002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.319",
+      "lon": "72.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002001",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފަރިދޫ",
+      "en": "Faridhoo",
+      "slug": "faridhoo-mv002001"
+    },
+    "code": {
+      "id": "MV002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.785",
+      "lon": "73.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002019",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފެންބޯހުރާ",
+      "en": "Fenboahuraa",
+      "slug": "fenboahuraa-mv002019"
+    },
+    "code": {
+      "id": "MV002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.397",
+      "lon": "72.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002004",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފިނޭ",
+      "en": "Finey",
+      "slug": "finey-mv002004"
+    },
+    "code": {
+      "id": "MV002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.746",
+      "lon": "73.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002003",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ހަނިމާދޫ(ހދ. އަތޮޅު)",
+      "en": "Hanimaadhoo",
+      "slug": "hanimaadhoo-mv002003"
+    },
+    "code": {
+      "id": "MV002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.751",
+      "lon": "73.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002006",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ހިރިމަރަދޫ",
+      "en": "Hirimaradhoo",
+      "slug": "hirimaradhoo-mv002006"
+    },
+    "code": {
+      "id": "MV002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.725",
+      "lon": "73.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002020",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ހިރިނައިދޫ",
+      "en": "Hirinaidhoo",
+      "slug": "hirinaidhoo-mv002020"
+    },
+    "code": {
+      "id": "MV002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.702",
+      "lon": "72.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002021",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ހޮނޑާފުށި",
+      "en": "Hon'daafushi",
+      "slug": "hondaafushi-mv002021"
+    },
+    "code": {
+      "id": "MV002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.779",
+      "lon": "73.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002002",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ހޮނޑައިދޫ",
+      "en": "Hon'daidhoo",
+      "slug": "hondaidhoo-mv002002"
+    },
+    "code": {
+      "id": "MV002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.77",
+      "lon": "73.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002022",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އިންނަފުށި",
+      "en": "Innafushi",
+      "slug": "innafushi-mv002022"
+    },
+    "code": {
+      "id": "MV002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.409",
+      "lon": "72.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002023",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކަނަމަނަ",
+      "en": "Kanamana",
+      "slug": "kanamana-mv002023"
+    },
+    "code": {
+      "id": "MV002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "72.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002024",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކައްޓަލަފުށި",
+      "en": "Kattalafushi",
+      "slug": "kattalafushi-mv002024"
+    },
+    "code": {
+      "id": "MV002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.566",
+      "lon": "72.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002025",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކޭލަކުނު",
+      "en": "Keylakunu",
+      "slug": "keylakunu-mv002025"
+    },
+    "code": {
+      "id": "MV002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.603",
+      "lon": "73.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002026",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުޑަފަރުފަސްގަނޑު",
+      "en": "Kudafarufasgandu",
+      "slug": "kudafarufasgandu-mv002026"
+    },
+    "code": {
+      "id": "MV002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.712",
+      "lon": "72.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002027",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުޑަމުރައިދޫ",
+      "en": "Kudamuraidhoo",
+      "slug": "kudamuraidhoo-mv002027"
+    },
+    "code": {
+      "id": "MV002027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.643",
+      "lon": "72.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002012",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުޅުދުއްފުށި",
+      "en": "Kulhudhuffushi",
+      "slug": "kulhudhuffushi-mv002012"
+    },
+    "code": {
+      "id": "MV002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.623",
+      "lon": "73.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002013",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުމުންދޫ",
+      "en": "Kumundhoo",
+      "slug": "kumundhoo-mv002013"
+    },
+    "code": {
+      "id": "MV002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.571",
+      "lon": "73.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002011",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުނބުރުދޫ",
+      "en": "Kun'burudhoo",
+      "slug": "kunburudhoo-mv002011"
+    },
+    "code": {
+      "id": "MV002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.658",
+      "lon": "73.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002028",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުރެދިގަނޑު",
+      "en": "Kuredhigan'du",
+      "slug": "kuredhigandu-mv002028"
+    },
+    "code": {
+      "id": "MV002028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.679",
+      "lon": "73.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002010",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Kurin'bee",
+      "en": "Kurin'bee",
+      "slug": "kurinbee-mv002010"
+    },
+    "code": {
+      "id": "MV002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.666",
+      "lon": "72.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002029",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1207",
+      "en": "LD1207",
+      "slug": "ld1207-mv002029"
+    },
+    "code": {
+      "id": "MV002029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.649",
+      "lon": "72.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002030",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1510",
+      "en": "LD1510",
+      "slug": "ld1510-mv002030"
+    },
+    "code": {
+      "id": "MV002030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.7",
+      "lon": "73.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002016",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މާވައިދޫ",
+      "en": "Maavaidhoo",
+      "slug": "maavaidhoo-mv002016"
+    },
+    "code": {
+      "id": "MV002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.515",
+      "lon": "73.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002017",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މަކުނުދޫ",
+      "en": "Makunudhoo",
+      "slug": "makunudhoo-mv002017"
+    },
+    "code": {
+      "id": "MV002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.409",
+      "lon": "72.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002031",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "މުއިރި",
+      "en": "Muiri",
+      "slug": "muiri-mv002031"
+    },
+    "code": {
+      "id": "MV002031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.658",
+      "lon": "72.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002032",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ނާގޯށި",
+      "en": "Naagoashi",
+      "slug": "naagoashi-mv002032"
+    },
+    "code": {
+      "id": "MV002032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.67",
+      "lon": "72.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002005",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ނައިވާދޫ",
+      "en": "Naivaadhoo",
+      "slug": "naivaadhoo-mv002005"
+    },
+    "code": {
+      "id": "MV002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.747",
+      "lon": "72.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002008",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ނެއްލައިދޫ",
+      "en": "Nellaidhoo",
+      "slug": "nellaidhoo-mv002008"
+    },
+    "code": {
+      "id": "MV002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.715",
+      "lon": "72.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002014",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ނޭކުރެންދޫ",
+      "en": "Neykurendhoo",
+      "slug": "neykurendhoo-mv002014"
+    },
+    "code": {
+      "id": "MV002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.543",
+      "lon": "72.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002009",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Nolhivaramu",
+      "en": "Nolhivaramu",
+      "slug": "nolhivaramu-mv002009"
+    },
+    "code": {
+      "id": "MV002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.662",
+      "lon": "73.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002007",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ނޮޅިވަރަންފަރު",
+      "en": "Nolhivaranfaru",
+      "slug": "nolhivaranfaru-mv002007"
+    },
+    "code": {
+      "id": "MV002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.693",
+      "lon": "73.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002033",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ރުއްފުށި",
+      "en": "Ruffushi",
+      "slug": "ruffushi-mv002033"
+    },
+    "code": {
+      "id": "MV002033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.759",
+      "lon": "72.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002034",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ތީފަރިދޫ",
+      "en": "Theefaridhoo",
+      "slug": "theefaridhoo-mv002034"
+    },
+    "code": {
+      "id": "MV002034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.74",
+      "lon": "73.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002015",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވައިކަރަދޫ",
+      "en": "Vaikaradhoo",
+      "slug": "vaikaradhoo-mv002015"
+    },
+    "code": {
+      "id": "MV002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.55",
+      "lon": "72.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002035",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވައިކަރަމުރައިދޫ",
+      "en": "Vaikaramuraidhoo",
+      "slug": "vaikaramuraidhoo-mv002035"
+    },
+    "code": {
+      "id": "MV002035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.541",
+      "lon": "72.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV002036",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވެލިގަނޑު",
+      "en": "Veligan'du",
+      "slug": "veligandu-mv002036"
+    },
+    "code": {
+      "id": "MV002036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV002",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+        "en": "Haa Dhaalu",
+        "slug": "haa-dhaalu-mv002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV002",
+        "level": 1,
+        "name": {
+          "local": "ތިލަދުންމަތީ ދެކުނުބުރީ",
+          "en": "Haa Dhaalu",
+          "slug": "haa-dhaalu-mv002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.754",
+      "lon": "72.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

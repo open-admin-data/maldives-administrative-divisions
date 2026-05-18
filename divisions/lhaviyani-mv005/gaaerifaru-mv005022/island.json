@@ -1,0 +1,45 @@
+{
+  "id": "MV005022",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ގާއެރިފަރު",
+    "en": "Gaaerifaru",
+    "slug": "gaaerifaru-mv005022"
+  },
+  "code": {
+    "id": "MV005022",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.485",
+    "lon": "73.404"
+  },
+  "metadata": {},
+  "source": {}
+}

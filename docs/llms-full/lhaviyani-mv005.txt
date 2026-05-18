@@ -1,0 +1,414 @@
+# Lhaviyani — Maldives Administrative Divisions
+
+> 81 islands
+> Code: MV005
+> Coordinates: 5.401, 73.498
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އަލިގައު (Aligau)
+
+Code: MV005006, Coordinates: 5.244, 73.517
+
+
+### ބޯމަންދިއްޕަރު ހުރާގަނޑު (Boamandhipparu Huraagan&#39;du)
+
+Code: MV005007, Coordinates: 5.498, 73.511
+
+
+### ބޮޑުފާހުރާ (Bodufaahuraa)
+
+Code: MV005008, Coordinates: 5.333, 73.657
+
+
+### ބޮޑުފިނޮޅު (Bodufinolhu)
+
+Code: MV005009, Coordinates: 5.271, 73.571
+
+
+### ދަށުގިރިފިނޮޅު (Dhashugirifinolhu)
+
+Code: MV005010, Coordinates: 5.422, 73.425
+
+
+### ދެހުރާއެއްވިހުރާ (Dhehuraa Evvihuraa)
+
+Code: MV005011, Coordinates: 5.555, 73.49
+
+
+### ދެރުއްފިނޮޅު (Dheruffinolhu)
+
+Code: MV005012, Coordinates: 5.324, 73.647
+
+
+### ދިއްފުށި (Dhiffushi)
+
+Code: MV005013, Coordinates: 5.387, 73.65
+
+
+### ދިއްދޫ (Dhihdhoo)
+
+Code: MV005014, Coordinates: 5.376, 73.383
+
+
+### ދިރުނބާހުރާ (Dhirun&#39;baahuraa)
+
+Code: MV005015, Coordinates: 5.354, 73.659
+
+
+### ފާދޫ (Faadhoo)
+
+Code: MV005016, Coordinates: 5.432, 73.631
+
+
+### ފާދޫހުރާގަނޑު (Faadhoohuraagan&#39;du)
+
+Code: MV005017, Coordinates: 5.436, 73.62
+
+
+### ފައިނުއާދަނުހުރާ (Fainuaadhanuhuraa)
+
+Code: MV005018, Coordinates: 5.359, 73.658
+
+
+### ފެހިގިލި (Fehigili)
+
+Code: MV005019, Coordinates: 5.557, 73.481
+
+
+### ފެލިވަރު (Felivaru)
+
+Code: MV005020, Coordinates: 5.477, 73.385
+
+
+### ފުށިފަރު (Fushifaru)
+
+Code: MV005021, Coordinates: 5.491, 73.515
+
+
+### ގާއެރިފަރު (Gaaerifaru)
+
+Code: MV005022, Coordinates: 5.485, 73.404
+
+
+### ގޮއްވާފުށި (Govvaafushi)
+
+Code: MV005023, Coordinates: 5.357, 73.658
+
+
+### ހިންނަވަރު (Hinnavaru)
+
+Code: MV005001, Coordinates: 5.492, 73.412
+
+
+### ހިރިޔަދޫ (Hiriyadhoo)
+
+Code: MV005024, Coordinates: 5.412, 73.645
+
+
+### ހުދުފުށި (Hudhufushi)
+
+Code: MV005025, Coordinates: 5.362, 73.656
+
+
+### ހުރަވަޅި (Huravalhi)
+
+Code: MV005026, Coordinates: 5.521, 73.442
+
+
+### އިންނަހުރާ (Innahuraa)
+
+Code: MV005027, Coordinates: 5.35, 73.654
+
+
+### ކަޅުމަންޖެހުރާ (Kalhumanjehuraa)
+
+Code: MV005028, Coordinates: 5.554, 73.483
+
+
+### ކަނިފުށި (Kanifushi)
+
+Code: MV005029, Coordinates: 5.367, 73.342
+
+
+### ކަނުހުރާ (Kanuhuraa)
+
+Code: MV005030, Coordinates: 5.533, 73.506
+
+
+### ކޮމަންޑޫ (Komandoo)
+
+Code: MV005031, Coordinates: 5.493, 73.424
+
+
+### ކުޑަދޫ (Kudadhoo)
+
+Code: MV005032, Coordinates: 5.503, 73.434
+
+
+### ކުރެއްދޫ (Kurehdhoo)
+
+Code: MV005033, Coordinates: 5.549, 73.465
+
+
+### ކުރެންދޫ (Kurendhoo)
+
+Code: MV005003, Coordinates: 5.334, 73.464
+
+
+### LD1109
+
+Code: MV005034, Coordinates: 5.371, 73.353
+
+
+### LD1241
+
+Code: MV005035, Coordinates: 5.408, 73.352
+
+
+### LD1242
+
+Code: MV005036, Coordinates: 5.557, 73.484
+
+
+### LD1244
+
+Code: MV005037, Coordinates: 5.546, 73.496
+
+
+### LD1252
+
+Code: MV005038, Coordinates: 5.377, 73.391
+
+
+### LD1253
+
+Code: MV005039, Coordinates: 5.377, 73.39
+
+
+### LD1255
+
+Code: MV005040, Coordinates: 5.376, 73.374
+
+
+### LD1256
+
+Code: MV005041, Coordinates: 5.375, 73.372
+
+
+### LD1261
+
+Code: MV005042, Coordinates: 5.372, 73.355
+
+
+### LD1262
+
+Code: MV005043, Coordinates: 5.368, 73.419
+
+
+### LD1266
+
+Code: MV005044, Coordinates: 5.315, 73.642
+
+
+### LD1268
+
+Code: MV005045, Coordinates: 5.498, 73.426
+
+
+### LD1562
+
+Code: MV005046, Coordinates: 5.312, 73.643
+
+
+### LD1563
+
+Code: MV005047, Coordinates: 5.315, 73.643
+
+
+### LD1564
+
+Code: MV005048, Coordinates: 5.3, 73.637
+
+
+### LD1565
+
+Code: MV005049, Coordinates: 5.293, 73.624
+
+
+### LD1566
+
+Code: MV005050, Coordinates: 5.508, 73.433
+
+
+### LD1567
+
+Code: MV005051, Coordinates: 5.516, 73.436
+
+
+### LD1568
+
+Code: MV005052, Coordinates: 5.494, 73.515
+
+
+### LD1569
+
+Code: MV005053, Coordinates: 5.275, 73.59
+
+
+### LD1570
+
+Code: MV005054, Coordinates: 5.277, 73.59
+
+
+### LD1571
+
+Code: MV005055, Coordinates: 5.276, 73.588
+
+
+### LD1572
+
+Code: MV005056, Coordinates: 5.529, 73.503
+
+
+### LD1573
+
+Code: MV005057, Coordinates: 5.285, 73.623
+
+
+### LD1574
+
+Code: MV005058, Coordinates: 5.344, 73.658
+
+
+### LD1575
+
+Code: MV005059, Coordinates: 5.347, 73.655
+
+
+### LD1576
+
+Code: MV005060, Coordinates: 5.351, 73.651
+
+
+### ޅޮހި (Lhohi)
+
+Code: MV005061, Coordinates: 5.321, 73.473
+
+
+### ޅޮއްސަލަފުށި (Lhossalafushi)
+
+Code: MV005062, Coordinates: 5.307, 73.483
+
+
+### މާބިންހުރާ (Maabinhuraa)
+
+Code: MV005063, Coordinates: 5.337, 73.653
+
+
+### މާފިލާފުށި (Maafilaafushi)
+
+Code: MV005005, Coordinates: 5.363, 73.415
+
+
+### މާކޯ (Maakoa)
+
+Code: MV005064, Coordinates: 5.358, 73.43
+
+
+### މަދިރިގުރައިދޫ (Madhiriguraidhoo)
+
+Code: MV005065, Coordinates: 5.47, 73.559
+
+
+### މަޑިވަރު (Madivaru)
+
+Code: MV005066, Coordinates: 5.459, 73.37
+
+
+### މަޑުއްވަރި (Maduvvari)
+
+Code: MV005067, Coordinates: 5.285, 73.502
+
+
+### މައިދޫ (Maidhoo)
+
+Code: MV005068, Coordinates: 5.397, 73.649
+
+
+### މަސްލެއްގިހުރާ (Masleggihuraa)
+
+Code: MV005069, Coordinates: 5.544, 73.501
+
+
+### މެދައަޑިހުރާ (Medha Adihuraa)
+
+Code: MV005070, Coordinates: 5.541, 73.503
+
+
+### މެދަފުށި (Medhafushi)
+
+Code: MV005071, Coordinates: 5.356, 73.427
+
+
+### މީދާހުރާ (Meedhaahuraa)
+
+Code: MV005072, Coordinates: 5.369, 73.408
+
+
+### މެއްޔަފުށި (Meyyafushi)
+
+Code: MV005073, Coordinates: 5.442, 73.607
+
+
+### ނައިފަރު (Naifaru)
+
+Code: MV005002, Coordinates: 5.445, 73.365
+
+
+### އޮޅުވެލިފުށި (Olhuvelifushi)
+
+Code: MV005004, Coordinates: 5.278, 73.607
+
+
+### އޫކޮޅުފިނޮޅު (Ookolhufinolhu)
+
+Code: MV005074, Coordinates: 5.282, 73.623
+
+
+### ސެއްޅިފުށި (Sehlhifushi)
+
+Code: MV005075, Coordinates: 5.421, 73.643
+
+
+### ތިލަމާފުށި (Thilamaafushi)
+
+Code: MV005076, Coordinates: 5.273, 73.587
+
+
+### ވަރިހުރާ (Varihuraa)
+
+Code: MV005077, Coordinates: 5.304, 73.488
+
+
+### ވައްވަރު (Vavvaru)
+
+Code: MV005078, Coordinates: 5.417, 73.355
+
+
+### ވެލިގަނޑު (Veligan&#39;du)
+
+Code: MV005079, Coordinates: 5.529, 73.438
+
+
+### ވޭވަށް (Veyvah)
+
+Code: MV005080, Coordinates: 5.425, 73.361
+
+
+### ވިހަފަރުފިނޮޅު (Vihafarufinolhu)
+
+Code: MV005081, Coordinates: 5.456, 73.582
+
+

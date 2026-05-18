@@ -1,0 +1,45 @@
+{
+  "id": "MV015049",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކަނުހުރާ",
+    "en": "Kanuhuraa",
+    "slug": "kanuhuraa-mv015049"
+  },
+  "code": {
+    "id": "MV015049",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.046",
+    "lon": "73.532"
+  },
+  "metadata": {},
+  "source": {}
+}

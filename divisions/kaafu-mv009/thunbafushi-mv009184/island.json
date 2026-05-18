@@ -1,0 +1,45 @@
+{
+  "id": "MV009184",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ތުނބަފުށި",
+    "en": "Thun'bafushi",
+    "slug": "thunbafushi-mv009184"
+  },
+  "code": {
+    "id": "MV009184",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.59",
+    "lon": "73.589"
+  },
+  "metadata": {},
+  "source": {}
+}

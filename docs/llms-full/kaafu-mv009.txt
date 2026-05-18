@@ -1,0 +1,984 @@
+# Kaafu — Maldives Administrative Divisions
+
+> 195 islands
+> Code: MV009
+> Coordinates: 4.437, 73.536
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އާނުގަނޑުފިނޮޅު (Aanugan&#39;dufinolhu)
+
+Code: MV009010, Coordinates: 4.306, 73.506
+
+
+### އާނުގަނޑުހުރާ (Aanugan&#39;duhuraa)
+
+Code: MV009011, Coordinates: 4.308, 73.501
+
+
+### އާރަށް (Aarah)
+
+Code: MV009012, Coordinates: 4.23, 73.494
+
+
+### އަކަސްދޫ (Akasdhoo)
+
+Code: MV009013, Coordinates: 4.124, 73.473
+
+
+### އަކިރިފުށި (Akirifushi)
+
+Code: MV009014, Coordinates: 4.638, 73.402
+
+
+### އަސްދޫ (Asdhoo)
+
+Code: MV009015, Coordinates: 4.466, 73.662
+
+
+### ބަރޮސް (Baros)
+
+Code: MV009016, Coordinates: 4.285, 73.427
+
+
+### ބިޔާދޫ (Biyaadhoo)
+
+Code: MV009017, Coordinates: 3.922, 73.456
+
+
+### ބޮޑުބަނޑޮސް (Boduban&#39;dos)
+
+Code: MV009018, Coordinates: 4.269, 73.491
+
+
+### ބޮޑުބިސް (Bodubis)
+
+Code: MV009019, Coordinates: 4.275, 73.415
+
+
+### ބޮޑުފިނޮޅު (Bodufinolhu)
+
+Code: MV009020, Coordinates: 3.858, 73.457
+
+
+### ބޮޑުހިތި (Boduhithi)
+
+Code: MV009021, Coordinates: 4.431, 73.384
+
+
+### ބޮޑުހުރާ (Boduhuraa)
+
+Code: MV009022, Coordinates: 3.967, 73.505
+
+
+### ބޮލިފުށި (Bolifushi)
+
+Code: MV009023, Coordinates: 4.097, 73.4
+
+
+### ބުޅިފުށި (Bulhifushi)
+
+Code: MV009024, Coordinates: 3.98, 73.501
+
+
+### ދިއްފުށި (Dhiffushi)
+
+Code: MV009003, Coordinates: 4.442, 73.714
+
+
+### ދިގުފިނޮޅު (Dhigufinolhu)
+
+Code: MV009025, Coordinates: 3.972, 73.502
+
+
+### ދޮންފުށި (Dhonfushi)
+
+Code: MV009026, Coordinates: 4.609, 73.407
+
+
+### ދޫނިދޫ (Dhoonidhoo)
+
+Code: MV009027, Coordinates: 4.197, 73.514
+
+
+### އެއްމަފުށި (Ehmafushi)
+
+Code: MV009028, Coordinates: 4.12, 73.468
+
+
+### އެނބޫދޫ (En&#39;boodhoo)
+
+Code: MV009029, Coordinates: 4.084, 73.512
+
+
+### އެނބޫދޫފިނޮޅު (En&#39;boodhoofinolhu)
+
+Code: MV009030, Coordinates: 4.103, 73.526
+
+
+### އެރިއަދޫ (Eriadhoo)
+
+Code: MV009031, Coordinates: 4.59, 73.415
+
+
+### އެއްރުއްހުރާ (Erruhhuraa)
+
+Code: MV009032, Coordinates: 3.815, 73.416
+
+
+### ފަރިިއިރުހުރާ (Fariiruhuraa)
+
+Code: MV009033, Coordinates: 4.595, 73.585
+
+
+### ފަަރިކަނޑުހުރާ (Farikan&#39;duhuraa)
+
+Code: MV009034, Coordinates: 4.607, 73.58
+
+
+### ފަރިތަރިހުރާ (Faritharihuraa)
+
+Code: MV009035, Coordinates: 4.614, 73.57
+
+
+### ފަރިވެލިހުރާ (Farivelihuraa)
+
+Code: MV009036, Coordinates: 4.625, 73.573
+
+
+### ފަރުކޮޅުފުށި (Farukolhufushi)
+
+Code: MV009037, Coordinates: 4.231, 73.544
+
+
+### ފޭދޫފިނޮޅު (Feydhoofinolhu)
+
+Code: MV009038, Coordinates: 4.213, 73.485
+
+
+### ފިހާޅޮހި (Fihaalhohi)
+
+Code: MV009039, Coordinates: 3.877, 73.367
+
+
+### ފުނަދޫ (Funadhoo)
+
+Code: MV009040, Coordinates: 4.184, 73.518
+
+
+### ފުންފިނޮޅު (Funfinolhu)
+
+Code: MV009041, Coordinates: 3.976, 73.505
+
+
+### ފުރަނަފުށި (Furanafushi)
+
+Code: MV009042, Coordinates: 4.25, 73.545
+
+
+### ގާފަރު (Gaafaru)
+
+Code: MV009002, Coordinates: 4.736, 73.5
+
+
+### ގާގަނޑު (Gaagan&#39;du)
+
+Code: MV009043, Coordinates: 4.249, 73.537
+
+
+### ގަސްފިނޮޅު (Gasfinolhu)
+
+Code: MV009044, Coordinates: 4.361, 73.626
+
+
+### ގިރާވަރު (Giraavaru)
+
+Code: MV009045, Coordinates: 4.201, 73.413
+
+
+### ގިރިފުށި (Girifushi)
+
+Code: MV009046, Coordinates: 4.318, 73.579
+
+
+### ގުޅި (Gulhi)
+
+Code: MV009007, Coordinates: 3.991, 73.509
+
+
+### ގުޅިގާތުހުރާ (Gulhigaathuhuraa)
+
+Code: MV009047, Coordinates: 3.977, 73.507
+
+
+### ގުރައިދޫ (Guraidhoo)
+
+Code: MV009009, Coordinates: 3.901, 73.468
+
+
+### ހަސްތީމް (Hastheem)
+
+Code: MV009048, Coordinates: 4.622, 73.417
+
+
+### ހަތާފިނޮޅު (Hathaafinolhu)
+
+Code: MV009049, Coordinates: 4.09, 73.524
+
+
+### ހެލެނގެލި (Helen&#39;geli)
+
+Code: MV009050, Coordinates: 4.634, 73.563
+
+
+### ހެނބަދޫ (Hen&#39;badhoo)
+
+Code: MV009051, Coordinates: 4.482, 73.393
+
+
+### ހިންމަފުށި (Hinmafushi)
+
+Code: MV009006, Coordinates: 4.308, 73.571
+
+
+### ހުޅުލެ (Hulhule)
+
+Code: MV009052, Coordinates: 4.197, 73.53
+
+
+### ހުރާ (Huraa)
+
+Code: MV009005, Coordinates: 4.334, 73.602
+
+
+### އިހުރު (Ihuru)
+
+Code: MV009053, Coordinates: 4.307, 73.416
+
+
+### އިތާފިނޮޅު (Ithaafinolhu)
+
+Code: MV009054, Coordinates: 4.001, 73.391
+
+
+### އިތާފުށި (Ithaafushi)
+
+Code: MV009055, Coordinates: 4.012, 73.383
+
+
+### ކާށިދޫ (Kaashidhoo)
+
+Code: MV009001, Coordinates: 4.957, 73.464
+
+
+### ކަގި (Kagi)
+
+Code: MV009056, Coordinates: 4.677, 73.501
+
+
+### ކަޅުހުރާ (Kalhuhuraa)
+
+Code: MV009057, Coordinates: 4.01, 73.372
+
+
+### ކަނބާޝާ (Kan&#39;baashaa)
+
+Code: MV009058, Coordinates: 4.62, 73.396
+
+
+### ކަނޑޫމާފުށި (Kan&#39;doomaafushi)
+
+Code: MV009059, Coordinates: 3.903, 73.474
+
+
+### ކަނޑުއޮތްގިރި (Kan&#39;duoiygiri)
+
+Code: MV009060, Coordinates: 4.258, 73.54
+
+
+### ކަނިފިނޮޅު (Kanifinolhu)
+
+Code: MV009061, Coordinates: 4.344, 73.608
+
+
+### ކަނުއޮތްހުރާ (Kanuoiyhuraa)
+
+Code: MV009062, Coordinates: 4.319, 73.591
+
+
+### ކައްސަންފުށި (Kassanfushi)
+
+Code: MV009063, Coordinates: 4.519, 73.662
+
+
+### ކޮއްދިއްޕަރު (Kohdhipparu)
+
+Code: MV009064, Coordinates: 4.259, 73.38
+
+
+### ކުޑަބަނޑޮސް (Kudaban&#39;dos)
+
+Code: MV009065, Coordinates: 4.264, 73.5
+
+
+### ކުޑަފިނޮޅު (Kudafinolhu)
+
+Code: MV009066, Coordinates: 3.865, 73.458
+
+
+### ކުޑަގިރި (Kudagiri)
+
+Code: MV009067, Coordinates: 4.227, 73.426
+
+
+### ކުޑަހިތި (Kudahithi)
+
+Code: MV009068, Coordinates: 4.417, 73.38
+
+
+### ކުޑަހުރާ (Kudahuraa)
+
+Code: MV009069, Coordinates: 4.328, 73.598
+
+
+### ލަންކަންފިނޮޅު (Lankanfinolhu)
+
+Code: MV009070, Coordinates: 4.286, 73.554
+
+
+### ލަންކަންފުށި (Lankanfushi)
+
+Code: MV009071, Coordinates: 4.295, 73.558
+
+
+### LD0062
+
+Code: MV009072, Coordinates: 4.349, 73.61
+
+
+### LD0127
+
+Code: MV009073, Coordinates: 4.321, 73.583
+
+
+### LD0362
+
+Code: MV009074, Coordinates: 4.956, 73.443
+
+
+### LD0468
+
+Code: MV009075, Coordinates: 4.343, 73.611
+
+
+### LD0549
+
+Code: MV009076, Coordinates: 3.993, 73.507
+
+
+### LD0584
+
+Code: MV009077, Coordinates: 4.322, 73.594
+
+
+### LD0721
+
+Code: MV009078, Coordinates: 4.958, 73.45
+
+
+### LD0853
+
+Code: MV009079, Coordinates: 4.583, 73.579
+
+
+### LD0950
+
+Code: MV009080, Coordinates: 4.957, 73.44
+
+
+### LD1203
+
+Code: MV009081, Coordinates: 4.181, 73.455
+
+
+### LD1295
+
+Code: MV009082, Coordinates: 4.369, 73.41
+
+
+### LD1296
+
+Code: MV009083, Coordinates: 4.457, 73.407
+
+
+### LD1297
+
+Code: MV009084, Coordinates: 4.473, 73.449
+
+
+### LD1298
+
+Code: MV009085, Coordinates: 4.731, 73.486
+
+
+### LD1299
+
+Code: MV009086, Coordinates: 4.631, 73.44
+
+
+### LD1301
+
+Code: MV009087, Coordinates: 4.682, 73.454
+
+
+### LD1303
+
+Code: MV009088, Coordinates: 4.671, 73.532
+
+
+### LD1304
+
+Code: MV009089, Coordinates: 4.468, 73.674
+
+
+### LD1305
+
+Code: MV009090, Coordinates: 4.468, 73.686
+
+
+### LD1306
+
+Code: MV009091, Coordinates: 4.385, 73.654
+
+
+### LD1308
+
+Code: MV009092, Coordinates: 4.359, 73.628
+
+
+### LD1310
+
+Code: MV009093, Coordinates: 4.346, 73.602
+
+
+### LD1312
+
+Code: MV009094, Coordinates: 4.271, 73.359
+
+
+### LD1315
+
+Code: MV009095, Coordinates: 4.353, 73.615
+
+
+### LD1316
+
+Code: MV009096, Coordinates: 4.351, 73.615
+
+
+### LD1317
+
+Code: MV009097, Coordinates: 4.331, 73.596
+
+
+### LD1318
+
+Code: MV009098, Coordinates: 4.287, 73.551
+
+
+### LD1321
+
+Code: MV009099, Coordinates: 3.956, 73.46
+
+
+### LD1325
+
+Code: MV009100, Coordinates: 4.074, 73.413
+
+
+### LD1326
+
+Code: MV009101, Coordinates: 4.079, 73.531
+
+
+### LD1327
+
+Code: MV009102, Coordinates: 3.841, 73.377
+
+
+### LD1328
+
+Code: MV009103, Coordinates: 3.828, 73.378
+
+
+### LD1702
+
+Code: MV009104, Coordinates: 4.666, 73.546
+
+
+### LD1708
+
+Code: MV009105, Coordinates: 4.577, 73.59
+
+
+### LD1709
+
+Code: MV009106, Coordinates: 4.404, 73.688
+
+
+### LD1710
+
+Code: MV009107, Coordinates: 4.387, 73.678
+
+
+### LD1711
+
+Code: MV009108, Coordinates: 4.217, 73.394
+
+
+### LD1712
+
+Code: MV009109, Coordinates: 4.547, 73.391
+
+
+### LD1713
+
+Code: MV009110, Coordinates: 4.694, 73.514
+
+
+### LD1715
+
+Code: MV009111, Coordinates: 4.657, 73.541
+
+
+### LD1716
+
+Code: MV009112, Coordinates: 4.295, 73.481
+
+
+### LD1717
+
+Code: MV009113, Coordinates: 4.299, 73.471
+
+
+### LD1718
+
+Code: MV009114, Coordinates: 4.311, 73.364
+
+
+### LD1719
+
+Code: MV009115, Coordinates: 4.312, 73.364
+
+
+### LD1720
+
+Code: MV009116, Coordinates: 4.265, 73.423
+
+
+### LD1722
+
+Code: MV009117, Coordinates: 4.09, 73.389
+
+
+### LD1723
+
+Code: MV009118, Coordinates: 4.062, 73.38
+
+
+### LD1724
+
+Code: MV009119, Coordinates: 4.056, 73.388
+
+
+### LD1725
+
+Code: MV009120, Coordinates: 3.894, 73.363
+
+
+### LD1726
+
+Code: MV009121, Coordinates: 3.835, 73.378
+
+
+### LD1727
+
+Code: MV009122, Coordinates: 3.816, 73.419
+
+
+### LD1728
+
+Code: MV009123, Coordinates: 3.824, 73.436
+
+
+### LD1729
+
+Code: MV009124, Coordinates: 3.831, 73.447
+
+
+### LD1731
+
+Code: MV009125, Coordinates: 3.972, 73.463
+
+
+### LD1733
+
+Code: MV009126, Coordinates: 4.118, 73.527
+
+
+### LD1734
+
+Code: MV009127, Coordinates: 4.121, 73.503
+
+
+### LD1735
+
+Code: MV009128, Coordinates: 3.921, 73.444
+
+
+### LD1736
+
+Code: MV009129, Coordinates: 3.966, 73.447
+
+
+### LD1737
+
+Code: MV009130, Coordinates: 3.989, 73.513
+
+
+### LD1739
+
+Code: MV009131, Coordinates: 3.906, 73.473
+
+
+### LD1740
+
+Code: MV009132, Coordinates: 3.848, 73.46
+
+
+### LD1741
+
+Code: MV009133, Coordinates: 4.249, 73.546
+
+
+### LD1742
+
+Code: MV009134, Coordinates: 4.248, 73.545
+
+
+### LD1743
+
+Code: MV009135, Coordinates: 4.248, 73.544
+
+
+### LD1744
+
+Code: MV009136, Coordinates: 4.248, 73.544
+
+
+### LD1745
+
+Code: MV009137, Coordinates: 4.248, 73.543
+
+
+### LD1746
+
+Code: MV009138, Coordinates: 4.248, 73.543
+
+
+### LD1747
+
+Code: MV009139, Coordinates: 4.014, 73.383
+
+
+### LD1748
+
+Code: MV009140, Coordinates: 4.015, 73.387
+
+
+### LD1749
+
+Code: MV009141, Coordinates: 4.014, 73.39
+
+
+### LD1750
+
+Code: MV009142, Coordinates: 4.014, 73.394
+
+
+### LD1751
+
+Code: MV009143, Coordinates: 4.011, 73.392
+
+
+### LD1752
+
+Code: MV009144, Coordinates: 4.009, 73.403
+
+
+### LD1753
+
+Code: MV009145, Coordinates: 4.663, 73.549
+
+
+### LD1754
+
+Code: MV009146, Coordinates: 4.595, 73.579
+
+
+### LD1755
+
+Code: MV009147, Coordinates: 4.596, 73.578
+
+
+### LD1756
+
+Code: MV009148, Coordinates: 4.123, 73.481
+
+
+### LD1757
+
+Code: MV009149, Coordinates: 4.085, 73.388
+
+
+### LD1758
+
+Code: MV009150, Coordinates: 4.081, 73.386
+
+
+### LD1759
+
+Code: MV009151, Coordinates: 4.062, 73.384
+
+
+### LD1760
+
+Code: MV009152, Coordinates: 3.83, 73.439
+
+
+### LD1761
+
+Code: MV009153, Coordinates: 4.25, 73.367
+
+
+### LD1763
+
+Code: MV009154, Coordinates: 4.377, 73.668
+
+
+### LD1764
+
+Code: MV009155, Coordinates: 4.376, 73.661
+
+
+### LD1765
+
+Code: MV009156, Coordinates: 4.376, 73.666
+
+
+### LD1767
+
+Code: MV009157, Coordinates: 3.852, 73.46
+
+
+### ޅޮހިފުށި (Lhohifushi)
+
+Code: MV009158, Coordinates: 4.351, 73.618
+
+
+### ޅޮސްފުށި (Lhosfushi)
+
+Code: MV009159, Coordinates: 3.897, 73.47
+
+
+### މާދޫ (Maadhoo)
+
+Code: MV009160, Coordinates: 3.869, 73.461
+
+
+### މާފުށި (Maafushi)
+
+Code: MV009008, Coordinates: 3.941, 73.49
+
+
+### މާރަންފުށި (Maaranfushi)
+
+Code: MV009161, Coordinates: 4.61, 73.421
+
+
+### މަޑިވަރު (Madivaru)
+
+Code: MV009162, Coordinates: 4.501, 73.369
+
+
+### މަހާނައެޅިހުރާ (Mahaanaelhihuraa)
+
+Code: MV009163, Coordinates: 3.812, 73.411
+
+
+### މައިފަޅުހުރާ (Maifalhuhuraa)
+
+Code: MV009164, Coordinates: 4.63, 73.57
+
+
+### މަކުނުދޫ (Makunudhoo)
+
+Code: MV009165, Coordinates: 4.542, 73.406
+
+
+### މަކުނުފުށި (Makunufushi)
+
+Code: MV009166, Coordinates: 3.918, 73.47
+
+
+### މަނިޔަފުށި (Maniyafushi)
+
+Code: MV009167, Coordinates: 4.056, 73.411
+
+
+### މެދުފިނޮޅު (Medhufinolhu)
+
+Code: MV009168, Coordinates: 4.511, 73.37
+
+
+### މީރުފެންފުށި (Meerufenfushi)
+
+Code: MV009169, Coordinates: 4.454, 73.717
+
+
+### ނަކައްޗާހުރާ (Nakahchaahuraa)
+
+Code: MV009170, Coordinates: 4.342, 73.387
+
+
+### ނަކަތްޗާފުށި (Nakaiychaafushi)
+
+Code: MV009171, Coordinates: 4.368, 73.37
+
+
+### ނަޝްވިލު (Nashvilu)
+
+Code: MV009172, Coordinates: 4.624, 73.407
+
+
+### ނޫފިނޮޅޮ (Noofinolhu)
+
+Code: MV009173, Coordinates: 3.969, 73.503
+
+
+### އޮޅިގަނޑުފިނޮޅު (Olhigan&#39;dufinolhu)
+
+Code: MV009174, Coordinates: 3.812, 73.418
+
+
+### އޮޅުހަލި (Olhuhali)
+
+Code: MV009175, Coordinates: 4.69, 73.451
+
+
+### އޮޅުވެލި (Olhuveli)
+
+Code: MV009176, Coordinates: 3.85, 73.455
+
+
+### ރަންނާޅި (Rannaalhi)
+
+Code: MV009177, Coordinates: 3.903, 73.358
+
+
+### ރަސްފަރި (Rasfari)
+
+Code: MV009178, Coordinates: 4.395, 73.351
+
+
+### ތަނބުރުދޫ (Than&#39;burudhoo)
+
+Code: MV009179, Coordinates: 4.316, 73.584
+
+
+### ތިލަފުށި (Thilafushi)
+
+Code: MV009180, Coordinates: 4.182, 73.435
+
+
+### ތޮޅިމަރާހުރާ (Tholhimaraahuraa)
+
+Code: MV009181, Coordinates: 3.825, 73.375
+
+
+### ތުޅާގިރި (Thulhaagiri)
+
+Code: MV009182, Coordinates: 4.312, 73.487
+
+
+### ތުލުސްދޫ (Thulusdhoo)
+
+Code: MV009004, Coordinates: 4.373, 73.649
+
+
+### ތުލުސްދޫ އިރުމަތީ ހުރާގަނޑ (Thulusdhoo Irumathee Huraagan&#39;du)
+
+Code: MV009183, Coordinates: 4.372, 73.655
+
+
+### ތުނބަފުށި (Thun&#39;bafushi)
+
+Code: MV009184, Coordinates: 4.59, 73.589
+
+
+### ވާދޫ (Vaadhoo)
+
+Code: MV009185, Coordinates: 4.124, 73.457
+
+
+### ވާގަލި (Vaagali)
+
+Code: MV009186, Coordinates: 3.949, 73.356
+
+
+### ވައްބިންފަރު (Vabbinfaru)
+
+Code: MV009187, Coordinates: 4.31, 73.424
+
+
+### ވައްބޯހުރާ (Vabboahuraa)
+
+Code: MV009188, Coordinates: 4.319, 73.597
+
+
+### ވައްމާފުށި (Vammaafushi)
+
+Code: MV009189, Coordinates: 3.949, 73.496
+
+
+### ވެލައްސަރު (Velassaru)
+
+Code: MV009190, Coordinates: 4.121, 73.437
+
+
+### ވެލިގަނޑުހުރާ (Veligan&#39;duhuraa)
+
+Code: MV009191, Coordinates: 3.972, 73.506
+
+
+### ވިހަމަނާފުށި (Vihamanaafushi)
+
+Code: MV009192, Coordinates: 4.226, 73.52
+
+
+### ވިލިނގިލިމަތިދަހުރާ (Vilin&#39;gilimathidhahuraa)
+
+Code: MV009193, Coordinates: 4.378, 73.663
+
+
+### ވިއްލިވަރު (Villivaru)
+
+Code: MV009194, Coordinates: 3.914, 73.456
+
+
+### ޒިޔާރަތްފުށި (Ziyaaraiyfushi)
+
+Code: MV009195, Coordinates: 4.533, 73.373
+
+

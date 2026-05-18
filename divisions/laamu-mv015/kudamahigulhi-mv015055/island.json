@@ -1,0 +1,45 @@
+{
+  "id": "MV015055",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކުޑަމަހިގުޅި",
+    "en": "Kudamahigulhi",
+    "slug": "kudamahigulhi-mv015055"
+  },
+  "code": {
+    "id": "MV015055",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.787",
+    "lon": "73.328"
+  },
+  "metadata": {},
+  "source": {}
+}

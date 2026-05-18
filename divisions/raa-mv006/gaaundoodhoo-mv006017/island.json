@@ -1,0 +1,45 @@
+{
+  "id": "MV006017",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ގާއުނޑޫދޫ",
+    "en": "Gaaun'doodhoo",
+    "slug": "gaaundoodhoo-mv006017"
+  },
+  "code": {
+    "id": "MV006017",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV006",
+    "level": 1,
+    "name": {
+      "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+      "en": "Raa",
+      "slug": "raa-mv006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV006",
+      "level": 1,
+      "name": {
+        "local": "މާޅޮސްމަޑުލު އުތުރުބުރި",
+        "en": "Raa",
+        "slug": "raa-mv006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.749",
+    "lon": "73.016"
+  },
+  "metadata": {},
+  "source": {}
+}

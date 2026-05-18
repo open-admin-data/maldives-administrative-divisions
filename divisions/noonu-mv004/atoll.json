@@ -1,0 +1,29 @@
+{
+  "id": "MV004",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+    "en": "Noonu",
+    "slug": "noonu-mv004"
+  },
+  "code": {
+    "id": "MV004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 80
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.822",
+    "lon": "73.316"
+  },
+  "metadata": {},
+  "source": {}
+}

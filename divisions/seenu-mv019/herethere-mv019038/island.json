@@ -1,0 +1,45 @@
+{
+  "id": "MV019038",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހެރެތެރެ",
+    "en": "Herethere",
+    "slug": "herethere-mv019038"
+  },
+  "code": {
+    "id": "MV019038",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV019",
+    "level": 1,
+    "name": {
+      "local": "އައްޑުއަތޮޅު",
+      "en": "Seenu",
+      "slug": "seenu-mv019"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV019",
+      "level": 1,
+      "name": {
+        "local": "އައްޑުއަތޮޅު",
+        "en": "Seenu",
+        "slug": "seenu-mv019"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.627",
+    "lon": "73.226"
+  },
+  "metadata": {},
+  "source": {}
+}

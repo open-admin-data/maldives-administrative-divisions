@@ -1,0 +1,45 @@
+{
+  "id": "MV015024",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބޮޑުމުންޏަފުށި",
+    "en": "Bodumungnafushi",
+    "slug": "bodumungnafushi-mv015024"
+  },
+  "code": {
+    "id": "MV015024",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.989",
+    "lon": "73.309"
+  },
+  "metadata": {},
+  "source": {}
+}

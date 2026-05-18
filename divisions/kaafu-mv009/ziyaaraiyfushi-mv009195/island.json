@@ -1,0 +1,45 @@
+{
+  "id": "MV009195",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ޒިޔާރަތްފުށި",
+    "en": "Ziyaaraiyfushi",
+    "slug": "ziyaaraiyfushi-mv009195"
+  },
+  "code": {
+    "id": "MV009195",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.533",
+    "lon": "73.373"
+  },
+  "metadata": {},
+  "source": {}
+}

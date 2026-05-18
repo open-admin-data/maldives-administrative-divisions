@@ -1,0 +1,45 @@
+{
+  "id": "MV004079",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ތޮށިގަނޑުކޮޅު",
+    "en": "Thoshigan'dukolhu",
+    "slug": "thoshigandukolhu-mv004079"
+  },
+  "code": {
+    "id": "MV004079",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV004",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+      "en": "Noonu",
+      "slug": "noonu-mv004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV004",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+        "en": "Noonu",
+        "slug": "noonu-mv004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.732",
+    "lon": "73.414"
+  },
+  "metadata": {},
+  "source": {}
+}

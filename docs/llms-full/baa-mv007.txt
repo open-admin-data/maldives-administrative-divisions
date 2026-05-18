@@ -1,0 +1,599 @@
+# Baa — Maldives Administrative Divisions
+
+> 118 islands
+> Code: MV007
+> Coordinates: 5.143, 72.977
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އަހިވައްފުށި (Ahivaffushi)
+
+Code: MV007014, Coordinates: 5.228, 72.857
+
+
+### އައިދޫ (Aidhoo)
+
+Code: MV007015, Coordinates: 5.187, 73.164
+
+
+### އަނގާފަރު (An&#39;gaafaru)
+
+Code: MV007016, Coordinates: 5.178, 73.099
+
+
+### އަންހެނުންފުށި (Anhenunfushi)
+
+Code: MV007017, Coordinates: 5.342, 72.969
+
+
+### ބަތަލާ (Bathalaa)
+
+Code: MV007018, Coordinates: 5.353, 73.069
+
+
+### ބަތަލާހުރާ (Bathalaahuraa)
+
+Code: MV007019, Coordinates: 5.357, 73.062
+
+
+### ބޯދާފުށިފިނޮޅު (Boadhaafushifinolhu)
+
+Code: MV007020, Coordinates: 4.882, 72.893
+
+
+### ބޮޑުފިނޮޅު (Bodufinolhu)
+
+Code: MV007021, Coordinates: 5.009, 72.856
+
+
+### ބޮއިފުށި (Boifushi)
+
+Code: MV007022, Coordinates: 5.298, 72.994
+
+
+### ދަކަންދޫ (Dhakandhoo)
+
+Code: MV007023, Coordinates: 5.248, 72.894
+
+
+### ދަންދޫ (Dhandhoo)
+
+Code: MV007024, Coordinates: 5.236, 73.168
+
+
+### ދަރަވަންދޫ (Dharavandhoo)
+
+Code: MV007006, Coordinates: 5.157, 73.132
+
+
+### ދަށުފަރުހުރާ (Dhashufaruhuraa)
+
+Code: MV007025, Coordinates: 4.817, 72.91
+
+
+### ދިގުދެފަރު (Dhigudhefaru)
+
+Code: MV007026, Coordinates: 5.235, 73.139
+
+
+### ދިގުފަރުވިނަގަނޑު (Dhigufaruvinagan&#39;du)
+
+Code: MV007027, Coordinates: 5.352, 72.99
+
+
+### Dhonfanu
+
+Code: MV007005, Coordinates: 5.188, 73.123
+
+
+### ދޫގަނޑުފިނޮޅު (Dhoogan&#39;dufinolhu)
+
+Code: MV007028, Coordinates: 5.247, 73.152
+
+
+### ދުނިކޮޅު (Dhunikolhu)
+
+Code: MV007029, Coordinates: 5.04, 72.882
+
+
+### އެނބޫދޫ (En&#39;boodhoo)
+
+Code: MV007030, Coordinates: 5.064, 72.856
+
+
+### އޭދަފުށި (Eydhafushi)
+
+Code: MV007008, Coordinates: 5.103, 73.07
+
+
+### ފަރެސް (Fares)
+
+Code: MV007031, Coordinates: 5.232, 72.877
+
+
+### ފެހެންދޫ (Fehendhoo)
+
+Code: MV007012, Coordinates: 4.882, 72.967
+
+
+### ފިނޮޅަސް (Finolhas)
+
+Code: MV007032, Coordinates: 5.234, 73.114
+
+
+### ފިނޮޅުފަރު (Finolhufaru)
+
+Code: MV007033, Coordinates: 5.184, 72.935
+
+
+### ފޮނިމަގޫދޫ (Fonimagoodhoo)
+
+Code: MV007034, Coordinates: 5.255, 73.163
+
+
+### ފުޅަދޫ (Fulhadhoo)
+
+Code: MV007011, Coordinates: 4.885, 72.935
+
+
+### ފުނަދޫ (Funadhoo)
+
+Code: MV007035, Coordinates: 5.275, 73.033
+
+
+### ގާގަނޑުފަރުހުރާ (Gaagan&#39;dufaruhuraa)
+
+Code: MV007036, Coordinates: 5.369, 73.061
+
+
+### ގާވިލިނގިލި (Gaavilin&#39;gili)
+
+Code: MV007037, Coordinates: 5.062, 72.837
+
+
+### ގެމެންދޫ (Gemendhoo)
+
+Code: MV007038, Coordinates: 5.276, 73.02
+
+
+### ގޮއިދޫ (Goidhoo)
+
+Code: MV007013, Coordinates: 4.871, 72.998
+
+
+### ހަނިފަރު (Hanifaru)
+
+Code: MV007039, Coordinates: 5.183, 73.133
+
+
+### ހަނިފަރުހުރާ (Hanifaruhuraa)
+
+Code: MV007040, Coordinates: 5.173, 73.151
+
+
+### ހިބަޅިދޫ (Hibalhidhoo)
+
+Code: MV007041, Coordinates: 5.141, 73.115
+
+
+### ހިރުންދޫ (Hirundhoo)
+
+Code: MV007042, Coordinates: 5.217, 73.154
+
+
+### ހިތާދޫ (Hithaadhoo)
+
+Code: MV007010, Coordinates: 5.008, 72.923
+
+
+### ހޮރުބަދޫ (Horubadhoo)
+
+Code: MV007043, Coordinates: 5.163, 73.053
+
+
+### ހުޅުދޫ (Hulhudhoo)
+
+Code: MV007044, Coordinates: 5.275, 73.025
+
+
+### ހުރާފަރު (Huraafaru)
+
+Code: MV007045, Coordinates: 5.207, 73.154
+
+
+### އިންނަފުށި (Innafushi)
+
+Code: MV007046, Coordinates: 4.877, 72.878
+
+
+### ކަމަދޫ (Kamadhoo)
+
+Code: MV007002, Coordinates: 5.282, 73.137
+
+
+### ކަނުފުށީގާތުފިނޮޅު (Kanufusheegaathufinolhu)
+
+Code: MV007047, Coordinates: 5.014, 72.962
+
+
+### ކަނުފުށި (Kanufushi)
+
+Code: MV007048, Coordinates: 5.012, 72.952
+
+
+### ކަށިދޫ (Kashidhoo)
+
+Code: MV007049, Coordinates: 5.297, 72.969
+
+
+### ކެންދޫ (Kendhoo)
+
+Code: MV007003, Coordinates: 5.275, 73.01
+
+
+### ކެޔޮދޫ (Keyodhoo)
+
+Code: MV007050, Coordinates: 5.277, 72.996
+
+
+### ކިހާދޫ (Kihaadhoo)
+
+Code: MV007004, Coordinates: 5.215, 73.125
+
+
+### ކިހާދުއްފަރު (Kihaadhuffaru)
+
+Code: MV007051, Coordinates: 5.191, 73.132
+
+
+### ކިހަވައްހުރަވަޅި (Kihavahhuravalhi)
+
+Code: MV007052, Coordinates: 5.296, 73.057
+
+
+### ކުޑަދޫ (Kudadhoo)
+
+Code: MV007053, Coordinates: 5.029, 72.992
+
+
+### ކުޑަރިކިލު (Kudarikilu)
+
+Code: MV007001, Coordinates: 5.3, 73.071
+
+
+### ކުންފުނަދޫ (Kunfunadhoo)
+
+Code: MV007054, Coordinates: 5.113, 73.077
+
+
+### ލަނޑާގިރާވަރު (Lan&#39;daagiraavaru)
+
+Code: MV007055, Coordinates: 5.286, 73.112
+
+
+### LD0781
+
+Code: MV007056, Coordinates: 5.326, 73.086
+
+
+### LD0991
+
+Code: MV007057, Coordinates: 5.167, 73.056
+
+
+### LD1208
+
+Code: MV007058, Coordinates: 5.295, 72.964
+
+
+### LD1209
+
+Code: MV007059, Coordinates: 5.299, 72.956
+
+
+### LD1210
+
+Code: MV007060, Coordinates: 5.342, 73.075
+
+
+### LD1217
+
+Code: MV007061, Coordinates: 5.253, 73.12
+
+
+### LD1218
+
+Code: MV007062, Coordinates: 5.241, 73.191
+
+
+### LD1221
+
+Code: MV007063, Coordinates: 5.226, 73.191
+
+
+### LD1222
+
+Code: MV007064, Coordinates: 5.181, 73.032
+
+
+### LD1223
+
+Code: MV007065, Coordinates: 5.166, 73.062
+
+
+### LD1225
+
+Code: MV007066, Coordinates: 5.167, 73.042
+
+
+### LD1229
+
+Code: MV007067, Coordinates: 5.284, 73.096
+
+
+### LD1230
+
+Code: MV007068, Coordinates: 5.298, 73.013
+
+
+### LD1271
+
+Code: MV007069, Coordinates: 4.885, 72.955
+
+
+### LD1272
+
+Code: MV007070, Coordinates: 4.884, 72.976
+
+
+### LD1273
+
+Code: MV007071, Coordinates: 4.883, 72.942
+
+
+### LD1274
+
+Code: MV007072, Coordinates: 4.885, 72.948
+
+
+### LD1275
+
+Code: MV007073, Coordinates: 4.885, 72.953
+
+
+### LD1276
+
+Code: MV007074, Coordinates: 4.886, 72.942
+
+
+### LD1277
+
+Code: MV007075, Coordinates: 4.881, 72.887
+
+
+### LD1279
+
+Code: MV007076, Coordinates: 4.881, 72.89
+
+
+### LD1283
+
+Code: MV007077, Coordinates: 4.883, 72.901
+
+
+### LD1284
+
+Code: MV007078, Coordinates: 4.884, 72.907
+
+
+### LD1287
+
+Code: MV007079, Coordinates: 4.884, 72.912
+
+
+### LD1288
+
+Code: MV007080, Coordinates: 4.884, 72.921
+
+
+### LD1549
+
+Code: MV007081, Coordinates: 5.349, 73.069
+
+
+### LD1550
+
+Code: MV007082, Coordinates: 5.354, 73.074
+
+
+### LD1551
+
+Code: MV007083, Coordinates: 5.218, 72.876
+
+
+### LD1552
+
+Code: MV007084, Coordinates: 5.171, 72.926
+
+
+### LD1553
+
+Code: MV007085, Coordinates: 5.165, 73.064
+
+
+### LD1554
+
+Code: MV007086, Coordinates: 5.013, 72.858
+
+
+### LD1555
+
+Code: MV007087, Coordinates: 5.013, 72.859
+
+
+### LD1556
+
+Code: MV007088, Coordinates: 5.061, 72.846
+
+
+### LD1557
+
+Code: MV007089, Coordinates: 5.076, 72.876
+
+
+### LD1558
+
+Code: MV007090, Coordinates: 5.134, 72.979
+
+
+### LD1559
+
+Code: MV007091, Coordinates: 5.358, 73.002
+
+
+### LD1560
+
+Code: MV007092, Coordinates: 5.358, 73.002
+
+
+### LD1561
+
+Code: MV007093, Coordinates: 4.818, 72.911
+
+
+### މާއްޑޫ (Maaddoo)
+
+Code: MV007094, Coordinates: 5.093, 73.063
+
+
+### މާއްޑޫހުޅުދޫ (Maaddoohulhudhoo)
+
+Code: MV007095, Coordinates: 5.071, 73.032
+
+
+### މާފުށީފިނޮޅު (Maafusheefinolhu)
+
+Code: MV007096, Coordinates: 5.231, 73.191
+
+
+### މާޅޮސް (Maalhos)
+
+Code: MV007007, Coordinates: 5.135, 73.108
+
+
+### މާމަޑުއްވަރި (Maamaduvvari)
+
+Code: MV007097, Coordinates: 5.01, 72.943
+
+
+### މާރިކިލު (Maarikilu)
+
+Code: MV007098, Coordinates: 5.335, 72.952
+
+
+### މަދިރިވާދޫ (Madhirivaadhoo)
+
+Code: MV007099, Coordinates: 5.269, 73.161
+
+
+### މަތިފަރު (Mathifaru)
+
+Code: MV007100, Coordinates: 4.816, 72.891
+
+
+### މެދުފިނޮޅުގާތުފިނޮޅު (Medhufinolhugaathufinolhu)
+
+Code: MV007101, Coordinates: 5.016, 72.966
+
+
+### މެންދޫ (Mendhoo)
+
+Code: MV007102, Coordinates: 5.175, 72.995
+
+
+### މިލައިދޫ (Milaidhoo)
+
+Code: MV007103, Coordinates: 5.267, 73.129
+
+
+### މިރިއަންދޫ (Miriandhoo)
+
+Code: MV007104, Coordinates: 5.063, 73.031
+
+
+### މުއްދޫ (Mudhdhoo)
+
+Code: MV007105, Coordinates: 5.207, 73.085
+
+
+### މުތާފުށި (Muthaafushi)
+
+Code: MV007106, Coordinates: 5.078, 72.878
+
+
+### ނެލިވަރުފިނޮޅު (Nelivarufinolhu)
+
+Code: MV007107, Coordinates: 5.126, 73.086
+
+
+### ނިބިލިގާ (Nibiligaa)
+
+Code: MV007108, Coordinates: 5.174, 72.944
+
+
+### އޮޅުގިރި (Olhugiri)
+
+Code: MV007109, Coordinates: 5.001, 72.906
+
+
+### ތިލަދޫ (Thiladhoo)
+
+Code: MV007110, Coordinates: 5.262, 73.155
+
+
+### ތުޅާދޫ (Thulhaadhoo)
+
+Code: MV007009, Coordinates: 5.022, 72.841
+
+
+### އުފުލިގިރި (Ufuligiri)
+
+Code: MV007111, Coordinates: 5.017, 72.97
+
+
+### އުނޑޫދޫ (Un&#39;doodhoo)
+
+Code: MV007112, Coordinates: 5.275, 73.042
+
+
+### ވައްކަރު (Vakkaru)
+
+Code: MV007113, Coordinates: 5.133, 72.91
+
+
+### ވަންދުއްމާފަރުފިނޮޅު (Vandhuhmaafarufinolhu)
+
+Code: MV007114, Coordinates: 5.237, 73.191
+
+
+### ވެލަވަރު (Velavaru)
+
+Code: MV007115, Coordinates: 5.207, 72.921
+
+
+### ވެޔޮފުށި (Veyofushi)
+
+Code: MV007116, Coordinates: 5.229, 73.157
+
+
+### ވިނަނެތްފަރުހުރާ (Vinaneiyfaruhuraa)
+
+Code: MV007117, Coordinates: 5.346, 73.079
+
+
+### ވޯވައް (Voavah)
+
+Code: MV007118, Coordinates: 5.316, 73.078
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "MV015008",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފޮނަދޫ",
+    "en": "Fonadhoo",
+    "slug": "fonadhoo-mv015008"
+  },
+  "code": {
+    "id": "MV015008",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.836",
+    "lon": "73.504"
+  },
+  "metadata": {},
+  "source": {}
+}

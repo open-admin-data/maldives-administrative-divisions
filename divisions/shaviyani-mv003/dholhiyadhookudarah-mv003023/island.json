@@ -1,0 +1,45 @@
+{
+  "id": "MV003023",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދޮޅިޔަދޫކުޑަރަށް",
+    "en": "Dholhiyadhookudarah",
+    "slug": "dholhiyadhookudarah-mv003023"
+  },
+  "code": {
+    "id": "MV003023",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV003",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+      "en": "Shaviyani",
+      "slug": "shaviyani-mv003"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV003",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު އުތުރުބުރި",
+        "en": "Shaviyani",
+        "slug": "shaviyani-mv003"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.99",
+    "lon": "73.224"
+  },
+  "metadata": {},
+  "source": {}
+}

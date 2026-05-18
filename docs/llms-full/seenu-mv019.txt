@@ -1,0 +1,209 @@
+# Seenu — Maldives Administrative Divisions
+
+> 40 islands
+> Code: MV019
+> Coordinates: -0.642, 73.163
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### ބެދޭއައުރަށް (Bedhey Aurah)
+
+Code: MV019026, Coordinates: -0.589, 73.087
+
+
+### ބޮޑުހަޖަރާ (Boduhajaraa)
+
+Code: MV019027, Coordinates: -0.677, 73.123
+
+
+### ބޮލިހެރަ (Bolihera)
+
+Code: MV019028, Coordinates: -0.611, 73.11
+
+
+### ދީރޮނޑި (Dheeron&#39;di)
+
+Code: MV019029, Coordinates: -0.595, 73.087
+
+
+### ދިގިހެރާ (Dhigiheraa)
+
+Code: MV019030, Coordinates: -0.686, 73.131
+
+
+### ދޮންހެރަ (Dhonhera)
+
+Code: MV019031, Coordinates: -0.586, 73.197
+
+
+### ފަތިކެޑެހެރަގަނޑު (Fathikedeheragan&#39;du)
+
+Code: MV019032, Coordinates: -0.612, 73.149
+
+
+### ފޭދޫ (Feydhoo)
+
+Code: MV019004, Coordinates: -0.682, 73.135
+
+
+### ގަން (Gan)
+
+Code: MV019033, Coordinates: -0.695, 73.157
+
+
+### ގެސްކަޅުހެރާ (Geskalhuheraa)
+
+Code: MV019034, Coordinates: -0.646, 73.221
+
+
+### ގޮމަހެރަ (Gomahera)
+
+Code: MV019035, Coordinates: -0.691, 73.183
+
+
+### ހަންކެޑެ (Hankede)
+
+Code: MV019036, Coordinates: -0.656, 73.111
+
+
+### Hasanbeaarah
+
+Code: MV019037, Coordinates: -0.598, 73.222
+
+
+### ހެރެތެރެ (Herethere)
+
+Code: MV019038, Coordinates: -0.627, 73.226
+
+
+### ހިކަހެރަ (Hikahera)
+
+Code: MV019039, Coordinates: -0.58, 73.222
+
+
+### ހިތަދޫ (Hithadhoo)
+
+Code: MV019002, Coordinates: -0.616, 73.094
+
+
+### ހުޅުދޫ (Hulhudhoo)
+
+Code: MV019006, Coordinates: -0.599, 73.225
+
+
+### އިސްމެހެލާހެރަ (Ismehelaahera)
+
+Code: MV019040, Coordinates: -0.579, 73.217
+
+
+### ކަނޑިހެރަގަނޑު (Kan&#39;diheragan&#39;du)
+
+Code: MV019041, Coordinates: -0.615, 73.142
+
+
+### ކައޮހެރަ (Kaohera)
+
+Code: MV019042, Coordinates: -0.589, 73.089
+
+
+### ކެޑެވާހެރަ (Kedevaahera)
+
+Code: MV019043, Coordinates: -0.577, 73.208
+
+
+### ކުޑަމާހެރަ (Kudamaahera)
+
+Code: MV019044, Coordinates: -0.598, 73.089
+
+
+### ކުދެހެރަ (Kudhehera)
+
+Code: MV019045, Coordinates: -0.58, 73.223
+
+
+### LD0526
+
+Code: MV019046, Coordinates: -0.577, 73.209
+
+
+### LD0895
+
+Code: MV019047, Coordinates: -0.602, 73.102
+
+
+### LD1452
+
+Code: MV019048, Coordinates: -0.691, 73.183
+
+
+### LD1453
+
+Code: MV019049, Coordinates: -0.581, 73.199
+
+
+### LD1697
+
+Code: MV019050, Coordinates: -0.659, 73.112
+
+
+### LD1698
+
+Code: MV019051, Coordinates: -0.577, 73.21
+
+
+### LD1699
+
+Code: MV019052, Coordinates: -0.579, 73.221
+
+
+### LD1700
+
+Code: MV019053, Coordinates: -0.578, 73.211
+
+
+### LD1701
+
+Code: MV019054, Coordinates: -0.58, 73.215
+
+
+### LD1779
+
+Code: MV019055, Coordinates: -0.605, 73.104
+
+
+### މާހެރަ (Maahera)
+
+Code: MV019056, Coordinates: -0.595, 73.09
+
+
+### މަރަދޫ (Maradhoo)
+
+Code: MV019003, Coordinates: -0.665, 73.118
+
+
+### މަރަދޫފޭދޫ (Maradhoofeydhoo)
+
+Code: MV019005, Coordinates: -0.673, 73.126
+
+
+### މީދޫ (Meedhoo)
+
+Code: MV019001, Coordinates: -0.584, 73.231
+
+
+### މުލިކެޑެ (Mulikede)
+
+Code: MV019057, Coordinates: -0.659, 73.217
+
+
+### ސަވާހެލި (Savaaheli)
+
+Code: MV019058, Coordinates: -0.681, 73.126
+
+
+### ވިލިނގިލި (Vilin&#39;gili)
+
+Code: MV019025, Coordinates: -0.681, 73.194
+
+

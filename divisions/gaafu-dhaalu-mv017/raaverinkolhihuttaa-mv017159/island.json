@@ -1,0 +1,45 @@
+{
+  "id": "MV017159",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ރާވެރިންކޮޅިހުއްޓާ",
+    "en": "Raaverinkolhihuttaa",
+    "slug": "raaverinkolhihuttaa-mv017159"
+  },
+  "code": {
+    "id": "MV017159",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV017",
+    "level": 1,
+    "name": {
+      "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+      "en": "Gaafu Dhaalu",
+      "slug": "gaafu-dhaalu-mv017"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV017",
+      "level": 1,
+      "name": {
+        "local": "ހުވަދު އަތޮޅު ދެކުނުބުރި",
+        "en": "Gaafu Dhaalu",
+        "slug": "gaafu-dhaalu-mv017"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.251",
+    "lon": "73.234"
+  },
+  "metadata": {},
+  "source": {}
+}

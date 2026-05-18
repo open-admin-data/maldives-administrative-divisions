@@ -1,0 +1,45 @@
+{
+  "id": "MV004032",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހުޅުއްދޫ",
+    "en": "Hulhuhdhoo",
+    "slug": "hulhuhdhoo-mv004032"
+  },
+  "code": {
+    "id": "MV004032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV004",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+      "en": "Noonu",
+      "slug": "noonu-mv004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV004",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+        "en": "Noonu",
+        "slug": "noonu-mv004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.815",
+    "lon": "73.319"
+  },
+  "metadata": {},
+  "source": {}
+}

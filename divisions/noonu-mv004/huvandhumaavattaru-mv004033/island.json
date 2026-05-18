@@ -1,0 +1,45 @@
+{
+  "id": "MV004033",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހުވަނދުމާވައްޓަރު",
+    "en": "Huvan'dhumaavattaru",
+    "slug": "huvandhumaavattaru-mv004033"
+  },
+  "code": {
+    "id": "MV004033",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV004",
+    "level": 1,
+    "name": {
+      "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+      "en": "Noonu",
+      "slug": "noonu-mv004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV004",
+      "level": 1,
+      "name": {
+        "local": "މިލަދުންމަޑުލު ދެކުނުބުރި",
+        "en": "Noonu",
+        "slug": "noonu-mv004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.845",
+    "lon": "73.445"
+  },
+  "metadata": {},
+  "source": {}
+}

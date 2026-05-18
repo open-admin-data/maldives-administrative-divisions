@@ -1,0 +1,45 @@
+{
+  "id": "MV001005",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "Mulhadhoo",
+    "en": "Mulhadhoo",
+    "slug": "mulhadhoo-mv001005"
+  },
+  "code": {
+    "id": "MV001005",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV001",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+      "en": "Haa Alifu",
+      "slug": "haa-alifu-mv001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV001",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+        "en": "Haa Alifu",
+        "slug": "haa-alifu-mv001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.015",
+    "lon": "72.997"
+  },
+  "metadata": {},
+  "source": {}
+}

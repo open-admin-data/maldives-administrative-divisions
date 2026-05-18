@@ -1,0 +1,45 @@
+{
+  "id": "MV013058",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މާއުސްފުށި",
+    "en": "Maausfushi",
+    "slug": "maausfushi-mv013058"
+  },
+  "code": {
+    "id": "MV013058",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV013",
+    "level": 1,
+    "name": {
+      "local": "މުލަކަތޮޅު",
+      "en": "Meemu",
+      "slug": "meemu-mv013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV013",
+      "level": 1,
+      "name": {
+        "local": "މުލަކަތޮޅު",
+        "en": "Meemu",
+        "slug": "meemu-mv013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.798",
+    "lon": "73.432"
+  },
+  "metadata": {},
+  "source": {}
+}

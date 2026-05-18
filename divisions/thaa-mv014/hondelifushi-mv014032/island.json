@@ -1,0 +1,45 @@
+{
+  "id": "MV014032",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހޮނޑެލިފުށި",
+    "en": "Hon'delifushi",
+    "slug": "hondelifushi-mv014032"
+  },
+  "code": {
+    "id": "MV014032",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.495",
+    "lon": "73.313"
+  },
+  "metadata": {},
+  "source": {}
+}

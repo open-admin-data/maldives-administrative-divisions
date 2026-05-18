@@ -1,0 +1,249 @@
+# Vaavu — Maldives Administrative Divisions
+
+> 48 islands
+> Code: MV010
+> Coordinates: 3.494, 73.409
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އާރަށް (Aarah)
+
+Code: MV010006, Coordinates: 3.5, 73.529
+
+
+### އަލިމަތާ (Alimathaa)
+
+Code: MV010007, Coordinates: 3.594, 73.498
+
+
+### އަންބަރާ (Anbaraa)
+
+Code: MV010008, Coordinates: 3.372, 73.44
+
+
+### ބޮޑުމޮހޮރާ (Bodumohoraa)
+
+Code: MV010009, Coordinates: 3.343, 73.521
+
+
+### ދިއްގިރި (Dhiggiri)
+
+Code: MV010010, Coordinates: 3.645, 73.488
+
+
+### ފެލިދޫ (Felidhoo)
+
+Code: MV010003, Coordinates: 3.472, 73.547
+
+
+### ފޮއްތެޔޮބޮޑުފުށި (Fohtheyobodufushi)
+
+Code: MV010011, Coordinates: 3.456, 73.758
+
+
+### ފުލިދޫ (Fulidhoo)
+
+Code: MV010001, Coordinates: 3.68, 73.416
+
+
+### ހުޅިދޫ (Hulhidhoo)
+
+Code: MV010012, Coordinates: 3.493, 73.533
+
+
+### ކެޔޮދޫ (Keyodhoo)
+
+Code: MV010004, Coordinates: 3.462, 73.55
+
+
+### ކުޑައަންބަރާ (Kuda Anbaraa)
+
+Code: MV010013, Coordinates: 3.427, 73.425
+
+
+### ކުޑަމޮހޮރާ (Kudamohoraa)
+
+Code: MV010014, Coordinates: 3.342, 73.511
+
+
+### ކުނާވެށި (Kunaaveshi)
+
+Code: MV010015, Coordinates: 3.637, 73.365
+
+
+### LD0682
+
+Code: MV010016, Coordinates: 3.361, 73.5
+
+
+### LD1157
+
+Code: MV010017, Coordinates: 3.359, 73.58
+
+
+### LD1362
+
+Code: MV010018, Coordinates: 3.454, 73.325
+
+
+### LD1363
+
+Code: MV010019, Coordinates: 3.482, 73.704
+
+
+### LD1364
+
+Code: MV010020, Coordinates: 3.485, 73.527
+
+
+### LD1365
+
+Code: MV010021, Coordinates: 3.56, 73.498
+
+
+### LD1366
+
+Code: MV010022, Coordinates: 3.552, 73.5
+
+
+### LD1367
+
+Code: MV010023, Coordinates: 3.545, 73.504
+
+
+### LD1368
+
+Code: MV010024, Coordinates: 3.514, 73.522
+
+
+### LD1369
+
+Code: MV010025, Coordinates: 3.385, 73.463
+
+
+### LD1370
+
+Code: MV010026, Coordinates: 3.396, 73.447
+
+
+### LD1371
+
+Code: MV010027, Coordinates: 3.388, 73.438
+
+
+### LD1506
+
+Code: MV010028, Coordinates: 3.41, 73.387
+
+
+### LD1608
+
+Code: MV010029, Coordinates: 3.416, 73.398
+
+
+### LD1609
+
+Code: MV010030, Coordinates: 3.623, 73.47
+
+
+### LD1610
+
+Code: MV010031, Coordinates: 3.362, 73.648
+
+
+### LD1611
+
+Code: MV010032, Coordinates: 3.36, 73.641
+
+
+### LD1612
+
+Code: MV010033, Coordinates: 3.5, 73.522
+
+
+### LD1613
+
+Code: MV010034, Coordinates: 3.624, 73.502
+
+
+### LD1614
+
+Code: MV010035, Coordinates: 3.626, 73.5
+
+
+### LD1615
+
+Code: MV010036, Coordinates: 3.619, 73.369
+
+
+### LD1616
+
+Code: MV010037, Coordinates: 3.614, 73.367
+
+
+### LD1617
+
+Code: MV010038, Coordinates: 3.529, 73.304
+
+
+### LD1618
+
+Code: MV010039, Coordinates: 3.527, 73.308
+
+
+### LD1619
+
+Code: MV010040, Coordinates: 3.513, 73.286
+
+
+### LD1620
+
+Code: MV010041, Coordinates: 3.433, 73.422
+
+
+### LD1621
+
+Code: MV010042, Coordinates: 3.43, 73.405
+
+
+### LD1622
+
+Code: MV010043, Coordinates: 3.378, 73.43
+
+
+### LD1623
+
+Code: MV010044, Coordinates: 3.508, 73.284
+
+
+### LD1624
+
+Code: MV010045, Coordinates: 3.635, 73.37
+
+
+### ރަކީދޫ (Rakeedhoo)
+
+Code: MV010005, Coordinates: 3.315, 73.47
+
+
+### ތިނަދޫ (Thinadhoo)
+
+Code: MV010002, Coordinates: 3.488, 73.539
+
+
+### ތުނޑުހުރާ (Thun&#39;duhuraa)
+
+Code: MV010046, Coordinates: 3.343, 73.506
+
+
+### ވަށުގިރި (Vashugiri)
+
+Code: MV010047, Coordinates: 3.63, 73.377
+
+
+### ވައްޓަރު (Vattaru)
+
+Code: MV010048, Coordinates: 3.222, 73.427
+
+

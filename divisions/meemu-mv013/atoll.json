@@ -1,0 +1,29 @@
+{
+  "id": "MV013",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "މުލަކަތޮޅު",
+    "en": "Meemu",
+    "slug": "meemu-mv013"
+  },
+  "code": {
+    "id": "MV013",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 67
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.961",
+    "lon": "73.494"
+  },
+  "metadata": {},
+  "source": {}
+}

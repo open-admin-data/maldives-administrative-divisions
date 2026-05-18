@@ -1,0 +1,45 @@
+{
+  "id": "MV013046",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "LD1629",
+    "en": "LD1629",
+    "slug": "ld1629-mv013046"
+  },
+  "code": {
+    "id": "MV013046",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV013",
+    "level": 1,
+    "name": {
+      "local": "މުލަކަތޮޅު",
+      "en": "Meemu",
+      "slug": "meemu-mv013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV013",
+      "level": 1,
+      "name": {
+        "local": "މުލަކަތޮޅު",
+        "en": "Meemu",
+        "slug": "meemu-mv013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.096",
+    "lon": "73.623"
+  },
+  "metadata": {},
+  "source": {}
+}

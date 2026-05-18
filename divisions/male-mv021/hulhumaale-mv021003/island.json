@@ -1,0 +1,45 @@
+{
+  "id": "MV021003",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "Hulhumaale",
+    "en": "Hulhumaale",
+    "slug": "hulhumaale-mv021003"
+  },
+  "code": {
+    "id": "MV021003",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV021",
+    "level": 1,
+    "name": {
+      "local": "މާލެ ސިޓީ",
+      "en": "Male",
+      "slug": "male-mv021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV021",
+      "level": 1,
+      "name": {
+        "local": "މާލެ ސިޓީ",
+        "en": "Male",
+        "slug": "male-mv021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.221",
+    "lon": "73.543"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV015037",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ހަތްތޮށި",
+    "en": "Haiythoshi",
+    "slug": "haiythoshi-mv015037"
+  },
+  "code": {
+    "id": "MV015037",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.842",
+    "lon": "73.259"
+  },
+  "metadata": {},
+  "source": {}
+}

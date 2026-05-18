@@ -1,0 +1,174 @@
+# Faafu — Maldives Administrative Divisions
+
+> 33 islands
+> Code: MV011
+> Coordinates: 3.188, 72.932
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އަދަންގައު (Adhangau)
+
+Code: MV011006, Coordinates: 3.139, 73.008
+
+
+### ބިލެތްދޫ (Bileiydhoo)
+
+Code: MV011002, Coordinates: 3.118, 72.984
+
+
+### ދަރަނބޫދޫ (Dharan&#39;boodhoo)
+
+Code: MV011004, Coordinates: 3.063, 72.926
+
+
+### ދިގުވަރުފިނޮޅު (Dhiguvarufinolhu)
+
+Code: MV011007, Coordinates: 3.247, 73.025
+
+
+### އެނބުލުފުށި (En&#39;bulufushi)
+
+Code: MV011008, Coordinates: 3.133, 73.018
+
+
+### ފާނުމާހުރާ (Faanumaahuraa)
+
+Code: MV011009, Coordinates: 3.213, 72.982
+
+
+### ފީއަލި (Feeali)
+
+Code: MV011001, Coordinates: 3.27, 73.001
+
+
+### ފިލިތެޔޮ (Filitheyo)
+
+Code: MV011010, Coordinates: 3.213, 73.037
+
+
+### ހިމިތި (Himithi)
+
+Code: MV011011, Coordinates: 3.256, 72.82
+
+
+### ޖިންނަތުގައު (Jinnathugau)
+
+Code: MV011012, Coordinates: 3.201, 72.998
+
+
+### ކަނޑުމޫނުފުށި (Kan&#39;dumoonufushi)
+
+Code: MV011013, Coordinates: 3.315, 72.897
+
+
+### LD0030
+
+Code: MV011014, Coordinates: 3.062, 72.89
+
+
+### LD1380
+
+Code: MV011015, Coordinates: 3.151, 72.937
+
+
+### LD1381
+
+Code: MV011016, Coordinates: 3.287, 72.99
+
+
+### LD1382
+
+Code: MV011017, Coordinates: 3.165, 72.896
+
+
+### LD1639
+
+Code: MV011018, Coordinates: 3.19, 73.039
+
+
+### LD1640
+
+Code: MV011019, Coordinates: 3.191, 73.041
+
+
+### LD1641
+
+Code: MV011020, Coordinates: 3.17, 73.028
+
+
+### LD1642
+
+Code: MV011021, Coordinates: 3.141, 73.03
+
+
+### LD1643
+
+Code: MV011022, Coordinates: 3.09, 72.969
+
+
+### LD1644
+
+Code: MV011023, Coordinates: 3.093, 72.968
+
+
+### LD1645
+
+Code: MV011024, Coordinates: 3.097, 72.992
+
+
+### LD1646
+
+Code: MV011025, Coordinates: 3.148, 72.985
+
+
+### LD1647
+
+Code: MV011026, Coordinates: 3.221, 73.032
+
+
+### LD1648
+
+Code: MV011027, Coordinates: 3.221, 73.03
+
+
+### މާފުށި (Maafushi)
+
+Code: MV011028, Coordinates: 3.243, 72.979
+
+
+### މަޑިވަރުހުރާ (Madivaruhuraa)
+
+Code: MV011029, Coordinates: 3.267, 73.011
+
+
+### މަގޫދޫ (Magoodhoo)
+
+Code: MV011003, Coordinates: 3.079, 72.965
+
+
+### މަގޫދޫބޮޑުފިނޮޅު (Magoodhoobodufinolhu)
+
+Code: MV011030, Coordinates: 3.075, 72.956
+
+
+### މަކުނުއެރި (Makunueri)
+
+Code: MV011031, Coordinates: 3.258, 72.929
+
+
+### މިނިމަސްގަލި (Minimasgali)
+
+Code: MV011032, Coordinates: 3.243, 72.836
+
+
+### ނިލަންދޫ (Nilandhoo)
+
+Code: MV011005, Coordinates: 3.057, 72.888
+
+
+### ވިލިނގިލިވަރުފިނޮޅު (Vilin&#39;gilivarufinolhu)
+
+Code: MV011033, Coordinates: 3.274, 72.999
+
+

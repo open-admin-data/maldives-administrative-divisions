@@ -1,0 +1,45 @@
+{
+  "id": "MV015091",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވެލިގަނޑުފިނޮޅު",
+    "en": "Veligan'dufinolhu",
+    "slug": "veligandufinolhu-mv015091"
+  },
+  "code": {
+    "id": "MV015091",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV015",
+    "level": 1,
+    "name": {
+      "local": "ހައްދުންމަތި",
+      "en": "Laamu",
+      "slug": "laamu-mv015"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV015",
+      "level": 1,
+      "name": {
+        "local": "ހައްދުންމަތި",
+        "en": "Laamu",
+        "slug": "laamu-mv015"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.829",
+    "lon": "73.409"
+  },
+  "metadata": {},
+  "source": {}
+}

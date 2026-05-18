@@ -1,0 +1,45 @@
+{
+  "id": "MV013016",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފެންފުރާވެލި",
+    "en": "Fenfuraaveli",
+    "slug": "fenfuraaveli-mv013016"
+  },
+  "code": {
+    "id": "MV013016",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV013",
+    "level": 1,
+    "name": {
+      "local": "މުލަކަތޮޅު",
+      "en": "Meemu",
+      "slug": "meemu-mv013"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV013",
+      "level": 1,
+      "name": {
+        "local": "މުލަކަތޮޅު",
+        "en": "Meemu",
+        "slug": "meemu-mv013"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.788",
+    "lon": "73.427"
+  },
+  "metadata": {},
+  "source": {}
+}

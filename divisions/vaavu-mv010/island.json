@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "MV010006",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އާރަށް",
+      "en": "Aarah",
+      "slug": "aarah-mv010006"
+    },
+    "code": {
+      "id": "MV010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.5",
+      "lon": "73.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010007",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އަލިމަތާ",
+      "en": "Alimathaa",
+      "slug": "alimathaa-mv010007"
+    },
+    "code": {
+      "id": "MV010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.594",
+      "lon": "73.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010008",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "އަންބަރާ",
+      "en": "Anbaraa",
+      "slug": "anbaraa-mv010008"
+    },
+    "code": {
+      "id": "MV010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.372",
+      "lon": "73.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010009",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ބޮޑުމޮހޮރާ",
+      "en": "Bodumohoraa",
+      "slug": "bodumohoraa-mv010009"
+    },
+    "code": {
+      "id": "MV010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.343",
+      "lon": "73.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010010",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ދިއްގިރި",
+      "en": "Dhiggiri",
+      "slug": "dhiggiri-mv010010"
+    },
+    "code": {
+      "id": "MV010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.645",
+      "lon": "73.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010003",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފެލިދޫ",
+      "en": "Felidhoo",
+      "slug": "felidhoo-mv010003"
+    },
+    "code": {
+      "id": "MV010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.472",
+      "lon": "73.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010011",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފޮއްތެޔޮބޮޑުފުށި",
+      "en": "Fohtheyobodufushi",
+      "slug": "fohtheyobodufushi-mv010011"
+    },
+    "code": {
+      "id": "MV010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.456",
+      "lon": "73.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010001",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ފުލިދޫ",
+      "en": "Fulidhoo",
+      "slug": "fulidhoo-mv010001"
+    },
+    "code": {
+      "id": "MV010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.68",
+      "lon": "73.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010012",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ހުޅިދޫ",
+      "en": "Hulhidhoo",
+      "slug": "hulhidhoo-mv010012"
+    },
+    "code": {
+      "id": "MV010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.493",
+      "lon": "73.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010004",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކެޔޮދޫ",
+      "en": "Keyodhoo",
+      "slug": "keyodhoo-mv010004"
+    },
+    "code": {
+      "id": "MV010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.462",
+      "lon": "73.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010013",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުޑައަންބަރާ",
+      "en": "Kuda Anbaraa",
+      "slug": "kuda-anbaraa-mv010013"
+    },
+    "code": {
+      "id": "MV010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.427",
+      "lon": "73.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010014",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުޑަމޮހޮރާ",
+      "en": "Kudamohoraa",
+      "slug": "kudamohoraa-mv010014"
+    },
+    "code": {
+      "id": "MV010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.342",
+      "lon": "73.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010015",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ކުނާވެށި",
+      "en": "Kunaaveshi",
+      "slug": "kunaaveshi-mv010015"
+    },
+    "code": {
+      "id": "MV010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.637",
+      "lon": "73.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010016",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD0682",
+      "en": "LD0682",
+      "slug": "ld0682-mv010016"
+    },
+    "code": {
+      "id": "MV010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.361",
+      "lon": "73.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010017",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1157",
+      "en": "LD1157",
+      "slug": "ld1157-mv010017"
+    },
+    "code": {
+      "id": "MV010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.359",
+      "lon": "73.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010018",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1362",
+      "en": "LD1362",
+      "slug": "ld1362-mv010018"
+    },
+    "code": {
+      "id": "MV010018",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.454",
+      "lon": "73.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010019",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1363",
+      "en": "LD1363",
+      "slug": "ld1363-mv010019"
+    },
+    "code": {
+      "id": "MV010019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.482",
+      "lon": "73.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010020",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1364",
+      "en": "LD1364",
+      "slug": "ld1364-mv010020"
+    },
+    "code": {
+      "id": "MV010020",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.485",
+      "lon": "73.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010021",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1365",
+      "en": "LD1365",
+      "slug": "ld1365-mv010021"
+    },
+    "code": {
+      "id": "MV010021",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.56",
+      "lon": "73.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010022",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1366",
+      "en": "LD1366",
+      "slug": "ld1366-mv010022"
+    },
+    "code": {
+      "id": "MV010022",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.552",
+      "lon": "73.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010023",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1367",
+      "en": "LD1367",
+      "slug": "ld1367-mv010023"
+    },
+    "code": {
+      "id": "MV010023",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.545",
+      "lon": "73.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010024",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1368",
+      "en": "LD1368",
+      "slug": "ld1368-mv010024"
+    },
+    "code": {
+      "id": "MV010024",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.514",
+      "lon": "73.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010025",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1369",
+      "en": "LD1369",
+      "slug": "ld1369-mv010025"
+    },
+    "code": {
+      "id": "MV010025",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.385",
+      "lon": "73.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010026",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1370",
+      "en": "LD1370",
+      "slug": "ld1370-mv010026"
+    },
+    "code": {
+      "id": "MV010026",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.396",
+      "lon": "73.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010027",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1371",
+      "en": "LD1371",
+      "slug": "ld1371-mv010027"
+    },
+    "code": {
+      "id": "MV010027",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.388",
+      "lon": "73.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010028",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1506",
+      "en": "LD1506",
+      "slug": "ld1506-mv010028"
+    },
+    "code": {
+      "id": "MV010028",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.41",
+      "lon": "73.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010029",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1608",
+      "en": "LD1608",
+      "slug": "ld1608-mv010029"
+    },
+    "code": {
+      "id": "MV010029",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.416",
+      "lon": "73.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010030",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1609",
+      "en": "LD1609",
+      "slug": "ld1609-mv010030"
+    },
+    "code": {
+      "id": "MV010030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.623",
+      "lon": "73.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010031",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1610",
+      "en": "LD1610",
+      "slug": "ld1610-mv010031"
+    },
+    "code": {
+      "id": "MV010031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.362",
+      "lon": "73.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010032",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1611",
+      "en": "LD1611",
+      "slug": "ld1611-mv010032"
+    },
+    "code": {
+      "id": "MV010032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.36",
+      "lon": "73.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010033",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1612",
+      "en": "LD1612",
+      "slug": "ld1612-mv010033"
+    },
+    "code": {
+      "id": "MV010033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.5",
+      "lon": "73.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010034",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1613",
+      "en": "LD1613",
+      "slug": "ld1613-mv010034"
+    },
+    "code": {
+      "id": "MV010034",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.624",
+      "lon": "73.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010035",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1614",
+      "en": "LD1614",
+      "slug": "ld1614-mv010035"
+    },
+    "code": {
+      "id": "MV010035",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.626",
+      "lon": "73.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010036",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1615",
+      "en": "LD1615",
+      "slug": "ld1615-mv010036"
+    },
+    "code": {
+      "id": "MV010036",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.619",
+      "lon": "73.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010037",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1616",
+      "en": "LD1616",
+      "slug": "ld1616-mv010037"
+    },
+    "code": {
+      "id": "MV010037",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.614",
+      "lon": "73.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010038",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1617",
+      "en": "LD1617",
+      "slug": "ld1617-mv010038"
+    },
+    "code": {
+      "id": "MV010038",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.529",
+      "lon": "73.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010039",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1618",
+      "en": "LD1618",
+      "slug": "ld1618-mv010039"
+    },
+    "code": {
+      "id": "MV010039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.527",
+      "lon": "73.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010040",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1619",
+      "en": "LD1619",
+      "slug": "ld1619-mv010040"
+    },
+    "code": {
+      "id": "MV010040",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.513",
+      "lon": "73.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010041",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1620",
+      "en": "LD1620",
+      "slug": "ld1620-mv010041"
+    },
+    "code": {
+      "id": "MV010041",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.433",
+      "lon": "73.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010042",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1621",
+      "en": "LD1621",
+      "slug": "ld1621-mv010042"
+    },
+    "code": {
+      "id": "MV010042",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.43",
+      "lon": "73.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010043",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1622",
+      "en": "LD1622",
+      "slug": "ld1622-mv010043"
+    },
+    "code": {
+      "id": "MV010043",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.378",
+      "lon": "73.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010044",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1623",
+      "en": "LD1623",
+      "slug": "ld1623-mv010044"
+    },
+    "code": {
+      "id": "MV010044",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.508",
+      "lon": "73.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010045",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "LD1624",
+      "en": "LD1624",
+      "slug": "ld1624-mv010045"
+    },
+    "code": {
+      "id": "MV010045",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.635",
+      "lon": "73.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010005",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ރަކީދޫ",
+      "en": "Rakeedhoo",
+      "slug": "rakeedhoo-mv010005"
+    },
+    "code": {
+      "id": "MV010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.315",
+      "lon": "73.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010002",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ތިނަދޫ",
+      "en": "Thinadhoo",
+      "slug": "thinadhoo-mv010002"
+    },
+    "code": {
+      "id": "MV010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.488",
+      "lon": "73.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010046",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ތުނޑުހުރާ",
+      "en": "Thun'duhuraa",
+      "slug": "thunduhuraa-mv010046"
+    },
+    "code": {
+      "id": "MV010046",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.343",
+      "lon": "73.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010047",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވަށުގިރި",
+      "en": "Vashugiri",
+      "slug": "vashugiri-mv010047"
+    },
+    "code": {
+      "id": "MV010047",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.63",
+      "lon": "73.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV010048",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވައްޓަރު",
+      "en": "Vattaru",
+      "slug": "vattaru-mv010048"
+    },
+    "code": {
+      "id": "MV010048",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV010",
+        "level": 1,
+        "name": {
+          "local": "ފެލިދުއަތޮޅު",
+          "en": "Vaavu",
+          "slug": "vaavu-mv010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.222",
+      "lon": "73.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

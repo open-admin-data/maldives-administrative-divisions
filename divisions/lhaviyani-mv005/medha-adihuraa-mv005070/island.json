@@ -1,0 +1,45 @@
+{
+  "id": "MV005070",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "މެދައަޑިހުރާ",
+    "en": "Medha Adihuraa",
+    "slug": "medha-adihuraa-mv005070"
+  },
+  "code": {
+    "id": "MV005070",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.541",
+    "lon": "73.503"
+  },
+  "metadata": {},
+  "source": {}
+}

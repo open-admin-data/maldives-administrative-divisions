@@ -1,0 +1,45 @@
+{
+  "id": "MV008011",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ބަތަލާ",
+    "en": "Bathalaa",
+    "slug": "bathalaa-mv008011"
+  },
+  "code": {
+    "id": "MV008011",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV008",
+    "level": 1,
+    "name": {
+      "local": "އަރިއަތޮޅު އުތުރުބުރި",
+      "en": "Alifu Alifu",
+      "slug": "alifu-alifu-mv008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV008",
+      "level": 1,
+      "name": {
+        "local": "އަރިއަތޮޅު އުތުރުބުރި",
+        "en": "Alifu Alifu",
+        "slug": "alifu-alifu-mv008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.07",
+    "lon": "72.946"
+  },
+  "metadata": {},
+  "source": {}
+}

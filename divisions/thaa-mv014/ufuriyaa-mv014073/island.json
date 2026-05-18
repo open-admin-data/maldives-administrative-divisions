@@ -1,0 +1,45 @@
+{
+  "id": "MV014073",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އުފުރިޔާ",
+    "en": "Ufuriyaa",
+    "slug": "ufuriyaa-mv014073"
+  },
+  "code": {
+    "id": "MV014073",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV014",
+    "level": 1,
+    "name": {
+      "local": "ކޮޅުމަޑުލު",
+      "en": "Thaa",
+      "slug": "thaa-mv014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV014",
+      "level": 1,
+      "name": {
+        "local": "ކޮޅުމަޑުލު",
+        "en": "Thaa",
+        "slug": "thaa-mv014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.362",
+    "lon": "73.362"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV009035",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ފަރިތަރިހުރާ",
+    "en": "Faritharihuraa",
+    "slug": "faritharihuraa-mv009035"
+  },
+  "code": {
+    "id": "MV009035",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV009",
+    "level": 1,
+    "name": {
+      "local": "މާލެއަތޮޅު",
+      "en": "Kaafu",
+      "slug": "kaafu-mv009"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV009",
+      "level": 1,
+      "name": {
+        "local": "މާލެއަތޮޅު",
+        "en": "Kaafu",
+        "slug": "kaafu-mv009"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.614",
+    "lon": "73.57"
+  },
+  "metadata": {},
+  "source": {}
+}

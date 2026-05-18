@@ -1,0 +1,45 @@
+{
+  "id": "MV005015",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ދިރުނބާހުރާ",
+    "en": "Dhirun'baahuraa",
+    "slug": "dhirunbaahuraa-mv005015"
+  },
+  "code": {
+    "id": "MV005015",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.354",
+    "lon": "73.659"
+  },
+  "metadata": {},
+  "source": {}
+}

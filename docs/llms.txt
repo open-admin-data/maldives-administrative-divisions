@@ -1,0 +1,92 @@
+# Maldives Administrative Divisions
+
+> Open dataset of Maldives's administrative hierarchy:
+> 21 atolls, 1,556 islands.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total atolls: 21
+- Total islands: 1,556
+- Coordinates: included (all levels)
+- Last updated: 2026-05-18
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All atolls (JSON)](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/data/all-atoll.json)
+- [All islands (JSON)](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/data/all-island.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/data/schema.json)
+
+## Browse by Atoll
+
+- [Alifu Alifu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/alifu-alifu-mv008/) — 46 islands
+- [Alifu Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/alifu-dhaalu-mv020/) — 81 islands
+- [Baa](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/baa-mv007/) — 118 islands
+- [Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/dhaalu-mv012/) — 69 islands
+- [Faafu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/faafu-mv011/) — 33 islands
+- [Gaafu Alifu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/gaafu-alifu-mv016/) — 104 islands
+- [Gaafu Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/gaafu-dhaalu-mv017/) — 170 islands
+- [Gnaviyani](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/gnaviyani-mv018/) — 1 islands
+- [Haa Alifu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/haa-alifu-mv001/) — 43 islands
+- [Haa Dhaalu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/haa-dhaalu-mv002/) — 36 islands
+- [Kaafu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/kaafu-mv009/) — 195 islands
+- [Laamu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/laamu-mv015/) — 90 islands
+- [Lhaviyani](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/lhaviyani-mv005/) — 81 islands
+- [Male](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/male-mv021/) — 3 islands
+- [Meemu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/meemu-mv013/) — 67 islands
+- [Noonu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/noonu-mv004/) — 80 islands
+- [Raa](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/raa-mv006/) — 117 islands
+- [Seenu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/seenu-mv019/) — 40 islands
+- [Shaviyani](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/shaviyani-mv003/) — 59 islands
+- [Thaa](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/thaa-mv014/) — 75 islands
+- [Vaavu](https://github.com/open-admin-data/maldives-administrative-divisions/tree/main/divisions/vaavu-mv010/) — 48 islands
+
+## Per-Atoll Full Data
+
+- [Alifu Alifu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/alifu-alifu-mv008.txt)
+- [Alifu Dhaalu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/alifu-dhaalu-mv020.txt)
+- [Baa](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/baa-mv007.txt)
+- [Dhaalu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/dhaalu-mv012.txt)
+- [Faafu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/faafu-mv011.txt)
+- [Gaafu Alifu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/gaafu-alifu-mv016.txt)
+- [Gaafu Dhaalu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/gaafu-dhaalu-mv017.txt)
+- [Gnaviyani](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/gnaviyani-mv018.txt)
+- [Haa Alifu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/haa-alifu-mv001.txt)
+- [Haa Dhaalu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/haa-dhaalu-mv002.txt)
+- [Kaafu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/kaafu-mv009.txt)
+- [Laamu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/laamu-mv015.txt)
+- [Lhaviyani](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/lhaviyani-mv005.txt)
+- [Male](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/male-mv021.txt)
+- [Meemu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/meemu-mv013.txt)
+- [Noonu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/noonu-mv004.txt)
+- [Raa](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/raa-mv006.txt)
+- [Seenu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/seenu-mv019.txt)
+- [Shaviyani](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/shaviyani-mv003.txt)
+- [Thaa](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/thaa-mv014.txt)
+- [Vaavu](https://raw.githubusercontent.com/open-admin-data/maldives-administrative-divisions/main/docs/llms-full/vaavu-mv010.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (atoll), 2 (island)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Maldives Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/maldives-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

@@ -1,0 +1,45 @@
+{
+  "id": "MV010004",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ކެޔޮދޫ",
+    "en": "Keyodhoo",
+    "slug": "keyodhoo-mv010004"
+  },
+  "code": {
+    "id": "MV010004",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV010",
+    "level": 1,
+    "name": {
+      "local": "ފެލިދުއަތޮޅު",
+      "en": "Vaavu",
+      "slug": "vaavu-mv010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV010",
+      "level": 1,
+      "name": {
+        "local": "ފެލިދުއަތޮޅު",
+        "en": "Vaavu",
+        "slug": "vaavu-mv010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.462",
+    "lon": "73.55"
+  },
+  "metadata": {},
+  "source": {}
+}

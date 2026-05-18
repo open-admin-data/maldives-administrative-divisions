@@ -1,0 +1,45 @@
+{
+  "id": "MV021002",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވިލިނގިލި",
+    "en": "Vilin'gili",
+    "slug": "vilingili-mv021002"
+  },
+  "code": {
+    "id": "MV021002",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV021",
+    "level": 1,
+    "name": {
+      "local": "މާލެ ސިޓީ",
+      "en": "Male",
+      "slug": "male-mv021"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV021",
+      "level": 1,
+      "name": {
+        "local": "މާލެ ސިޓީ",
+        "en": "Male",
+        "slug": "male-mv021"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.174",
+    "lon": "73.485"
+  },
+  "metadata": {},
+  "source": {}
+}

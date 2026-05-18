@@ -1,0 +1,29 @@
+{
+  "id": "MV005",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ފާދިއްޕޮޅު",
+    "en": "Lhaviyani",
+    "slug": "lhaviyani-mv005"
+  },
+  "code": {
+    "id": "MV005",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.401",
+    "lon": "73.498"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "MV005081",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "ވިހަފަރުފިނޮޅު",
+    "en": "Vihafarufinolhu",
+    "slug": "vihafarufinolhu-mv005081"
+  },
+  "code": {
+    "id": "MV005081",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV005",
+    "level": 1,
+    "name": {
+      "local": "ފާދިއްޕޮޅު",
+      "en": "Lhaviyani",
+      "slug": "lhaviyani-mv005"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV005",
+      "level": 1,
+      "name": {
+        "local": "ފާދިއްޕޮޅު",
+        "en": "Lhaviyani",
+        "slug": "lhaviyani-mv005"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.456",
+    "lon": "73.582"
+  },
+  "metadata": {},
+  "source": {}
+}

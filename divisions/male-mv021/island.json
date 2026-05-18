@@ -1,0 +1,137 @@
+[
+  {
+    "id": "MV021003",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Hulhumaale",
+      "en": "Hulhumaale",
+      "slug": "hulhumaale-mv021003"
+    },
+    "code": {
+      "id": "MV021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV021",
+      "level": 1,
+      "name": {
+        "local": "މާލެ ސިޓީ",
+        "en": "Male",
+        "slug": "male-mv021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV021",
+        "level": 1,
+        "name": {
+          "local": "މާލެ ސިޓީ",
+          "en": "Male",
+          "slug": "male-mv021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.221",
+      "lon": "73.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV021001",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "Maale",
+      "en": "Maale",
+      "slug": "maale-mv021001"
+    },
+    "code": {
+      "id": "MV021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV021",
+      "level": 1,
+      "name": {
+        "local": "މާލެ ސިޓީ",
+        "en": "Male",
+        "slug": "male-mv021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV021",
+        "level": 1,
+        "name": {
+          "local": "މާލެ ސިޓީ",
+          "en": "Male",
+          "slug": "male-mv021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.175",
+      "lon": "73.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MV021002",
+    "level": 2,
+    "level_name": {
+      "local": "ރަށް",
+      "en": "Island"
+    },
+    "name": {
+      "local": "ވިލިނގިލި",
+      "en": "Vilin'gili",
+      "slug": "vilingili-mv021002"
+    },
+    "code": {
+      "id": "MV021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MV021",
+      "level": 1,
+      "name": {
+        "local": "މާލެ ސިޓީ",
+        "en": "Male",
+        "slug": "male-mv021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MV021",
+        "level": 1,
+        "name": {
+          "local": "މާލެ ސިޓީ",
+          "en": "Male",
+          "slug": "male-mv021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.174",
+      "lon": "73.485"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "MV001019",
+  "level": 2,
+  "level_name": {
+    "local": "ރަށް",
+    "en": "Island"
+  },
+  "name": {
+    "local": "އަލިދުއްފަރުފިނޮޅު",
+    "en": "Alidhuffarufinolhu",
+    "slug": "alidhuffarufinolhu-mv001019"
+  },
+  "code": {
+    "id": "MV001019",
+    "iso": null
+  },
+  "parent": {
+    "id": "MV001",
+    "level": 1,
+    "name": {
+      "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+      "en": "Haa Alifu",
+      "slug": "haa-alifu-mv001"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MV001",
+      "level": 1,
+      "name": {
+        "local": "ތިލަދުންމަތީ އުތުރުބުރި",
+        "en": "Haa Alifu",
+        "slug": "haa-alifu-mv001"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.861",
+    "lon": "73.104"
+  },
+  "metadata": {},
+  "source": {}
+}

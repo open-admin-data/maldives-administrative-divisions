@@ -1,0 +1,29 @@
+{
+  "id": "MV015",
+  "level": 1,
+  "level_name": {
+    "local": "އަތޮޅު",
+    "en": "Atoll"
+  },
+  "name": {
+    "local": "ހައްދުންމަތި",
+    "en": "Laamu",
+    "slug": "laamu-mv015"
+  },
+  "code": {
+    "id": "MV015",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "island": 90
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.956",
+    "lon": "73.399"
+  },
+  "metadata": {},
+  "source": {}
+}

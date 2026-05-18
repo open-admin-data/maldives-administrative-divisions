@@ -1,0 +1,24 @@
+# Male — Maldives Administrative Divisions
+
+> 3 islands
+> Code: MV021
+> Coordinates: 4.175, 73.51
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### Hulhumaale
+
+Code: MV021003, Coordinates: 4.221, 73.543
+
+
+### Maale
+
+Code: MV021001, Coordinates: 4.175, 73.51
+
+
+### ވިލިނގިލި (Vilin&#39;gili)
+
+Code: MV021002, Coordinates: 4.174, 73.485
+
+

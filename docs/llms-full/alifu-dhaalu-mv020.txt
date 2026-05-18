@@ -1,0 +1,414 @@
+# Alifu Dhaalu — Maldives Administrative Divisions
+
+> 81 islands
+> Code: MV020
+> Coordinates: 3.686, 72.841
+> Last updated: 2026-05-18. License: CC-BY-4.0.
+
+## Islands
+
+### އަންގާގައު (Angaagau)
+
+Code: MV020011, Coordinates: 3.652, 72.822
+
+
+### އަރިޔަދޫ (Ariyadhoo)
+
+Code: MV020012, Coordinates: 3.475, 72.855
+
+
+### އަތުލިވަރުފިނޮޅު (Athulivarufinolhu)
+
+Code: MV020013, Coordinates: 3.648, 72.956
+
+
+### އަތުރުގައު (Athurugau)
+
+Code: MV020014, Coordinates: 3.887, 72.816
+
+
+### ބޮޑުފިނޮޅު (Bodufinolhu)
+
+Code: MV020015, Coordinates: 3.496, 72.759
+
+
+### ބޮޑުކާށިހުރާ (Bodukaashihuraa)
+
+Code: MV020016, Coordinates: 3.876, 72.955
+
+
+### ބުޅަޅޮހި (Bulhalhohi)
+
+Code: MV020017, Coordinates: 3.739, 72.732
+
+
+### ދަނގެތި (Dhan&#39;gethi)
+
+Code: MV020006, Coordinates: 3.608, 72.956
+
+
+### ދިއްފުށި (Dhiffushi)
+
+Code: MV020018, Coordinates: 3.475, 72.825
+
+
+### ދިއްގިރި (Dhiggiri)
+
+Code: MV020019, Coordinates: 3.858, 72.915
+
+
+### ދިގުރަށް (Dhigurah)
+
+Code: MV020007, Coordinates: 3.525, 72.923
+
+
+### ދިއްދޫ (Dhihdhoo)
+
+Code: MV020009, Coordinates: 3.485, 72.876
+
+
+### ދިއްދޫފިނޮޅު (Dhihdhoofinolhu)
+
+Code: MV020020, Coordinates: 3.499, 72.896
+
+
+### އެނބޫދޫ (En&#39;boodhoo)
+
+Code: MV020021, Coordinates: 3.815, 72.753
+
+
+### ފެންފުށި (Fenfushi)
+
+Code: MV020008, Coordinates: 3.489, 72.785
+
+
+### ފުށިދިއްގަ (Fushidhigga)
+
+Code: MV020022, Coordinates: 3.758, 72.771
+
+
+### ހަންޏާމީދޫ (Hangnaameedhoo)
+
+Code: MV020001, Coordinates: 3.849, 72.955
+
+
+### ހީންފަރު (Heenfaru)
+
+Code: MV020023, Coordinates: 3.819, 72.829
+
+
+### ހިޔަފުށި (Hiyafushi)
+
+Code: MV020024, Coordinates: 3.479, 72.87
+
+
+### ހުކުރުދޫ (Hukurudhoo)
+
+Code: MV020025, Coordinates: 3.57, 72.719
+
+
+### ހުރަސްދޫ (Hurasdhoo)
+
+Code: MV020026, Coordinates: 3.667, 72.775
+
+
+### ހުރުއެޅި (Huruelhi)
+
+Code: MV020027, Coordinates: 3.544, 72.72
+
+
+### ހުވަހެންދޫ (Huvahendhoo)
+
+Code: MV020028, Coordinates: 3.654, 72.954
+
+
+### އިންނަފުށި (Innafushi)
+
+Code: MV020029, Coordinates: 3.798, 72.733
+
+
+### ކަޅަހަނދިހުރާ (Kalhahan&#39;dhihuraa)
+
+Code: MV020030, Coordinates: 3.798, 72.711
+
+
+### ކުޑަދޫ (Kudadhoo)
+
+Code: MV020031, Coordinates: 3.479, 72.872
+
+
+### ކުޑަރަށް (Kudarah)
+
+Code: MV020032, Coordinates: 3.574, 72.911
+
+
+### ކުނބުރުދޫ (Kun&#39;burudhoo)
+
+Code: MV020003, Coordinates: 3.775, 72.925
+
+
+### LD0364
+
+Code: MV020033, Coordinates: 3.768, 72.972
+
+
+### LD0579
+
+Code: MV020034, Coordinates: 3.757, 72.964
+
+
+### LD1336
+
+Code: MV020035, Coordinates: 3.591, 72.867
+
+
+### LD1338
+
+Code: MV020036, Coordinates: 3.709, 72.789
+
+
+### LD1339
+
+Code: MV020037, Coordinates: 3.866, 72.744
+
+
+### LD1340
+
+Code: MV020038, Coordinates: 3.89, 72.89
+
+
+### LD1341
+
+Code: MV020039, Coordinates: 3.902, 72.898
+
+
+### LD1348
+
+Code: MV020040, Coordinates: 3.856, 72.941
+
+
+### LD1350
+
+Code: MV020041, Coordinates: 3.715, 72.98
+
+
+### LD1351
+
+Code: MV020042, Coordinates: 3.7, 72.98
+
+
+### LD1584
+
+Code: MV020043, Coordinates: 3.634, 72.964
+
+
+### LD1585
+
+Code: MV020044, Coordinates: 3.852, 72.742
+
+
+### LD1586
+
+Code: MV020045, Coordinates: 3.629, 72.96
+
+
+### LD1587
+
+Code: MV020046, Coordinates: 3.629, 72.959
+
+
+### LD1588
+
+Code: MV020047, Coordinates: 3.61, 72.917
+
+
+### LD1589
+
+Code: MV020048, Coordinates: 3.539, 72.831
+
+
+### LD1590
+
+Code: MV020049, Coordinates: 3.53, 72.884
+
+
+### LD1591
+
+Code: MV020050, Coordinates: 3.553, 72.893
+
+
+### LD1592
+
+Code: MV020051, Coordinates: 3.574, 72.868
+
+
+### LD1593
+
+Code: MV020052, Coordinates: 3.603, 72.816
+
+
+### LD1594
+
+Code: MV020053, Coordinates: 3.612, 72.941
+
+
+### LD1595
+
+Code: MV020054, Coordinates: 3.789, 72.726
+
+
+### LD1596
+
+Code: MV020055, Coordinates: 3.612, 72.958
+
+
+### LD1597
+
+Code: MV020056, Coordinates: 3.612, 72.958
+
+
+### LD1598
+
+Code: MV020057, Coordinates: 3.757, 72.974
+
+
+### LD1599
+
+Code: MV020058, Coordinates: 3.488, 72.802
+
+
+### LD1600
+
+Code: MV020059, Coordinates: 3.487, 72.793
+
+
+### LD1601
+
+Code: MV020060, Coordinates: 3.478, 72.871
+
+
+### LD1602
+
+Code: MV020061, Coordinates: 3.592, 72.881
+
+
+### LD1603
+
+Code: MV020062, Coordinates: 3.879, 72.732
+
+
+### LD1604
+
+Code: MV020063, Coordinates: 3.486, 72.793
+
+
+### LD1605
+
+Code: MV020064, Coordinates: 3.487, 72.794
+
+
+### LD1606
+
+Code: MV020065, Coordinates: 3.515, 72.917
+
+
+### LD1607
+
+Code: MV020066, Coordinates: 3.515, 72.916
+
+
+### ލޮނުބޮއި (Lonuboi)
+
+Code: MV020067, Coordinates: 3.603, 72.901
+
+
+### މާފުށިވަރު (Maafushivaru)
+
+Code: MV020068, Coordinates: 3.608, 72.9
+
+
+### މާމިނގިލި (Maamin&#39;gili)
+
+Code: MV020010, Coordinates: 3.476, 72.837
+
+
+### މައްޗަފުށި (Mahchafushi)
+
+Code: MV020069, Coordinates: 3.594, 72.884
+
+
+### މަހިބަދޫ (Mahibadhoo)
+
+Code: MV020004, Coordinates: 3.757, 72.969
+
+
+### މަންދޫ (Mandhoo)
+
+Code: MV020005, Coordinates: 3.698, 72.71
+
+
+### މިރިހި (Mirihi)
+
+Code: MV020070, Coordinates: 3.62, 72.781
+
+
+### މޫފުށި (Moofushi)
+
+Code: MV020071, Coordinates: 3.885, 72.728
+
+
+### ނަލަގުރައިދޫ (Nalaguraidhoo)
+
+Code: MV020072, Coordinates: 3.483, 72.802
+
+
+### އޮމަދޫ (Omadhoo)
+
+Code: MV020002, Coordinates: 3.792, 72.963
+
+
+### ރަންފިނޮޅު (Ranfinolhu)
+
+Code: MV020073, Coordinates: 3.611, 72.727
+
+
+### ރަންގަލީފިނޮޅު (Rangaleefinolhu)
+
+Code: MV020074, Coordinates: 3.617, 72.716
+
+
+### ރަންގަލި (Rangali)
+
+Code: MV020075, Coordinates: 3.618, 72.723
+
+
+### ތެލުވެލިގާ (Theluveligaa)
+
+Code: MV020076, Coordinates: 3.67, 72.903
+
+
+### ތޮޅިފުށި (Tholhifushi)
+
+Code: MV020077, Coordinates: 3.485, 72.79
+
+
+### ތުނޑުފުށި (Thun&#39;dufushi)
+
+Code: MV020078, Coordinates: 3.786, 72.731
+
+
+### ވަކަރުފަޅި (Vakarufalhi)
+
+Code: MV020079, Coordinates: 3.579, 72.902
+
+
+### ވިލަމެންދޫ (Vilamendhoo)
+
+Code: MV020080, Coordinates: 3.634, 72.959
+
+
+### ވިލިނގިލިވަރު (Vilin&#39;gilivaru)
+
+Code: MV020081, Coordinates: 3.619, 72.955
+
+
