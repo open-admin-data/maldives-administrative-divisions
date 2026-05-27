@@ -3,7 +3,7 @@
 > 81 islands
 > Code: MV020
 > Coordinates: 3.686, 72.841
-> Last updated: 2026-05-18. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Islands
 

@@ -3,7 +3,7 @@
 > 46 islands
 > Code: MV008
 > Coordinates: 4.095, 72.831
-> Last updated: 2026-05-18. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Islands
 
