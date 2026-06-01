@@ -25,5 +25,9 @@
     "lon": "73.409"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/vaavu-mv010/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

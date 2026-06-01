@@ -3,7 +3,7 @@
 > 33 islands
 > Code: MV011
 > Coordinates: 3.188, 72.932
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Islands
 

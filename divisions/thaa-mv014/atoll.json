@@ -25,5 +25,9 @@
     "lon": "73.134"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/thaa-mv014/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

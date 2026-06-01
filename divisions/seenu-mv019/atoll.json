@@ -25,5 +25,9 @@
     "lon": "73.163"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/seenu-mv019/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

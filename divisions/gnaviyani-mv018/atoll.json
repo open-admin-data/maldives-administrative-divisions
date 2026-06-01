@@ -25,5 +25,9 @@
     "lon": "73.431"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/gnaviyani-mv018/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

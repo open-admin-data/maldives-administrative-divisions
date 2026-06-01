@@ -25,5 +25,9 @@
     "lon": "73.316"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/noonu-mv004/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

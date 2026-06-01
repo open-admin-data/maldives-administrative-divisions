@@ -25,5 +25,9 @@
     "lon": "72.977"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/baa-mv007/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

@@ -3,7 +3,7 @@
 > 195 islands
 > Code: MV009
 > Coordinates: 4.437, 73.536
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Islands
 

@@ -25,5 +25,9 @@
     "lon": "72.841"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/alifu-dhaalu-mv020/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

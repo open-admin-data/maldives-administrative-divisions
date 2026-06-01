@@ -25,5 +25,9 @@
     "lon": "73.498"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/lhaviyani-mv005/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

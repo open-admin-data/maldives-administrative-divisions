@@ -25,5 +25,9 @@
     "lon": "72.979"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/haa-dhaalu-mv002/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

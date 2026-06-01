@@ -25,5 +25,9 @@
     "lon": "73.536"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/kaafu-mv009/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

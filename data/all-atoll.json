@@ -26,7 +26,11 @@
       "lon": "72.831"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/alifu-alifu-mv008/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV020",
@@ -55,7 +59,11 @@
       "lon": "72.841"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/alifu-dhaalu-mv020/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV007",
@@ -84,7 +92,11 @@
       "lon": "72.977"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/baa-mv007/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV012",
@@ -113,7 +125,11 @@
       "lon": "72.929"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/dhaalu-mv012/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV011",
@@ -142,7 +158,11 @@
       "lon": "72.932"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/faafu-mv011/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV016",
@@ -171,7 +191,11 @@
       "lon": "73.282"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/gaafu-alifu-mv016/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV017",
@@ -200,7 +224,11 @@
       "lon": "73.233"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/gaafu-dhaalu-mv017/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV018",
@@ -229,7 +257,11 @@
       "lon": "73.431"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/gnaviyani-mv018/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV001",
@@ -258,7 +290,11 @@
       "lon": "72.92"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/haa-alifu-mv001/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV002",
@@ -287,7 +323,11 @@
       "lon": "72.979"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/haa-dhaalu-mv002/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV009",
@@ -316,7 +356,11 @@
       "lon": "73.536"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/kaafu-mv009/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV015",
@@ -345,7 +389,11 @@
       "lon": "73.399"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/laamu-mv015/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV005",
@@ -374,7 +422,11 @@
       "lon": "73.498"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/lhaviyani-mv005/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV021",
@@ -403,7 +455,11 @@
       "lon": "73.51"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/male-mv021/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV013",
@@ -432,7 +488,11 @@
       "lon": "73.494"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/meemu-mv013/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV004",
@@ -461,7 +521,11 @@
       "lon": "73.316"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/noonu-mv004/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV006",
@@ -490,7 +554,11 @@
       "lon": "72.938"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/raa-mv006/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV019",
@@ -519,7 +587,11 @@
       "lon": "73.163"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/seenu-mv019/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV003",
@@ -548,7 +620,11 @@
       "lon": "73.135"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/shaviyani-mv003/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV014",
@@ -577,7 +653,11 @@
       "lon": "73.134"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/thaa-mv014/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   },
   {
     "id": "MV010",
@@ -606,6 +686,10 @@
       "lon": "73.409"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/mv/atolls/vaavu-mv010/",
+      "api": "https://openadmindata.org/api/mv/"
+    }
   }
 ]

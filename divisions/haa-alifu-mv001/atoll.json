@@ -25,5 +25,9 @@
     "lon": "72.92"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/haa-alifu-mv001/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

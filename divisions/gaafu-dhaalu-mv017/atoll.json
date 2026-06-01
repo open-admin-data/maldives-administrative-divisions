@@ -25,5 +25,9 @@
     "lon": "73.233"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/gaafu-dhaalu-mv017/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

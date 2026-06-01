@@ -25,5 +25,9 @@
     "lon": "72.932"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/faafu-mv011/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

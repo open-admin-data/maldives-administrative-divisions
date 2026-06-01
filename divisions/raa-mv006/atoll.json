@@ -25,5 +25,9 @@
     "lon": "72.938"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mv/atolls/raa-mv006/",
+    "api": "https://openadmindata.org/api/mv/"
+  }
 }

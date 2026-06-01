@@ -1,22 +1,23 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.atoll,children_count.island,zip_codes,geo.lat,geo.lon
-MV001,1,އަތޮޅު,Atoll,ތިލަދުންމަތީ އުތުރުބުރި,Haa Alifu,haa-alifu-mv001,MV001,,,,,,43,,7.012,72.92
-MV002,1,އަތޮޅު,Atoll,ތިލަދުންމަތީ ދެކުނުބުރީ,Haa Dhaalu,haa-dhaalu-mv002,MV002,,,,,,36,,6.653,72.979
-MV003,1,އަތޮޅު,Atoll,މިލަދުންމަޑުލު އުތުރުބުރި,Shaviyani,shaviyani-mv003,MV003,,,,,,59,,6.23,73.135
-MV004,1,އަތޮޅު,Atoll,މިލަދުންމަޑުލު ދެކުނުބުރި,Noonu,noonu-mv004,MV004,,,,,,80,,5.822,73.316
-MV005,1,އަތޮޅު,Atoll,ފާދިއްޕޮޅު,Lhaviyani,lhaviyani-mv005,MV005,,,,,,81,,5.401,73.498
-MV006,1,އަތޮޅު,Atoll,މާޅޮސްމަޑުލު އުތުރުބުރި,Raa,raa-mv006,MV006,,,,,,117,,5.623,72.938
-MV007,1,އަތޮޅު,Atoll,މާޅޮސްމަޑުލު ދެކުނުބުރި,Baa,baa-mv007,MV007,,,,,,118,,5.143,72.977
-MV008,1,އަތޮޅު,Atoll,އަރިއަތޮޅު އުތުރުބުރި,Alifu Alifu,alifu-alifu-mv008,MV008,,,,,,46,,4.095,72.831
-MV009,1,އަތޮޅު,Atoll,މާލެއަތޮޅު,Kaafu,kaafu-mv009,MV009,,,,,,195,,4.437,73.536
-MV010,1,އަތޮޅު,Atoll,ފެލިދުއަތޮޅު,Vaavu,vaavu-mv010,MV010,,,,,,48,,3.494,73.409
-MV011,1,އަތޮޅު,Atoll,ނިލަންދެއަތޮޅު އުތުރުބުރި,Faafu,faafu-mv011,MV011,,,,,,33,,3.188,72.932
-MV012,1,އަތޮޅު,Atoll,ނިލަންދެއަތޮޅު ދެކުނުބުރި,Dhaalu,dhaalu-mv012,MV012,,,,,,69,,2.834,72.929
-MV013,1,އަތޮޅު,Atoll,މުލަކަތޮޅު,Meemu,meemu-mv013,MV013,,,,,,67,,2.961,73.494
-MV014,1,އަތޮޅު,Atoll,ކޮޅުމަޑުލު,Thaa,thaa-mv014,MV014,,,,,,75,,2.362,73.134
-MV015,1,އަތޮޅު,Atoll,ހައްދުންމަތި,Laamu,laamu-mv015,MV015,,,,,,90,,1.956,73.399
-MV016,1,އަތޮޅު,Atoll,ހުވަދު އަތޮޅު އުތުރުބުރި,Gaafu Alifu,gaafu-alifu-mv016,MV016,,,,,,104,,0.634,73.282
-MV017,1,އަތޮޅު,Atoll,ހުވަދު އަތޮޅު ދެކުނުބުރި,Gaafu Dhaalu,gaafu-dhaalu-mv017,MV017,,,,,,170,,0.379,73.233
-MV018,1,އަތޮޅު,Atoll,ފުވައްމުލައް,Gnaviyani,gnaviyani-mv018,MV018,,,,,,1,,-0.303,73.431
-MV019,1,އަތޮޅު,Atoll,އައްޑުއަތޮޅު,Seenu,seenu-mv019,MV019,,,,,,40,,-0.642,73.163
-MV020,1,އަތޮޅު,Atoll,އަރިއަތޮޅު ދެކުނުބުރި,Alifu Dhaalu,alifu-dhaalu-mv020,MV020,,,,,,81,,3.686,72.841
-MV021,1,އަތޮޅު,Atoll,މާލެ ސިޓީ,Male,male-mv021,MV021,,,,,,3,,4.175,73.51
+# Data from Open Admin Data (https://openadmindata.org/mv/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/maldives-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.atoll,children_count.island,zip_codes,geo.lat,geo.lon,source_url
+MV001,1,އަތޮޅު,Atoll,ތިލަދުންމަތީ އުތުރުބުރި,Haa Alifu,haa-alifu-mv001,MV001,,,,,,43,,7.012,72.92,https://openadmindata.org/mv/atolls/haa-alifu-mv001/
+MV002,1,އަތޮޅު,Atoll,ތިލަދުންމަތީ ދެކުނުބުރީ,Haa Dhaalu,haa-dhaalu-mv002,MV002,,,,,,36,,6.653,72.979,https://openadmindata.org/mv/atolls/haa-dhaalu-mv002/
+MV003,1,އަތޮޅު,Atoll,މިލަދުންމަޑުލު އުތުރުބުރި,Shaviyani,shaviyani-mv003,MV003,,,,,,59,,6.23,73.135,https://openadmindata.org/mv/atolls/shaviyani-mv003/
+MV004,1,އަތޮޅު,Atoll,މިލަދުންމަޑުލު ދެކުނުބުރި,Noonu,noonu-mv004,MV004,,,,,,80,,5.822,73.316,https://openadmindata.org/mv/atolls/noonu-mv004/
+MV005,1,އަތޮޅު,Atoll,ފާދިއްޕޮޅު,Lhaviyani,lhaviyani-mv005,MV005,,,,,,81,,5.401,73.498,https://openadmindata.org/mv/atolls/lhaviyani-mv005/
+MV006,1,އަތޮޅު,Atoll,މާޅޮސްމަޑުލު އުތުރުބުރި,Raa,raa-mv006,MV006,,,,,,117,,5.623,72.938,https://openadmindata.org/mv/atolls/raa-mv006/
+MV007,1,އަތޮޅު,Atoll,މާޅޮސްމަޑުލު ދެކުނުބުރި,Baa,baa-mv007,MV007,,,,,,118,,5.143,72.977,https://openadmindata.org/mv/atolls/baa-mv007/
+MV008,1,އަތޮޅު,Atoll,އަރިއަތޮޅު އުތުރުބުރި,Alifu Alifu,alifu-alifu-mv008,MV008,,,,,,46,,4.095,72.831,https://openadmindata.org/mv/atolls/alifu-alifu-mv008/
+MV009,1,އަތޮޅު,Atoll,މާލެއަތޮޅު,Kaafu,kaafu-mv009,MV009,,,,,,195,,4.437,73.536,https://openadmindata.org/mv/atolls/kaafu-mv009/
+MV010,1,އަތޮޅު,Atoll,ފެލިދުއަތޮޅު,Vaavu,vaavu-mv010,MV010,,,,,,48,,3.494,73.409,https://openadmindata.org/mv/atolls/vaavu-mv010/
+MV011,1,އަތޮޅު,Atoll,ނިލަންދެއަތޮޅު އުތުރުބުރި,Faafu,faafu-mv011,MV011,,,,,,33,,3.188,72.932,https://openadmindata.org/mv/atolls/faafu-mv011/
+MV012,1,އަތޮޅު,Atoll,ނިލަންދެއަތޮޅު ދެކުނުބުރި,Dhaalu,dhaalu-mv012,MV012,,,,,,69,,2.834,72.929,https://openadmindata.org/mv/atolls/dhaalu-mv012/
+MV013,1,އަތޮޅު,Atoll,މުލަކަތޮޅު,Meemu,meemu-mv013,MV013,,,,,,67,,2.961,73.494,https://openadmindata.org/mv/atolls/meemu-mv013/
+MV014,1,އަތޮޅު,Atoll,ކޮޅުމަޑުލު,Thaa,thaa-mv014,MV014,,,,,,75,,2.362,73.134,https://openadmindata.org/mv/atolls/thaa-mv014/
+MV015,1,އަތޮޅު,Atoll,ހައްދުންމަތި,Laamu,laamu-mv015,MV015,,,,,,90,,1.956,73.399,https://openadmindata.org/mv/atolls/laamu-mv015/
+MV016,1,އަތޮޅު,Atoll,ހުވަދު އަތޮޅު އުތުރުބުރި,Gaafu Alifu,gaafu-alifu-mv016,MV016,,,,,,104,,0.634,73.282,https://openadmindata.org/mv/atolls/gaafu-alifu-mv016/
+MV017,1,އަތޮޅު,Atoll,ހުވަދު އަތޮޅު ދެކުނުބުރި,Gaafu Dhaalu,gaafu-dhaalu-mv017,MV017,,,,,,170,,0.379,73.233,https://openadmindata.org/mv/atolls/gaafu-dhaalu-mv017/
+MV018,1,އަތޮޅު,Atoll,ފުވައްމުލައް,Gnaviyani,gnaviyani-mv018,MV018,,,,,,1,,-0.303,73.431,https://openadmindata.org/mv/atolls/gnaviyani-mv018/
+MV019,1,އަތޮޅު,Atoll,އައްޑުއަތޮޅު,Seenu,seenu-mv019,MV019,,,,,,40,,-0.642,73.163,https://openadmindata.org/mv/atolls/seenu-mv019/
+MV020,1,އަތޮޅު,Atoll,އަރިއަތޮޅު ދެކުނުބުރި,Alifu Dhaalu,alifu-dhaalu-mv020,MV020,,,,,,81,,3.686,72.841,https://openadmindata.org/mv/atolls/alifu-dhaalu-mv020/
+MV021,1,އަތޮޅު,Atoll,މާލެ ސިޓީ,Male,male-mv021,MV021,,,,,,3,,4.175,73.51,https://openadmindata.org/mv/atolls/male-mv021/
