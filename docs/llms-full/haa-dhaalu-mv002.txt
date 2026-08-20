@@ -3,7 +3,7 @@
 > 36 islands
 > Code: MV002
 > Coordinates: 6.653, 72.979
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Islands
 

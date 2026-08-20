@@ -3,7 +3,7 @@
 > 170 islands
 > Code: MV017
 > Coordinates: 0.379, 73.233
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Islands
 
