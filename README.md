@@ -13,11 +13,12 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/mv](https://openadmindata.org/mv/) |
 | API | [openadmindata.org/api/mv](https://openadmindata.org/api/mv/) |
 | Flag | [PNG](https://onlygames.me/flags-png/mv/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Maldives National Anthem MP3](https://onlygames.me/national-anthems/mv/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/mdv) · [Population](https://nationdata.org/population/country/mdv) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by Atoll
 

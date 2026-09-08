@@ -3,7 +3,7 @@
 > 59 islands
 > Code: MV003
 > Coordinates: 6.23, 73.135
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Islands
 
